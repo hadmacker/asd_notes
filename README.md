@@ -85,6 +85,11 @@ _The contents of this glossary may include terms not closely related to Autism S
 
 ## Elsewhere
 
+* [ASAN: Autistic Self Advocacy Network](https://autisticadvocacy.org/)
+* :negative_squared_cross_mark: Autism Speaks
+  * :warning: Autism Speaks not linked directly due to [controversy](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf) and [Wikipedia: damaging messaging](https://en.wikipedia.org/wiki/Autism_Speaks) and should be referenced with care.
+  * While this source may have some helpful content, individuals are encouraged to do their own research before seeking direction from this source.
+* [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
 
 # Toolkit
 
@@ -160,6 +165,8 @@ Do your own research here. A search engine query for "Did <person> have autism?"
 
 ## Others
 
+* [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
+* [Sharing an Autism Diagnosis with Family and Friends](https://childmind.org/article/sharing-an-autism-diagnosis-with-family-and-friends/)
 * [Understanding highly sensitive children (focusonthefamily.com)](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [Spectrum News](https://www.spectrumnews.org/)
   * Unverified source
@@ -178,3 +185,108 @@ Do your own research here. A search engine query for "Did <person> have autism?"
   * [Youtube: Facing Adversity with a Grin, Jason Arday](https://youtu.be/Y07EK4R_iEE)
 * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
   * While not about ASD or mental conditions, this science fiction short story is a personal favorite about the infinite flexibility of a child's mind to see the world differently.
+
+# Facts
+
+* [Drowning is the leading cause of death for children with ASD](https://www.publichealth.columbia.edu/public-health-now/news/individuals-autism-substantially-heightened-risk-injury-death)
+  > Our analysis reveals that children with autism are 160 times as likely to die from drowning as the general pediatric population.
+* According to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/ncbddd/autism/data.html), about 1 in 54 children in the United States has been identified with ASD. It is estimated to affect more than 70 million people worldwide.
+
+# Tactful Responses to Myths & Challenging Questions or Comments
+
+Several questions below come from [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
+
+:warning: Answers below marked "GPT" were provided from ChatGPT. Individuals should review these for correctness and clarity.
+
+## What special talent does he/she have?
+
+```
+GPT: Every person, regardless of whether they have a disability or not, is unique and has their own strengths and challenges. Instead of focusing on any perceived special talents or abilities, it's important to appreciate and respect individuals with autism for who they are as a whole person. I believe that every individual has something valuable to contribute, and it's important to focus on their abilities rather than their disabilities.
+
+```
+
+## Why can't you control your child?
+
+```
+GPT: Meltdowns are a common experience for many individuals with autism, and they can be very overwhelming and challenging to manage. It's important to understand that meltdowns are not a result of poor parenting or a lack of discipline, but rather a manifestation of the individual's unique sensory and emotional processing. Just like everyone else, individuals with autism have good days and bad days, and they may struggle to regulate their emotions and behavior during times of stress or overwhelm. Instead of blaming the individual or their family, it's important to offer understanding and support to help them navigate these difficult moments.
+
+```
+
+Also
+
+```
+GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
+
+```
+
+## He/She just needs a better attitude.
+
+## Why should your kid get special treatment?
+
+```
+GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
+
+```
+
+## Are you kidnapping that kid?
+
+```
+GPT: I understand that it may look unusual to see someone working closely with a child with autism, but we are not kidnapping anyone. We are working together to support the child's needs and help them develop skills and abilities that will enable them to navigate the world more effectively. Autism is a neurological condition that can make it challenging for individuals to communicate and interact with others, but with the right support and interventions, individuals with autism can lead fulfilling and meaningful lives. Instead of making assumptions or jumping to conclusions, it's important to approach situations like this with empathy and understanding.
+
+```
+
+## The "bad parent" glance
+
+```
+GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
+
+```
+
+## Will he/she grow out of it?
+
+```
+GPT: Autism is a lifelong neurodevelopmental condition, which means that it does not go away or disappear over time. However, with the right support and interventions, individuals with autism can learn to navigate the world more effectively and develop skills and abilities that will help them to thrive. It's important to focus on supporting individuals with autism rather than trying to "cure" or "fix" them, as they are valuable members of our society who deserve respect and understanding. By providing the right support and accommodations, we can help individuals with autism achieve their full potential and contribute to society in meaningful ways.
+
+```
+
+## They don't look autistic
+
+```
+GPT: Autism is a neurological condition that affects individuals in different ways, and there is no one-size-fits-all presentation of autism. Some individuals with autism may have more visible symptoms, while others may not show any outward signs at all. It's important to understand that every individual with autism is unique, and that the condition can manifest in a variety of ways. Just because someone doesn't fit the stereotypical image of autism doesn't mean that they don't have the condition or that they don't face unique challenges. Instead of making assumptions based on appearance, it's important to approach each individual with empathy and understanding, and to appreciate them for who they are as a whole person.
+
+```
+
+## Myths and Misconceptions
+
+### Myth: Autism is caused by bad parenting or neglect.
+
+:warning: Answers below marked "GPT" were provided from ChatGPT. Individuals should review these for correctness and clarity.
+
+```
+GPT: Actually, autism is a neurological condition that is present from birth and has a strong genetic component. While parenting can certainly have an impact on a child's development, it is not the cause of autism.
+```
+
+### Myth: People with autism lack empathy.
+
+```
+GPT: Actually, people with autism can experience and express empathy in their own unique ways. They may struggle with understanding social cues and nonverbal communication, but this does not mean they are incapable of empathy.
+```
+
+### Myth: Autism is a mental illness.
+
+```
+GPT: Actually, autism is a developmental disorder that affects communication, social interaction, and behavior. While it can co-occur with mental health conditions, it is not a mental illness in and of itself.
+```
+
+### Myth: Autism can be cured.
+
+```
+GPT: Actually, there is no cure for autism, but there are interventions and therapies that can help individuals with autism to develop skills and cope with challenges. It's important to focus on supporting individuals with autism rather than trying to "cure" them.
+```
+
+### Myth: Autism only affects boys.
+
+```
+GPT: Actually, autism affects people of all genders, although it is more commonly diagnosed in boys. This may be due in part to differences in how autism presents in boys versus girls, as well as biases in diagnostic criteria and assessment tools.
+```
+
