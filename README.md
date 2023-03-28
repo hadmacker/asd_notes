@@ -160,7 +160,9 @@ Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertp
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
 
-Do your own research here. A search engine query for "Did <person> have autism?" will result in some interesting search results. The book "The Autistic Mind" (Grandin) explains the history of Autism and how diagnosis has evolved from 1943 (Leo Kanner) to preset time (DSM-5, 2013) as the understanding of the condition has changed. It is believed that many of the individuals on this list might have an Autism diagnosis based on the current understanding of the condition.
+The book "The Autistic Mind" (Grandin) explains the history of Autism and how diagnosis has evolved from 1943 (Leo Kanner) to preset time (DSM-5, 2013) as the understanding of the condition has changed. It is believed that many of the individuals on this list might have an Autism diagnosis based on the current understanding of the condition.
+
+Individuals should research these people independently. A search engine query for "Did <person> have autism?" will result in apocryphal evidence to justify a diagnosis using the current understanding of the condition.
 
 * Nikola Tesla
   * A/C Electricity, A/C Motor, Radio-controlled robots
@@ -187,13 +189,17 @@ Do your own research here. A search engine query for "Did <person> have autism?"
 
 # Accomodations
 
-* Additional Breaks
+[Accommodations for Autism: 21 Best Recommendations for Learning](https://thehomeschoolresourceroom.com/2021/04/12/accommodations-autism/)
+
+* Additional breaks
 * Additional time to complete tasks
+* Allow verbal answers on tests, quizzes, open ended questions
 * Excused from class or work
+* Isolation when taking exams
+* No Sarcasm
+* Provide written transcriptions/copies of lectures and discussion
 * Quiet or sensory-safe rooms
 * Tutors, extra learing
-* Isolation when taking exams
-* An opportunity to re-do work or exams
 * (In the remote world) Allowed to disable video in chat.
 
 
