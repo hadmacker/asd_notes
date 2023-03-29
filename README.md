@@ -3,24 +3,25 @@
 
 # Glossary
 
-_The contents of this glossary may include terms not closely related to Autism Spectrum Disorder that have come up during personal investigation._
+_The contents of this glossary may include outdated terms, disproven theories, and terms not closely related to Autism Spectrum Disorder that have come up during personal investigation._
 
 * **ABA**: See Applied Behavioural Analysis therapy
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
   * [See: Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
-  * [Controvercy around ABA Therapy, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
+  * [Controversy around ABA Therapy, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
   * See also: _Masking_, _Scripts_.
 * **ASC**: Autism Spectrum Condition
   * Coined by: Angela Taylor (Inspire Community Outreach)
 * **ASD**: Autism Spectrum Disorder
 * **Asperger, Hans**: Autism research pioneer. His name was given to Asperger's syndrome, a form of autism defined in 1981 by Lorna Wing. [Wiki: Hans Asperger](https://en.wikipedia.org/wiki/Hans_Asperger)
 * **Autism Warrior Parent**: 
-  * [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
   > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.
+  > [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
 * **Aversives**: unpleasant stimuli that induce changes in behavior via negative reinforcement or positive punishment. [Wikipedia](https://en.wikipedia.org/wiki/Aversives). May be used in ABA therapy.
-* **Biology**: The branch of science that deals with living organisms and their vital processes
+* **Bruno Bettelheim**: An early Autism researcher and psychologist whose damaging research and theories were later discredited. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim)
+* **Biology**: The branch of science that deals with living organisms and their vital processes. 
 * **Brain**: The physical, biological organ consisting of nerve cells and can be physically touched. See _Mind_ for nuances.
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
   * Downs Syndrome is an example of a CNV
@@ -31,11 +32,15 @@ _The contents of this glossary may include terms not closely related to Autism S
   * DSM-IV: 1994. Added Aspergers syndrome under Autism
   * DSM-IV-R: 2000
   * DSM-V: 2013. Grouped Autism, Aspergers, PDD-NOS, childhood disintegrative disorder in a new "Autism Spectrum Disorder" classification.
+    * :warning: This grouping of disorders is one factor that contributes to an increase in Autism diagnosis statistics and comparison of statistics derived using different diagnostic criteria may be inaccurate or misleading. See also: Autism Speaks Controversies.
+* **Electroconvulsive Therapy**: Electroconvulsive Therapy [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/electroconvulsive-therapy/about/pac-20393894)
+  > Electroconvulsive therapy (ECT) is a procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure. ECT seems to cause changes in brain chemistry that can quickly reverse symptoms of certain mental health conditions.
 * **Etiology**: the cause or set of causes for a disease or condition
 * **GDD**: See Global Development Delay
 * **Genotype**: Genetic traits
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
 * **Heterogeneity**: Having diverse characteristics or content
+* **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia)
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
 * **ICD**: See International Classification of Diseases
 * **International Classification of Diseases** [WHO.int](https://icd.who.int/en)
@@ -52,7 +57,7 @@ _The contents of this glossary may include terms not closely related to Autism S
 * **Neurodivergent**: Describes people whose brain differences affect how their brain works. [See: cleveladclinic.org](https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent)
 * **Neurology**: Science of the physiology of the brain.
   * Neurologists (Neurology) and psychiatrists (Psychiatry) both work with conditions and diseases that affect the brain and mind. However, neurologists specialize in physiological illnesses, while psychiatrists specialize in psychological disorders
-* **Neurospicy**: A colloquial portmanteau synonym for Neurodivergent. See Neurodivergent
+* **Neurospicy**: A colloquial portmanteau synonym for Neurodivergent. See Neurodivergent.
 * **Neurotypical**: An individual with "normal" behaviour
 * **Nosology**: The branch of medical science dealing with the classification of diseases
   * Relevance: The changing diagnostic criteria and scope for individuals with Autism
@@ -64,10 +69,22 @@ _The contents of this glossary may include terms not closely related to Autism S
 * **Psychiatry**: The science of the _mind_ specializing in psychological (behavioural) disorders.
 * **Psychopathy**: Mental illness or disorder
 * **Scripts**: rehearsed patterns used by a neurodivergent individual to exhibit a neurotypical response to a situation. See also: _Masking_.
+* **Sullivan, Ruth Christ**: A founder of Autism Society of America (formerly National Society for Autistic Children, NSAC)[Wikipedia](https://en.wikipedia.org/wiki/Ruth_C._Sullivan)
 * **Stimming**: self-stimulatory behaviour, can be used to regulate or regain self control [See: betterhelp.com](https://www.betterhelp.com/advice/adhd/what-is-stimming-adhd-and-possible-behavioral-issues)
   * Stimming is not necessarily "bad" and may be allowed to continue if it does not interfere with life [Source: psychiatry.org](https://www.psychiatry.org/News-room/APA-Blogs/Understand-Stimming-Repetitive-Behaviors-Purpose)
   > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay…
 * **Trichotillomania**: An irresistable urge to pull one's hair. [nhs.uk](https://www.nhs.uk/mental-health/conditions/trichotillomania)
+
+
+# Facts
+
+* [Centers for Disease Control and Prevention (CDC) Data and Statistics on ASD](https://www.cdc.gov/ncbddd/autism/data.html)
+  * 2020: **1 in 36 children** in the United States has been identified with ASD
+  * ASD is **4 times more common among boys than among girls**.
+  * **1 in 6 children** were diagnosed with a development disability.
+* Children with autism are 160 times as likely to die from drowning as the general pediatric population. 
+  * [Drowning is the leading cause of death for children with ASD](https://www.publichealth.columbia.edu/public-health-now/news/individuals-autism-substantially-heightened-risk-injury-death)
+
 
 # Diagnostic Criteria
 
@@ -83,6 +100,7 @@ _The contents of this glossary may include terms not closely related to Autism S
 ## ICD-11 6A02
 
 * [WHO.int, ICD-11 6A02 Autism Diagnostic Criteria](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f437815624)
+
 
 # Organizations
 
@@ -101,7 +119,11 @@ _The contents of this glossary may include terms not closely related to Autism S
 * :negative_squared_cross_mark: Autism Speaks
   * :warning: Autism Speaks not linked directly due to [controversy](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf) and [Wikipedia: a history of damaging messaging](https://en.wikipedia.org/wiki/Autism_Speaks). This source should be referenced with care.
   * While this source may provide some useful content, individuals are encouraged to do their own research before using this source as an expert on Autism.
+* Autism Society of America 
+  * [Main](https://autismsociety.org/)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
 * [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
+
 
 # Toolkit
 
@@ -144,6 +166,7 @@ Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertp
 > —Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993
 [Wiki: Jim Sinclair (Activist)](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 
+
 # Talented and Functioning Individuals within the spectrum
 
 ## Confirmed Diagnosis or Self Disclosed
@@ -178,13 +201,6 @@ Individuals should research these people independently. A search engine query fo
 * Bill Gates
   * Microsoft, Windows, Malaria Research
 * Thomas Jefferson
-
-
-# Facts
-
-* [Drowning is the leading cause of death for children with ASD](https://www.publichealth.columbia.edu/public-health-now/news/individuals-autism-substantially-heightened-risk-injury-death)
-  > Our analysis reveals that children with autism are 160 times as likely to die from drowning as the general pediatric population.
-* According to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/ncbddd/autism/data.html), about 1 in 54 children in the United States has been identified with ASD. It is estimated to affect more than 70 million people worldwide.
 
 
 # Accomodations
@@ -235,12 +251,14 @@ Individuals should research these people independently. A search engine query fo
   > The DSM-5, as it is called, eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
 * [Newsweek: Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * [The Gentrification of Disability, Freddie De Boer](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
+* [The "Cure" for Autism and the Fight Over It](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
 * [Understanding highly sensitive children (focusonthefamily.com)](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [Spectrum News](https://www.spectrumnews.org/)
   * Unverified source
 * [WrongPlanet.net](https://wrongplanet.net/)
   * Unverified source
   * Referenced in book, _The Autistic Brain_ (Grandin)
+
 
 # Controversies
 
@@ -249,22 +267,33 @@ Individuals should research these people independently. A search engine query fo
   * Controversy over its use of aversives in the form of electric shock punishment.
   * [#StopTheShock: The Judge Rotenberg Center, Torture, and How We can Stop It](https://autisticadvocacy.org/actioncenter/issues/school/climate/jrc/)
     > Some schools use **restraint and seclusion** on people with disabilities. Some use **aversives**. All three are very dangerous!
-* Autism Speaks [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
-  * Several controversies from inaccurate statistics, views of Autism as a disease to be cured, and a lack of representation of Neurodivergent individuals on their board.
+* Autism Speaks Controversies [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
+  * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, and a lack of representation of Neurodivergent individuals on their board.
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
+  * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
 * Hans Asperger was involved with Nazi programs to send children to euthanasia clinics although his role and willingness to support such programs was unclear. [Wikipedia](https://en.wikipedia.org/wiki/Hans_Asperger)
 * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [Wiki: 1998 Lancet MMR Autism Fraud](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
 
 
-# Multimedia & Literature
+# Law
 
-* [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
-  * Relevance: The improper conditioning of neurotypical responses in children that otherwise have beautiful ideas.
-* Movie: Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
-  * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
+* Olmstead v. L.C.
+  > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
+  > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
+* [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
+
+
+# Multimedia, Conferences, & Literature
+
+* Movies
+  * Movie: Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
+    * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
+* Music
+  * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
+    * Relevance: The improper conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
-    * A statement about 
+    * A statement about thought, intelligence, personhood, language, and communication.
   * TED & TEDx Talks
     * [Youtube: TED: The World Needs All Kinds of Minds, Temple Grandin](https://youtu.be/fn_9f5x0f1Q)
     * [Youtube: TEDx: Facing Adversity with a Grin, Jason Arday](https://youtu.be/Y07EK4R_iEE)
@@ -272,8 +301,17 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: Dear Society... Signed, Autism, Daniel Share-Strom](https://www.youtube.com/watch?v=8HG5xD4xD2U)
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
-* [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
-  * While not directly relating to ASD or mental conditions, this science fiction short story is a personal favorite about the infinite flexibility of a child's mind to see and process the world differently.
+* Conferences, Courses, & Webinars
+  * Empowered Families Conference [Event Link](https://inspirecommunityoutreach.ca/event/inspires-empowered-families-conference-2023/) Inspire Community Outreach [Link](https://inspirecommunityoutreach.ca/), Feb 25 2023
+* Books
+  * [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
+  * [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
+  * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
+  * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
+* Short Stories
+  * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
+    * While not directly relating to ASD or mental conditions, this science fiction short story is a personal favorite about the infinite flexibility of a child's mind to see and process the world differently.
+
 
 # Education & Employment
 
@@ -284,19 +322,43 @@ Individuals should research these people independently. A search engine query fo
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments
 
-Several questions below came from [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf) although answers have not been taken from this book.
+Several questions below were copied from the table of contents of [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf) although this book has not been reviewed for answers.
 
 :warning: Several answers below are marked "GPT" and were provided verbatim from ChatGPT. Individuals should review these for correctness and clarity.
 
-## Child showing signs of impending meltdown or event
+## Briefly:
+
+* :star: "Let's pause this. He/she needs my immediate attention."
+* "His/her behaviour comes from a difference in how his/her brain is wired."
+* "Their meltdown is  manifestation of unique sensory stimulus and emotional processing and is not a manipulation or faulty parenting."
+
+## Showing signs of impending meltdown or event
 
 ```
-Excuse me, my child is attempting to communicate right this moment and needs my immediate full attention.
+"Let's pause this. He/she needs my immediate attention."
+```
+
+or...
+
+```
+Excuse me, he/she is attempting to communicate right this moment and needs my full attention.
 ```
 
 ## How was he/she diagnosed?
 
-...
+_Everyone's journey is unique. This is the author's journey to ASD awareness._
+
+* Journey began with toddler milestone delays.
+* Health care professional recommended an assessment.
+* Assessment with multiple professionals. This included...
+  * Interview with parents to understand behaviour leading to assessment, including milestone delays and behavioral patterns exhibited at home, school, and outings.
+  * Playing with child, both in a leading and following role.
+  * Interrupting or changing play with controlled objectives to observe reaction (or lack of).
+  * Evaluation of speech and communication.
+  * Evaluation of fine motor skills, throwing, kicking, running.
+  * Assessment lasted approx. 60-90 minutes.
+  * Received an immediate diagnosis after assessment.
+  * Follow-up documents, forms, and services received 90-180+ days later.
 
 ## Will he/she grow out of it?
 
