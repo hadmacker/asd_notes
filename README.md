@@ -127,25 +127,25 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 ## Quotes & Inspiration
 
 > I am different, not less  
-Dr. Temple Grandin
+> Dr. Temple Grandin
 
 ![I am different not less, Temple Grandin](Images/grandin%20i%20am%20different%20not%20less.jpg)
 
 > I would not change my son for the world, so I will change the world for my son.  
-Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertprofile/?expert_username=keivan.stassun), father of an autistic child. [CBS News](https://www.cbsnews.com/news/autism-employment-60-minutes-2020-10-04/)
+> Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertprofile/?expert_username=keivan.stassun), father of an autistic child. [CBS News](https://www.cbsnews.com/news/autism-employment-60-minutes-2020-10-04/)
 
 > My child has _specific_ needs, not _special_ needs.   
 > My child sees the world in a _specific_ way.   
-Anonymous
+> Anonymous
 
 > Without an enemy your anger gets confused  
-Easy Way Out, song by Elliott Smith
+> Easy Way Out, song by Elliott Smith
 
 > I won't discipline my child just because you dysregulated him to meltdown. And I'm not spoiling them by listening to them, regulating them, and considering their actual needs.   
-Anonymous
+> Anonymous
 
 > You didn't lose a child to autism. You lost a child because the child you waited for never came into existence. That isn't the fault of the autistic child who does exist, and it shouldn't be our burden. We need and deserve families who can see us and value us for ourselves, not families whose vision of us is obscured by the ghosts of children who never lived. Grieve if you must, for your own lost dreams. But don't mourn for us. We are alive. We are real.   
-—Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993 [Wiki: Jim Sinclair (Activist)](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
+> Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993 [Wiki: Jim Sinclair (Activist)](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 
 
 # Celebrities & Significant Individuals within the spectrum
@@ -240,10 +240,10 @@ Individuals should research these people independently. A search engine query fo
 
 ## Others
 
-### :warning: Autism Warrior Parenting
+### Autism Warrior Parenting
 
 > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
-[How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
+> [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
 
 * [A word on "Warrior Moms"](https://restlesshands42.wordpress.com/2016/07/22/a-word-on-warrior-moms/)
 * [Dear Autism Warrior Parents](https://www.jademikell.com/blog/2019/12/15/dear-autism-parents)
@@ -251,7 +251,7 @@ Individuals should research these people independently. A search engine query fo
 ### General
 
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
-  * **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
+  > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
 * Blogs
   * [Autistic Hoya, Lydia X. Z. Brown](https://www.autistichoya.com/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
@@ -277,7 +277,7 @@ Individuals should research these people independently. A search engine query fo
   * [#StopTheShock: The Judge Rotenberg Center, Torture, and How We can Stop It](https://autisticadvocacy.org/actioncenter/issues/school/climate/jrc/)
     > Some schools use **restraint and seclusion** on people with disabilities. Some use **aversives**. All three are very dangerous!
 * Autism Speaks Controversies [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
-  * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, and a lack of representation of Neurodivergent individuals on their board.
+  * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, a focus on the effects of Autism to the family and not on the individual itself, and a lack of representation of Neurodivergent individuals on their board.
   * [Wiki: Autism Speaks](https://en.wikipedia.org/wiki/Autism_Speaks)
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
@@ -289,7 +289,7 @@ Individuals should research these people independently. A search engine query fo
 
 * Olmstead v. L.C.
   > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
-  > - [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) - [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
+  > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) - [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
 * Kennedy v. Kennedy (2013-2014)
   * [Court: Mom Acted Wrongly in Arraging Son's Vasectomy, disabilityscoop, 2014](https://www.disabilityscoop.com/2014/04/18/court-sons-vasectomy/19291/)
