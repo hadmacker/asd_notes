@@ -76,7 +76,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Sullivan, Ruth Christ**: A founder of Autism Society of America (formerly National Society for Autistic Children, NSAC)[Wikipedia](https://en.wikipedia.org/wiki/Ruth_C._Sullivan)
 * **Stimming**: self-stimulatory behaviour, can be used to regulate or regain self control [See: betterhelp.com](https://www.betterhelp.com/advice/adhd/what-is-stimming-adhd-and-possible-behavioral-issues)
   * Stimming is not necessarily "bad" and may be allowed to continue if it does not interfere with life [Source: psychiatry.org](https://www.psychiatry.org/News-room/APA-Blogs/Understand-Stimming-Repetitive-Behaviors-Purpose)
-  > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay…
+  > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay...
+* **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space". A recent (2017) [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) word for Autism. [Wikipedia](https://en.wiktionary.org/wiki/takiw%C4%81tanga)
 * **Trichotillomania**: An irresistable urge to pull one's hair. [nhs.uk](https://www.nhs.uk/mental-health/conditions/trichotillomania)
 
 
@@ -223,7 +224,7 @@ Individuals should research these people independently. A search engine query fo
 * Focus on the Family
   * Religious organization providing some special needs articles and book publication.
   * References ABA therapy as the primary treatment method for Autism, followed by medication and diet. 
-  * Links to Autism Speaks. (See Controversies section for additional context around Autism Speaks.)
+  * :warning: Links to Autism Speaks. (See Controversies section for additional context around Autism Speaks.)
     * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
 
 
@@ -261,7 +262,7 @@ Individuals should research these people independently. A search engine query fo
 * [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
-* [Understanding highly sensitive children, Focusonthefamily, 2017(https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
+* [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [Spectrum News](https://www.spectrumnews.org/)
   * Unverified source
 * [WrongPlanet.net](https://wrongplanet.net/)
@@ -277,20 +278,21 @@ Individuals should research these people independently. A search engine query fo
   * [#StopTheShock: The Judge Rotenberg Center, Torture, and How We can Stop It](https://autisticadvocacy.org/actioncenter/issues/school/climate/jrc/)
     > Some schools use **restraint and seclusion** on people with disabilities. Some use **aversives**. All three are very dangerous!
 * Autism Speaks Controversies [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
-  * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, a focus on the effects of Autism to the family and not on the individual itself, and a lack of representation of Neurodivergent individuals on their board.
+  * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, a focus on the effects of Autism to the family and not on the individual, and a lack of representation of Neurodivergent individuals on their board. 
+  * Autism Speaks has recognized some of their past views and actions were harmful. [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/)
   * [Wiki: Autism Speaks](https://en.wikipedia.org/wiki/Autism_Speaks)
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
 * Hans Asperger was involved with Nazi programs to send children to euthanasia clinics although his role and willingness to support such programs was unclear. [Wikipedia](https://en.wikipedia.org/wiki/Hans_Asperger)
-* Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [Wiki: 1998 Lancet MMR Autism Fraud](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
+* Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
 
 
 # Law
 
+* [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
 * Olmstead v. L.C.
   > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
   > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) - [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
-* [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
 * Kennedy v. Kennedy (2013-2014)
   * [Court: Mom Acted Wrongly in Arraging Son's Vasectomy, disabilityscoop, 2014](https://www.disabilityscoop.com/2014/04/18/court-sons-vasectomy/19291/)
   * [Ruling: Court OK needed for disabled son's vasectomy, usatoday, 2014](https://www.usatoday.com/story/news/nation/2014/04/18/ruling-court-ok-needed-for-disabled-sons-vasectomy/7893917/)
