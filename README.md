@@ -1,6 +1,9 @@
 # Autism Spectrum Disorder Notes
 
 
+* [Images](./Images.md)
+
+
 # Glossary
 
 _The contents of this glossary may include outdated terms, disproven theories, and terms not closely related to Autism Spectrum Disorder that have come up during personal investigation._
@@ -17,7 +20,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **ASD**: Autism Spectrum Disorder
 * **Asperger, Hans**: Autism research pioneer. His name was given to Asperger's syndrome, a form of autism defined in 1981 by Lorna Wing. [Wiki: Hans Asperger](https://en.wikipedia.org/wiki/Hans_Asperger)
 * **Autism Warrior Parent**: 
-  > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.
+  > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
   > [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
 * **Aversives**: unpleasant stimuli that induce changes in behavior via negative reinforcement or positive punishment. [Wikipedia](https://en.wikipedia.org/wiki/Aversives). May be used in ABA therapy.
 * **Bruno Bettelheim**: An early Autism researcher and psychologist whose damaging research and theories were later discredited. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim)
@@ -43,6 +46,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia)
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
 * **ICD**: See International Classification of Diseases
+* **Infantalize**: To treat as a child or in a way which denies their maturity in age or experience.
 * **International Classification of Diseases** [WHO.int](https://icd.who.int/en)
   * ICD-11: 2022
   * ICD-10: 2016, 2019
@@ -76,14 +80,16 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Trichotillomania**: An irresistable urge to pull one's hair. [nhs.uk](https://www.nhs.uk/mental-health/conditions/trichotillomania)
 
 
-# Facts
+# Statistics
 
 * [Centers for Disease Control and Prevention (CDC) Data and Statistics on ASD](https://www.cdc.gov/ncbddd/autism/data.html)
   * 2020: **1 in 36 children** in the United States has been identified with ASD
+    * This number differs greatly from the WHO statistic of **1 in 100 children** are believed to have Autism. [who.int, 2022](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders)
   * ASD is **4 times more common among boys than among girls**.
   * **1 in 6 children** were diagnosed with a development disability.
 * Children with autism are 160 times as likely to die from drowning as the general pediatric population. 
   * [Drowning is the leading cause of death for children with ASD](https://www.publichealth.columbia.edu/public-health-now/news/individuals-autism-substantially-heightened-risk-injury-death)
+* [40 times more likely to die from injury than the general public, CNN](https://www.cnn.com/2017/03/21/health/autism-injury-deaths-study/index.html)
 
 
 # Diagnostic Criteria
@@ -100,29 +106,6 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 ## ICD-11 6A02
 
 * [WHO.int, ICD-11 6A02 Autism Diagnostic Criteria](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f437815624)
-
-
-# Organizations
-
-## Manitoba
-
-* [Autism Spectrum Disorders Manitoba](https://asdmb.ca/)
-* [Inspire Community Outreach](https://inspirecommunityoutreach.ca/)
-  * Founder: Angela Taylor
-* [Specialized Services for Children & Youth](https://sscy.ca/)
-
-## Canada
-
-## Elsewhere
-
-* [ASAN: Autistic Self Advocacy Network](https://autisticadvocacy.org/)
-* :negative_squared_cross_mark: Autism Speaks
-  * :warning: Autism Speaks not linked directly due to [controversy](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf) and [Wikipedia: a history of damaging messaging](https://en.wikipedia.org/wiki/Autism_Speaks). This source should be referenced with care.
-  * While this source may provide some useful content, individuals are encouraged to do their own research before using this source as an expert on Autism.
-* Autism Society of America 
-  * [Main](https://autismsociety.org/)
-  * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
-* [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
 
 
 # Toolkit
@@ -143,31 +126,29 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 ## Quotes & Inspiration
 
-> without an enemy your anger gets confused  
-> Easy Way Out, song by Elliott Smith
-
 > I am different, not less  
-> Dr. Temple Grandin
+Dr. Temple Grandin
 
 ![I am different not less, Temple Grandin](Images/grandin%20i%20am%20different%20not%20less.jpg)
 
-> I would not change my son for the world, so I will chage the world for my son.
-> Keivan Stassun
+> I would not change my son for the world, so I will change the world for my son.  
+Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertprofile/?expert_username=keivan.stassun), father of an autistic child. [CBS News](https://www.cbsnews.com/news/autism-employment-60-minutes-2020-10-04/)
 
-Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertprofile/?expert_username=keivan.stassun), is the father of an autistic child. [CBS News](https://www.cbsnews.com/news/autism-employment-60-minutes-2020-10-04/)
+> My child has _specific_ needs, not _special_ needs.   
+> My child sees the world in a _specific_ way.   
+Anonymous
 
-> My child has specific needs, not special needs. My child sees the world in a specific way."
-> anonymous
+> Without an enemy your anger gets confused  
+Easy Way Out, song by Elliott Smith
 
-> I won't discipline my child just because you disregulated him to meltdown. And I'm not spoiling them by listening to them, regulating them, and considering their actual needs.
-> anonymous
+> I won't discipline my child just because you dysregulated him to meltdown. And I'm not spoiling them by listening to them, regulating them, and considering their actual needs.   
+Anonymous
 
-> You didn't lose a child to autism. You lost a child because the child you waited for never came into existence. That isn't the fault of the autistic child who does exist, and it shouldn't be our burden. We need and deserve families who can see us and value us for ourselves, not families whose vision of us is obscured by the ghosts of children who never lived. Grieve if you must, for your own lost dreams. But don't mourn for us. We are alive. We are real.
-> —Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993
-[Wiki: Jim Sinclair (Activist)](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
+> You didn't lose a child to autism. You lost a child because the child you waited for never came into existence. That isn't the fault of the autistic child who does exist, and it shouldn't be our burden. We need and deserve families who can see us and value us for ourselves, not families whose vision of us is obscured by the ghosts of children who never lived. Grieve if you must, for your own lost dreams. But don't mourn for us. We are alive. We are real.   
+—Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993 [Wiki: Jim Sinclair (Activist)](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 
 
-# Talented and Functioning Individuals within the spectrum
+# Celebrities & Significant Individuals within the spectrum
 
 ## Confirmed Diagnosis or Self Disclosed
 
@@ -183,24 +164,24 @@ Keivan Stassun, [VU: Astrophysicist](https://news.vanderbilt.edu/experts/expertp
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
 
-The book "The Autistic Mind" (Grandin) explains the history of Autism and how diagnosis has evolved from 1943 (Leo Kanner) to preset time (DSM-5, 2013) as the understanding of the condition has changed. It is believed that many of the individuals on this list might have an Autism diagnosis based on the current understanding of the condition.
+In the book "The Autistic Mind" (Grandin) explains the history of Autism and how diagnosis has evolved from 1943 (Leo Kanner) to preset time (DSM-5, 2013) as the understanding of the condition has changed. It is believed that the individuals on this list may qualify for an Autism diagnosis based on the current understanding of the condition.
 
-Individuals should research these people independently. A search engine query for "Did <person> have autism?" will result in apocryphal evidence to justify a diagnosis using the current understanding of the condition.
+Individuals should research these people independently. A search engine query for "Did _name_ have autism?" will result in apocryphal observations justifying a diagnosis using the current understanding of the condition.
 
-* Nikola Tesla
+* **Nikola Tesla**
   * A/C Electricity, A/C Motor, Radio-controlled robots
-* Albert Einstein
+* **Albert Einstein**
   * Theoretical Physics, Nuclear physics, Atomic Bomb research
-* Mozart
+* **Mozart**
   * [Did Mozart have Autism](https://www.crossrivertherapy.com/autism/did-mozart-have-autism)
   * Child Prodigy, perfect musical memory, ability to read music
   * Sound sensitivity to loud noises, Short attention span
-* Vincent Van Gogh
-* Steve Jobs
+* **Vincent Van Gogh**
+* **Steve Jobs**
   * Apple
-* Bill Gates
+* **Bill Gates**
   * Microsoft, Windows, Malaria Research
-* Thomas Jefferson
+* **Thomas Jefferson**
 
 
 # Accomodations
@@ -209,14 +190,41 @@ Individuals should research these people independently. A search engine query fo
 
 * Additional breaks
 * Additional time to complete tasks
-* Allow verbal answers on tests, quizzes, open ended questions
+* Allow verbal answers on tests, quizzes, open ended questions (instead of written answers)
 * Excused from class or work
 * Isolation when taking exams
 * No Sarcasm
 * Provide written transcriptions/copies of lectures and discussion
 * Quiet or sensory-safe rooms
 * Tutors, extra learing
-* (In the remote world) Allowed to disable video in chat.
+* (In the remote world) Allowed to disable video in chat or mute.
+
+
+# Organizations
+
+## Manitoba
+
+* [Autism Spectrum Disorders Manitoba](https://asdmb.ca/)
+* [Inspire Community Outreach](https://inspirecommunityoutreach.ca/)
+* [Specialized Services for Children & Youth](https://sscy.ca/)
+
+## Canada
+
+## Elsewhere
+
+* [ASAN: Autistic Self Advocacy Network](https://autisticadvocacy.org/)
+* Autism Speaks
+  * :warning: Not directly linked here. See Controversies section for additional context.
+  * While this source may provide some useful content, individuals are encouraged to do their own research before using this source as an expert on Autism.
+* Autism Society of America 
+  * [Main](https://autismsociety.org/)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
+* [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
+* Focus on the Family
+  * Religious organization providing some special needs articles and book publication.
+  * References ABA therapy as the primary treatment method for Autism, followed by medication and diet. 
+  * Links to Autism Speaks. (See Controversies section for additional context around Autism Speaks.)
+    * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
 
 
 # Articles & Media
@@ -232,10 +240,11 @@ Individuals should research these people independently. A search engine query fo
 
 ## Others
 
-### Autism Warrior Parenting
+### :warning: Autism Warrior Parenting
 
-* [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
-  > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.
+> Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
+[How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
+
 * [A word on "Warrior Moms"](https://restlesshands42.wordpress.com/2016/07/22/a-word-on-warrior-moms/)
 * [Dear Autism Warrior Parents](https://www.jademikell.com/blog/2019/12/15/dear-autism-parents)
 
@@ -248,11 +257,11 @@ Individuals should research these people independently. A search engine query fo
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Sharing an Autism Diagnosis with Family and Friends](https://childmind.org/article/sharing-an-autism-diagnosis-with-family-and-friends/)
 * [(2012) New Rules Allow Joint Diagnosis of Autism, Attention Deficit](https://www.spectrumnews.org/news/new-rules-allow-joint-diagnosis-of-autism-attention-deficit/)
-  > The DSM-5, as it is called, eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
-* [Newsweek: Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
-* [The Gentrification of Disability, Freddie De Boer](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
-* [The "Cure" for Autism and the Fight Over It](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
-* [Understanding highly sensitive children (focusonthefamily.com)](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
+  > The DSM-5... eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
+* [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
+* [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
+* [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
+* [Understanding highly sensitive children, Focusonthefamily, 2017(https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [Spectrum News](https://www.spectrumnews.org/)
   * Unverified source
 * [WrongPlanet.net](https://wrongplanet.net/)
@@ -269,6 +278,7 @@ Individuals should research these people independently. A search engine query fo
     > Some schools use **restraint and seclusion** on people with disabilities. Some use **aversives**. All three are very dangerous!
 * Autism Speaks Controversies [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
   * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, and a lack of representation of Neurodivergent individuals on their board.
+  * [Wiki: Autism Speaks](https://en.wikipedia.org/wiki/Autism_Speaks)
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
 * Hans Asperger was involved with Nazi programs to send children to euthanasia clinics although his role and willingness to support such programs was unclear. [Wikipedia](https://en.wikipedia.org/wiki/Hans_Asperger)
@@ -279,21 +289,26 @@ Individuals should research these people independently. A search engine query fo
 
 * Olmstead v. L.C.
   > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
-  > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
+  > - [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) - [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
+* Kennedy v. Kennedy (2013-2014)
+  * [Court: Mom Acted Wrongly in Arraging Son's Vasectomy, disabilityscoop, 2014](https://www.disabilityscoop.com/2014/04/18/court-sons-vasectomy/19291/)
+  * [Ruling: Court OK needed for disabled son's vasectomy, usatoday, 2014](https://www.usatoday.com/story/news/nation/2014/04/18/ruling-court-ok-needed-for-disabled-sons-vasectomy/7893917/)
+  * [Justices: Mom needed OK to get disabled son vasectomy, demoinesregister, 2014](https://www.desmoinesregister.com/story/news/crime-and-courts/2014/04/19/iowa-justices-disabled-son-vasectomy/7901073/)
+  * [In RE Guardianship of Kennedy, leagle, 2014](https://www.leagle.com/decision/iniaco20140418138)
 
 
-# Multimedia, Conferences, & Literature
+# Movies, Multimedia, Conferences, & Literature
 
 * Movies
   * Movie: Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
     * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
 * Music
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
-    * Relevance: The improper conditioning of neurotypical responses in children that otherwise have beautiful ideas.
+    * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
-    * A statement about thought, intelligence, personhood, language, and communication.
+    * An insightful statement about thought, intelligence, personhood, language, and communication.
   * TED & TEDx Talks
     * [Youtube: TED: The World Needs All Kinds of Minds, Temple Grandin](https://youtu.be/fn_9f5x0f1Q)
     * [Youtube: TEDx: Facing Adversity with a Grin, Jason Arday](https://youtu.be/Y07EK4R_iEE)
@@ -310,7 +325,7 @@ Individuals should research these people independently. A search engine query fo
   * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
 * Short Stories
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
-    * While not directly relating to ASD or mental conditions, this science fiction short story is a personal favorite about the infinite flexibility of a child's mind to see and process the world differently.
+    * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
 
 
 # Education & Employment
