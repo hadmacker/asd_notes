@@ -23,7 +23,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
   > [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
 * **Aversives**: unpleasant stimuli that induce changes in behavior via negative reinforcement or positive punishment. [Wikipedia](https://en.wikipedia.org/wiki/Aversives). May be used in ABA therapy.
-* **Bruno Bettelheim**: An early Autism researcher and psychologist whose damaging research and theories were later discredited. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim)
+* **Bruno Bettelheim**: An early Autism researcher and psychologist whose research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
 * **Biology**: The branch of science that deals with living organisms and their vital processes. 
 * **Brain**: The physical, biological organ consisting of nerve cells and can be physically touched. See _Mind_ for nuances.
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
@@ -45,6 +45,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Heterogeneity**: Having diverse characteristics or content
 * **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia)
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
+* **Hypernumeracy**: Hypernumeracy is known as 'hyperlexia but with numbers instead of letters' and is an advanced or self-taught ability to understand math and numbers in young children. It presents with an intense fascination with numbers, much like hyperlexia does with letters. [literallyausome.com.au](https://literallyausome.com.au/autism/hyperlexia-and-hypernumeracy/)
 * **ICD**: See International Classification of Diseases
 * **Infantalize**: To treat as a child or in a way which denies their maturity in age or experience.
 * **International Classification of Diseases** [WHO.int](https://icd.who.int/en)
@@ -153,8 +154,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 ## Confirmed Diagnosis or Self Disclosed
 
+* Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
   * Humane Livestock slaughter, Squeeze machine
+* [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
 * [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
 * [Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)
   * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
@@ -162,6 +165,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * GDD: Learned to speak at 11 years old, read & write at 18.
   * [Youtube: Man who learnt to read at 18 becomes Cambridge University's youngest ever black professor - BBC News](https://youtu.be/g28uXeXz9l8)
 * Jim Sinclair, Autism Activist [Wikipedia](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
+* Hannah Gadsby, Comedian [npr.org](https://www.npr.org/2020/05/26/862081893/autism-spectrum-diagnosis-helped-comic-hannah-gadsby-be-kinder-to-herself)
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
 
@@ -226,18 +230,24 @@ Individuals should research these people independently. A search engine query fo
   * References ABA therapy as the primary treatment method for Autism, followed by medication and diet. 
   * :warning: Links to Autism Speaks. (See Controversies section for additional context around Autism Speaks.)
     * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
-
+* [Literally Ausome (Australia)](https://literallyausome.com.au/)
 
 # Articles & Media
 
-## Government Sources
+## Government & Scientific Sources
 
+* [How Autism became Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757918/)
+  > This article argues that the meaning of the word 'autism' experienced a radical shift in the early 1960s in Britain which was contemporaneous with a growth in epidemiological and statistical studies in child psychiatry. 
+* [Journal of Autism and Developmental Disorders](https://www.springer.com/journal/10803)
 * [Rate of de novo mutations and the importance of father's age to disease risk](https://pubmed.ncbi.nlm.nih.gov/22914163/)
 * [Sexuality in autism: hypersexual and paraphilic behaviour in women and men with high-functioning autism spectrum disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789215/)
 * [The changing faces of autism: The fluctuating international diagnostic criteria and the resulting inclusion and exclusion—A Norwegian perspective](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9365987/), Chahboun, Stenseng, Page, 2022
   > The most salient change from the DSM-IV to a new version DSM-5 (2013) has been the understanding of autism as a spectrum varying in severity and functioning
   * Clarification: [The DSM-IV, released in 1994 and revised in 2000, was the first edition to categorize autism as a spectrum](https://www.spectrumnews.org/news/evolution-autism-diagnosis-explained/#:~:text=When%20was%20autism%20first%20presented,categorize%20autism%20as%20a%20spectrum.)
     * Unverified source
+* [The Geek Syndrome, Wired.com, Steve Silberman](https://www.wired.com/2001/12/aspergers/)
+  > Autism—and its milder cousin Asperger's syndrome—is surging among the children of Silicon Valley. Are math-and-tech genes to blame?
+
 
 ## Others
 
@@ -256,6 +266,8 @@ Individuals should research these people independently. A search engine query fo
 * Blogs
   * [Autistic Hoya, Lydia X. Z. Brown](https://www.autistichoya.com/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
+* [Righting the Gender Imbalance in Autism Studies](https://www.spectrumnews.org/features/deep-dive/righting-gender-imbalance-autism-studies/)
+  > Because autistic girls tend to exhibit different traits than autistic boys do, they are frequently overlooked by teachers, doctors and standard diagnostic tools. Those omissions carry over into the research literature...
 * [Sharing an Autism Diagnosis with Family and Friends](https://childmind.org/article/sharing-an-autism-diagnosis-with-family-and-friends/)
 * [(2012) New Rules Allow Joint Diagnosis of Autism, Attention Deficit](https://www.spectrumnews.org/news/new-rules-allow-joint-diagnosis-of-autism-attention-deficit/)
   > The DSM-5... eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
@@ -285,26 +297,34 @@ Individuals should research these people independently. A search engine query fo
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
 * Hans Asperger was involved with Nazi programs to send children to euthanasia clinics although his role and willingness to support such programs was unclear. [Wikipedia](https://en.wikipedia.org/wiki/Hans_Asperger)
 * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
+* [Damage over Generations. Quotes by Major Influencers in Autism](https://the-art-of-autism.com/damage-over-generations-quotes-by-major-influencers-in-autism/)
 
 
 # Law
 
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
-* Olmstead v. L.C.
+  > Under Title II of the ADA, States are required to place persons with mental disabilities in community settings rather than in institutions when the State's treatment professionals have determined that: (1) community placement is appropriate, (2) the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and (3) the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.
+* Olmstead v. L.C. [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
   > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
-  > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html) - [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
+  > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html)
+* [Olmstead v. Zimring, Unnecessary Institutionalization Constitutes Discrimination Under the Americans With Disabilities Act, law.umaryland.edu](https://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1064&context=jhclp)
 * Kennedy v. Kennedy (2013-2014)
   * [Court: Mom Acted Wrongly in Arraging Son's Vasectomy, disabilityscoop, 2014](https://www.disabilityscoop.com/2014/04/18/court-sons-vasectomy/19291/)
   * [Ruling: Court OK needed for disabled son's vasectomy, usatoday, 2014](https://www.usatoday.com/story/news/nation/2014/04/18/ruling-court-ok-needed-for-disabled-sons-vasectomy/7893917/)
   * [Justices: Mom needed OK to get disabled son vasectomy, demoinesregister, 2014](https://www.desmoinesregister.com/story/news/crime-and-courts/2014/04/19/iowa-justices-disabled-son-vasectomy/7901073/)
   * [In RE Guardianship of Kennedy, leagle, 2014](https://www.leagle.com/decision/iniaco20140418138)
-
+  * [The Iowa Supreme Court on vasectomies and due process](https://iowaappeals.com/administrator/the-iowa-supreme-court-on-vasectomies-and-due-process/)
+  * [Sterilization laws in the United States](https://en.wikipedia.org/wiki/Sterilization_law_in_the_United_States)
+* [Police Shooting Of Unarmed Autistic Teen Ricardo Hayes, CBS Chicaco](https://www.cbsnews.com/chicago/news/police-shooting-settlement-ricardo-hayes-sgt-khalil-muhammad-city-council-finance-committee/)
+* [Police Shooting of Charles Kinsey, mental health therapist, as he was retrieving his autistic patient](https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey)
 
 # Movies, Multimedia, Conferences, & Literature
 
 * Movies
-  * Movie: Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
+  * Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
     * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
+  * Pixar's Loop [IMDb](https://www.imdb.com/title/tt9536836/)
+    * [Why Pixar’s First Non-Verbal Character In The Short ‘Loop’ Was a Game-Changer, Forbes](https://www.forbes.com/sites/kristenlopez/2020/01/10/why-pixars-first-non-verbal-character-in-the-short-loop-was-a-game-changer/?sh=3ca2b77a284c)
 * Music
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
@@ -346,36 +366,17 @@ Several questions below were copied from the table of contents of [Understanding
 ## Briefly:
 
 * :star: "Let's pause this. He/she needs my immediate attention."
-* "His/her behaviour comes from a difference in how his/her brain is wired."
-* "Their meltdown is  manifestation of unique sensory stimulus and emotional processing and is not a manipulation or faulty parenting."
+* "His/her behaviour comes from a difference in how their brain is wired."
+* "Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting."
 
 ## Showing signs of impending meltdown or event
 
-```
-"Let's pause this. He/she needs my immediate attention."
-```
+> Let's pause this. He/she needs my immediate attention.
 
 or...
 
-```
-Excuse me, he/she is attempting to communicate right this moment and needs my full attention.
-```
+> Excuse me, he/she is attempting to communicate and needs my full attention.
 
-## How was he/she diagnosed?
-
-_Everyone's journey is unique. This is the author's journey to ASD awareness._
-
-* Journey began with toddler milestone delays.
-* Health care professional recommended an assessment.
-* Assessment with multiple professionals. This included...
-  * Interview with parents to understand behaviour leading to assessment, including milestone delays and behavioral patterns exhibited at home, school, and outings.
-  * Playing with child, both in a leading and following role.
-  * Interrupting or changing play with controlled objectives to observe reaction (or lack of).
-  * Evaluation of speech and communication.
-  * Evaluation of fine motor skills, throwing, kicking, running.
-  * Assessment lasted approx. 60-90 minutes.
-  * Received an immediate diagnosis after assessment.
-  * Follow-up documents, forms, and services received 90-180+ days later.
 
 ## Will he/she grow out of it?
 
@@ -404,10 +405,6 @@ Also
 GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
 
 ```
-
-## He/She just needs a better attitude.
-
-...
 
 ## Why should your kid get special treatment?
 
@@ -441,10 +438,26 @@ GPT: Autism is a neurological condition that affects individuals in different wa
 
 ### Myth: Autism is caused by bad parenting or neglect.
 
-:warning: Answers below marked "GPT" were provided from ChatGPT. Individuals should review these for correctness and clarity.
-
 ```
-GPT: Actually, autism is a neurological condition that is present from birth and has a strong genetic component. While parenting can certainly have an impact on a child's development, it is not the cause of autism.
+GPT: The notion that autism is caused by bad parenting or neglect is a harmful myth that has been debunked by scientific evidence. There is no evidence to support the idea that parents are responsible for causing autism in their children. Instead, research suggests that autism is primarily caused by genetic factors.
+
+Numerous studies have investigated the causes of autism, and none have found any evidence to support the idea that bad parenting or neglect plays a role. In fact, research has consistently shown that autism is a highly heritable condition, meaning that it is largely influenced by genetics. For example, a 2019 study published in the journal Nature Genetics found that genetic factors accounted for around 80% of the risk of developing autism.
+
+Moreover, research has shown that parental behavior has little to no impact on the likelihood of a child developing autism. A 2015 study published in the Journal of Autism and Developmental Disorders found that parenting behavior did not differ between parents of children with autism and parents of typically developing children. Another study published in the same journal in 2019 found no association between early parenting behavior and the risk of developing autism.
+
+In summary, the idea that bad parenting or neglect causes autism is a myth that has been debunked by scientific evidence. Autism is a complex neurodevelopmental condition that is primarily caused by genetic factors, and parental behavior has little to no impact on the likelihood of a child developing autism. It is important to dispel these harmful myths and focus on providing support and understanding to individuals with autism and their families.
+
+Here are the references to the studies mentioned in my response:
+
+Gaugler, T., Klei, L., Sanders, S. J., Bodea, C. A., Goldberg, A. P., Lee, A. B., ... & Buxbaum, J. D. (2014). Most genetic risk for autism resides with common variation. Nature Genetics, 46(8), 881-885. doi: 10.1038/ng.3039 [Link](https://www.nature.com/articles/ng.3039)
+
+Oono, I. P., Honey, E. J., & McConachie, H. (2013). Parent-mediated early intervention for young children with autism spectrum disorders (ASD). Cochrane Database of Systematic Reviews, (4). doi: 10.1002/14651858.CD009774.pub2 [Link](https://pubmed.ncbi.nlm.nih.gov/23633377/)
+
+Singer, G. H. (2006). Meta-analysis of comparative studies of depression in mothers of children with and without developmental disabilities. American Journal on Mental Retardation, 111(3), 155-169. doi: 10.1352/0895-8017(2006)111[155:MOCSOD]2.0.CO;2
+
+Hastings, R. P., & Johnson, E. (2001). Stress in UK families conducting intensive home-based behavioural intervention for their young child with autism. Journal of Autism and Developmental Disorders, 31(3), 327-336. doi: 10.1023/A:1010695802499 [Link](https://link.springer.com/article/10.1007/s10803-014-2178-7)
+
+Estes, A., Olson, E., Sullivan, K., Greenson, J., Winter, J., Dawson, G., & Munson, J. (2013). Parenting-related stress and psychological distress in mothers of toddlers with autism spectrum disorders. Brain Development, 35(2), 133-138. doi: 10.1007/s10578-012-0304-2 [Link: braindevelopment.com](https://www.brainanddevelopment.com/article/S0387-7604(12)00262-8/fulltext) - [Link: nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552060/)
 ```
 
 ### Myth: People with autism lack empathy.
@@ -455,19 +468,22 @@ GPT: Actually, people with autism can experience and express empathy in their ow
 
 ### Myth: Autism is a mental illness.
 
-```
-GPT: Actually, autism is a developmental disorder that affects communication, social interaction, and behavior. While it can co-occur with mental health conditions, it is not a mental illness in and of itself.
-```
+> Autism is not an illness and there is no cure.  
+> [nhs.uk](https://www.nhs.uk/conditions/autism/autism-and-everyday-life/treatments-that-are-not-recommended-for-autism/)
 
 ### Myth: Autism can be cured.
 
-```
-GPT: Actually, there is no cure for autism, but there are interventions and therapies that can help individuals with autism to develop skills and cope with challenges. It's important to focus on supporting individuals with autism rather than trying to "cure" them.
-```
+> Autism is not an illness and there is no cure.  
+> [nhs.uk](https://www.nhs.uk/conditions/autism/autism-and-everyday-life/treatments-that-are-not-recommended-for-autism/)
+
+Research-backed interventions and therapies exist that may help autistic individuals to develop life skills and manage harmful behaviours.
+
+:warning: Some treatments and approaches may be harmful, fake, or unsupported by research. Further investigation should be performed prior to adopting any such treatment.
+
 
 ### Myth: Autism only affects boys.
 
-```
-GPT: Actually, autism affects people of all genders, although it is more commonly diagnosed in boys. This may be due in part to differences in how autism presents in boys versus girls, as well as biases in diagnostic criteria and assessment tools.
-```
+ASD is more than 4 times more common among boys than among girls.
+
+[cdc.gov](https://www.cdc.gov/ncbddd/autism/data.html)
 
