@@ -193,7 +193,7 @@ Individuals should research these people independently. A search engine query fo
 * **Thomas Jefferson**
 
 
-# Accomodations
+# Accommodations
 
 [Accommodations for Autism: 21 Best Recommendations for Learning](https://thehomeschoolresourceroom.com/2021/04/12/accommodations-autism/)
 
