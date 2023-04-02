@@ -1,5 +1,7 @@
 # Autism Spectrum Disorder Notes
 
+This document is a collection of links, resources, tools, and other sources discovered during personal investigation. Contributions may be submitted in the form of [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
 
 * [Images](./Images.md)
 
@@ -23,7 +25,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
   > [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
 * **Aversives**: unpleasant stimuli that induce changes in behavior via negative reinforcement or positive punishment. [Wikipedia](https://en.wikipedia.org/wiki/Aversives). May be used in ABA therapy.
-* **Bruno Bettelheim**: An early Autism researcher and psychologist whose research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
+* **Bruno Bettelheim**: An early Autism researcher and psychologist pioneering treatements. His research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
 * **Biology**: The branch of science that deals with living organisms and their vital processes. 
 * **Brain**: The physical, biological organ consisting of nerve cells and can be physically touched. See _Mind_ for nuances.
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
@@ -43,8 +45,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Genotype**: Genetic traits
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
 * **Heterogeneity**: Having diverse characteristics or content
-* **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia)
+* **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia). See also _Hypernumeracy_ and _Hyperlexia_.
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
+* **Hypermnesia**: Advanced degree of retentiveness and recall of memory with high clarity of detail. [Hypermnesia, ABA](https://dictionary.apa.org/hypermnesia)
 * **Hypernumeracy**: Hypernumeracy is known as 'hyperlexia but with numbers instead of letters' and is an advanced or self-taught ability to understand math and numbers in young children. It presents with an intense fascination with numbers, much like hyperlexia does with letters. [literallyausome.com.au](https://literallyausome.com.au/autism/hyperlexia-and-hypernumeracy/)
 * **ICD**: See International Classification of Diseases
 * **Infantalize**: To treat as a child or in a way which denies their maturity in age or experience.
@@ -124,6 +127,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * [Youtube: Dan Siegel's Hand Model of the Brain, Flip Your Lid](https://www.youtube.com/watch?v=FTnCMxEnnv8)
 * [Understanding Behaviour as Communication](https://www.understood.org/en/articles/understanding-behavior-as-communication-a-teachers-guide)
   * (Behaviour is information/communication. There is no "Problem Behaviour".)
+* Keep a photo of child available for IEP and diagnostic consultations for when the child is not present, to remind professionals of the humanity of the individual being discussed. Source: [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
 
 
 ## Quotes & Inspiration
@@ -340,11 +344,6 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
 * Conferences, Courses, & Webinars
   * Empowered Families Conference [Event Link](https://inspirecommunityoutreach.ca/event/inspires-empowered-families-conference-2023/) Inspire Community Outreach [Link](https://inspirecommunityoutreach.ca/), Feb 25 2023
-* Books
-  * [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
-  * [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
-  * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
-  * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
 * Short Stories
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
@@ -367,6 +366,7 @@ Several questions below were copied from the table of contents of [Understanding
 
 * :star: "Let's pause this. He/she needs my immediate attention."
 * "His/her behaviour comes from a difference in how their brain is wired."
+* "My child is autistic (or has autism). That's why they do that."
 * "Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting."
 
 ## Showing signs of impending meltdown or event
@@ -434,6 +434,19 @@ GPT: Autism is a neurological condition that affects individuals in different wa
 
 ```
 
+## How to disclose an Autism diagnosis to child
+
+The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is described further in [Uniquely Human](https://www.goodreads.com/en/book/show/23492643) Chapter 12
+
+* Stephen Shore's 4 step process:
+  * Step 1: Make the child aware of their distinct personal strengths.
+  * Step 2: Develop a list of their strengths and challenges
+  * Step 3: Without judgment, discuss and compare the child's strengths and challenges of role models, friends, and loved ones.
+  * Step 4: Explain how the child's strengths and challenges lead to the diagnosis of Autism.
+* [Uniquelyhuman.com](https://uniquelyhuman.com/2021/04/02/disclosure-self-advocacy-dr-stephen-shore/) (link broken)
+* [Autism & Disclosure: Tips For Sharing Your Diagnosis, with Dr. Stephen Shore | EDB 219](https://differentbrains.org/autism-disclosure-tips-for-sharing-your-diagnosis-with-dr-stephen-shore-edb-219/)
+
+
 ## Myths and Misconceptions
 
 ### Myth: Autism is caused by bad parenting or neglect.
@@ -487,3 +500,13 @@ ASD is more than 4 times more common among boys than among girls.
 
 [cdc.gov](https://www.cdc.gov/ncbddd/autism/data.html)
 
+
+# Books
+
+The following books were used as inputs to this document.
+
+* [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
+* [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
+* [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
+* [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
+* [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
