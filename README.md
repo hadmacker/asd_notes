@@ -153,6 +153,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > You didn't lose a child to autism. You lost a child because the child you waited for never came into existence. That isn't the fault of the autistic child who does exist, and it shouldn't be our burden. We need and deserve families who can see us and value us for ourselves, not families whose vision of us is obscured by the ghosts of children who never lived. Grieve if you must, for your own lost dreams. But don't mourn for us. We are alive. We are real.   
 > Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993 [Wiki: Jim Sinclair (Activist)](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 
+> [To university students in a course on Autism]
+> Please understand that you will be getting on the merry-go-round with different families. You might be on my family's merry-go-round for one or two years before you get off. But please understand: we _live_ on this merry-go-round."
+> Terry Shepherd, 1979 from [Uniquely Human](https://www.goodreads.com/en/book/show/23492643) p153,154
 
 # Celebrities & Significant Individuals within the spectrum
 
