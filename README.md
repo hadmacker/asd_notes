@@ -216,6 +216,7 @@ Individuals should research these people independently. A search engine query fo
 
 ## Manitoba
 
+* [Adapt Manitoba](https://adaptmanitoba.ca/)
 * [Autism Spectrum Disorders Manitoba](https://asdmb.ca/)
 * [Inspire Community Outreach](https://inspirecommunityoutreach.ca/)
 * [Specialized Services for Children & Youth](https://sscy.ca/)
@@ -281,6 +282,7 @@ Individuals should research these people independently. A search engine query fo
 * [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
+* [Understandig Autism](https://adaptmanitoba.ca/understanding-autism/)
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [Spectrum News](https://www.spectrumnews.org/)
   * Unverified source
@@ -336,6 +338,7 @@ Individuals should research these people independently. A search engine query fo
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
+  * [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
   * TED & TEDx Talks
@@ -380,6 +383,22 @@ or...
 
 > Excuse me, he/she is attempting to communicate and needs my full attention.
 
+## How was he/she diagnosed?
+
+_Everyone's journey is unique. This is the author's journey to ASD awareness._
+
+* Journey began with child milestone delays.
+* Health care professional recommended an assessment.
+* Assessment with multiple professionals. This included...
+  * Interview with parents to understand behaviour leading to assessment, including milestone delays and behavioral patterns exhibited at home, school, and outings.
+  * Review of medical history for immediate and extended family.
+  * Playing with child, both in a leading and following role.
+  * Interrupting or changing play with controlled objectives to observe reaction (or lack of).
+  * Evaluation of speech and communication.
+  * Evaluation of fine motor skills, throwing, kicking, running.
+  * Assessment lasted approx. 60-90 minutes.
+  * Received an immediate diagnosis after assessment.
+* Follow-up documents, forms, and services received 90-180+ days later.
 
 ## Will he/she grow out of it?
 
