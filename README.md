@@ -2,9 +2,7 @@
 
 This document is a collection of links, resources, tools, and other sources discovered during personal investigation. Contributions may be submitted in the form of [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-
 * [Images](./Images.md)
-
 
 # Glossary
 
@@ -410,10 +408,12 @@ _Everyone's journey is unique. This is the author's journey to ASD awareness._
 
 ## Will he/she grow out of it?
 
-```
-GPT: Autism is a lifelong neurodevelopmental condition, which means that it does not go away or disappear over time. However, with the right support and interventions, individuals with autism can learn to navigate the world more effectively and develop skills and abilities that will help them to thrive. It's important to focus on supporting individuals with autism rather than trying to "cure" or "fix" them, as they are valuable members of our society who deserve respect and understanding. By providing the right support and accommodations, we can help individuals with autism achieve their full potential and contribute to society in meaningful ways.
+> Autism is a lifelong neurodevelopmental condition, which means that it does not go away or disappear over time. However, with the right support and interventions, individuals with autism can learn to navigate the world more effectively and develop skills and abilities that will help them to thrive.
 
-```
+or
+
+> One does't outgrow autism. It grows with them. With the right supports, individuals with autism may be able to develop life skills to help them live a fulfilling life with independence.
+
 
 ## What special talent does he/she have?
 
@@ -423,59 +423,32 @@ GPT: Autism is a lifelong neurodevelopmental condition, which means that it does
 
 ## Why can't you control your child?
 
-```
-GPT: Meltdowns are a common experience for many individuals with autism, and they can be very overwhelming and challenging to manage. It's important to understand that meltdowns are not a result of poor parenting or a lack of discipline, but rather a manifestation of the individual's unique sensory and emotional processing. Just like everyone else, individuals with autism have good days and bad days, and they may struggle to regulate their emotions and behavior during times of stress or overwhelm. Instead of blaming the individual or their family, it's important to offer understanding and support to help them navigate these difficult moments.
+> Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting.
 
-```
+or
 
-Also
-
-```
-GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
-
-```
+> I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment.
 
 ## Why should your kid get special treatment?
 
 > A child with autism should get what they need because they need it. Simple as that.  
 > From: [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 
-or
-
-> GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
-
-
-## Are you kidnapping that kid?
-
-```
-GPT: I understand that it may look unusual to see someone working closely with a child with autism, but we are not kidnapping anyone. We are working together to support the child's needs and help them develop skills and abilities that will enable them to navigate the world more effectively. Autism is a neurological condition that can make it challenging for individuals to communicate and interact with others, but with the right support and interventions, individuals with autism can lead fulfilling and meaningful lives. Instead of making assumptions or jumping to conclusions, it's important to approach situations like this with empathy and understanding.
-
-```
-
-## The "bad parent" glance
-
-```
-GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
-
-```
 
 ## They don't look autistic
 
-```
-GPT: Autism is a neurological condition that affects individuals in different ways, and there is no one-size-fits-all presentation of autism. Some individuals with autism may have more visible symptoms, while others may not show any outward signs at all. It's important to understand that every individual with autism is unique, and that the condition can manifest in a variety of ways. Just because someone doesn't fit the stereotypical image of autism doesn't mean that they don't have the condition or that they don't face unique challenges. Instead of making assumptions based on appearance, it's important to approach each individual with empathy and understanding, and to appreciate them for who they are as a whole person.
-
-```
+> Autism is a neurological condition that affects individuals in different ways, and there is no one-size-fits-all presentation of autism.
 
 ## How to disclose an Autism diagnosis to child
 
 The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is described further in [Uniquely Human](https://www.goodreads.com/en/book/show/23492643) Chapter 12
 
-* Stephen Shore's 4 step process:
+* Dr. Stephen Shore's 4 step process:
   * Step 1: Make the child aware of their distinct personal strengths.
   * Step 2: Develop a list of their strengths and challenges
   * Step 3: Without judgment, discuss and compare the child's strengths and challenges of role models, friends, and loved ones.
   * Step 4: Explain how the child's strengths and challenges lead to the diagnosis of Autism.
-* [Uniquelyhuman.com](https://uniquelyhuman.com/2021/04/02/disclosure-self-advocacy-dr-stephen-shore/) (link broken)
+* [Uniquelyhuman.com](https://uniquelyhuman.com/2021/04/02/disclosure-self-advocacy-dr-stephen-shore/)
 * [Autism & Disclosure: Tips For Sharing Your Diagnosis, with Dr. Stephen Shore | EDB 219](https://differentbrains.org/autism-disclosure-tips-for-sharing-your-diagnosis-with-dr-stephen-shore-edb-219/)
 
 
@@ -483,7 +456,6 @@ The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is d
 
 ### Myth: Autism is caused by bad parenting or neglect.
 
-```
 GPT: The notion that autism is caused by bad parenting or neglect is a harmful myth that has been debunked by scientific evidence. There is no evidence to support the idea that parents are responsible for causing autism in their children. Instead, research suggests that autism is primarily caused by genetic factors.
 
 Numerous studies have investigated the causes of autism, and none have found any evidence to support the idea that bad parenting or neglect plays a role. In fact, research has consistently shown that autism is a highly heritable condition, meaning that it is largely influenced by genetics. For example, a 2019 study published in the journal Nature Genetics found that genetic factors accounted for around 80% of the risk of developing autism.
@@ -503,18 +475,17 @@ Singer, G. H. (2006). Meta-analysis of comparative studies of depression in moth
 Hastings, R. P., & Johnson, E. (2001). Stress in UK families conducting intensive home-based behavioural intervention for their young child with autism. Journal of Autism and Developmental Disorders, 31(3), 327-336. doi: 10.1023/A:1010695802499 [Link](https://link.springer.com/article/10.1007/s10803-014-2178-7)
 
 Estes, A., Olson, E., Sullivan, K., Greenson, J., Winter, J., Dawson, G., & Munson, J. (2013). Parenting-related stress and psychological distress in mothers of toddlers with autism spectrum disorders. Brain Development, 35(2), 133-138. doi: 10.1007/s10578-012-0304-2 [Link: braindevelopment.com](https://www.brainanddevelopment.com/article/S0387-7604(12)00262-8/fulltext) - [Link: nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552060/)
-```
 
 ### Myth: People with autism lack empathy.
 
-```
 GPT: Actually, people with autism can experience and express empathy in their own unique ways. They may struggle with understanding social cues and nonverbal communication, but this does not mean they are incapable of empathy.
-```
+
 
 ### Myth: Autism is a mental illness.
 
 > Autism is not an illness and there is no cure.  
 > [nhs.uk](https://www.nhs.uk/conditions/autism/autism-and-everyday-life/treatments-that-are-not-recommended-for-autism/)
+
 
 ### Myth: Autism can be cured.
 
@@ -535,10 +506,11 @@ ASD is more than 4 times more common among boys than among girls.
 
 # Books
 
-The following books were used as inputs to this document.
+While this is not a comprehensive list of all inputs to this document, many of the resources cited were discovered in one of the following books:
 
 * [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
 * [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
 * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
 * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
-* [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
+* [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
+* [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
