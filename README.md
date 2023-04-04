@@ -88,7 +88,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 # Statistics
 
 * [Centers for Disease Control and Prevention (CDC) Data and Statistics on ASD](https://www.cdc.gov/ncbddd/autism/data.html)
-  * 2020: **1 in 36 children** in the United States has been identified with ASD
+  * 2020: About **1 in 36 children** in the United States has been identified with ASD
     * This number differs greatly from the WHO statistic of **1 in 100 children** are believed to have Autism. [who.int, 2022](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders)
   * ASD is **4 times more common among boys than among girls**.
   * **1 in 6 children** were diagnosed with a development disability.
@@ -100,6 +100,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 # Diagnostic Criteria
 
 :warning: Diagnostic criteria sources below are provided for reference context and should not be used for self-diagnosis or evaluation without consulting a licensed professional.
+
+* [Early Childhood Indicators of Autism](https://www.autismontario.com/news/early-childhood-indicators-autism)
 
 ## DSM-5
 
@@ -214,27 +216,33 @@ Individuals should research these people independently. A search engine query fo
 
 # Organizations
 
-## Manitoba
+## Canada
+
+* [Autism: About, causes, and co-occurring conditions, canada.ca](https://www.canada.ca/en/public-health/services/diseases/autism-spectrum-disorder-asd.html)
+
+### British Columbia
+
+* [Autism Spectrum Disorder, gov.bc.ca](https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/autism-spectrum-disorder)
+
+### Manitoba
 
 * [Adapt Manitoba](https://adaptmanitoba.ca/)
 * [Autism Spectrum Disorders Manitoba](https://asdmb.ca/)
 * [Inspire Community Outreach](https://inspirecommunityoutreach.ca/)
 * [Specialized Services for Children & Youth](https://sscy.ca/)
 
-## Canada
-
 ## Elsewhere
 
 * [ASAN: Autistic Self Advocacy Network](https://autisticadvocacy.org/)
-* Autism Speaks
-  * :warning: Not directly linked here. See Controversies section for additional context.
-  * While this source may provide some useful content, individuals are encouraged to do their own research before using this source as an expert on Autism.
+* [Autism Speaks](https://autismspeaks.org)
+  * :warning: Central to numerous controversies in the past. See Controversies section for more details.
 * Autism Society of America 
   * [Main](https://autismsociety.org/)
   * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
 * [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
 * Focus on the Family
   * Religious organization providing some special needs articles and book publication.
+  * [Autism search results, focusonthefamily.com](https://www.focusonthefamily.com/?s=autism) - [focusonthefamily.ca](https://www.focusonthefamily.ca/content/filter/latest/article,broadcast,product/all/parenting?search=autism)
   * References ABA therapy as the primary treatment method for Autism, followed by medication and diet. 
   * :warning: Links to Autism Speaks. (See Controversies section for additional context around Autism Speaks.)
     * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
@@ -364,7 +372,7 @@ Individuals should research these people independently. A search engine query fo
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments
 
-Several questions below were copied from the table of contents of [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf) although this book has not been reviewed for answers.
+Several questions below come from [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 
 :warning: Several answers below are marked "GPT" and were provided verbatim from ChatGPT. Individuals should review these for correctness and clarity.
 
@@ -387,18 +395,18 @@ or...
 
 _Everyone's journey is unique. This is the author's journey to ASD awareness._
 
-* Journey began with child milestone delays.
-* Health care professional recommended an assessment.
-* Assessment with multiple professionals. This included...
-  * Interview with parents to understand behaviour leading to assessment, including milestone delays and behavioral patterns exhibited at home, school, and outings.
+* [How Autism is Diagnosed, gov.bc.ca](https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/autism-spectrum-disorder/diagnosis/how-autism-is-diagnosed)
+* Often begins with observation of child milestone delays. 
+  * [Early Childhood Indicators of Autism, autismontario.com](https://www.autismontario.com/news/early-childhood-indicators-autism)
+* Health care professional submits a referral for an assessment.
+* Assessment may include...
+  * Interview with parents to understand medical and developmental history, including behaviours leading to assessment, in addition to social interaction and communication strategies.
   * Review of medical history for immediate and extended family.
-  * Playing with child, both in a leading and following role.
-  * Interrupting or changing play with controlled objectives to observe reaction (or lack of).
+  * Playing/interacting with child, both in a leading and following role.
+  * Interrupting or changing play with controlled objectives to observe reaction (or lack thereof).
   * Evaluation of speech and communication.
   * Evaluation of fine motor skills, throwing, kicking, running.
-  * Assessment lasted approx. 60-90 minutes.
-  * Received an immediate diagnosis after assessment.
-* Follow-up documents, forms, and services received 90-180+ days later.
+
 
 ## Will he/she grow out of it?
 
@@ -409,10 +417,9 @@ GPT: Autism is a lifelong neurodevelopmental condition, which means that it does
 
 ## What special talent does he/she have?
 
-```
-GPT: Every person, regardless of whether they have a disability or not, is unique and has their own strengths and challenges. Instead of focusing on any perceived special talents or abilities, it's important to appreciate and respect individuals with autism for who they are as a whole person. I believe that every individual has something valuable to contribute, and it's important to focus on their abilities rather than their disabilities.
+> Some autistic children have special talents and some don't, just like the rest of us. What's _your_ special talent?  
+> From:[Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 
-```
 
 ## Why can't you control your child?
 
@@ -430,10 +437,13 @@ GPT: I understand that my child's behavior may appear disruptive or challenging 
 
 ## Why should your kid get special treatment?
 
-```
-GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
+> A child with autism should get what they need because they need it. Simple as that.  
+> From: [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 
-```
+or
+
+> GPT: I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment. Autism is a complex neurological condition that can make it challenging for individuals to regulate their emotions and behavior, especially during times of stress or overwhelm. As a parent, my top priority is to ensure the safety and well-being of my child, and I am doing everything I can to help them manage this situation. I would appreciate your understanding and support, rather than judgment or criticism, as we work through this together. Thank you.
+
 
 ## Are you kidnapping that kid?
 
