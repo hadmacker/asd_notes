@@ -454,27 +454,12 @@ The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is d
 
 ## Myths and Misconceptions
 
+* [Dispelling Common Myths about Autism](https://www.adventisthealth.org/blog/2019/april/dispelling-common-myths-about-autism)
+
 ### Myth: Autism is caused by bad parenting or neglect.
 
-GPT: The notion that autism is caused by bad parenting or neglect is a harmful myth that has been debunked by scientific evidence. There is no evidence to support the idea that parents are responsible for causing autism in their children. Instead, research suggests that autism is primarily caused by genetic factors.
+This myth is based on a theory that was debunked a long time ago. Sadly, it wrongly attributed autism to some mothers’ alleged lack of emotional warmth. No one knows exactly what causes autism. But scientists think genetics play the biggest role.
 
-Numerous studies have investigated the causes of autism, and none have found any evidence to support the idea that bad parenting or neglect plays a role. In fact, research has consistently shown that autism is a highly heritable condition, meaning that it is largely influenced by genetics. For example, a 2019 study published in the journal Nature Genetics found that genetic factors accounted for around 80% of the risk of developing autism.
-
-Moreover, research has shown that parental behavior has little to no impact on the likelihood of a child developing autism. A 2015 study published in the Journal of Autism and Developmental Disorders found that parenting behavior did not differ between parents of children with autism and parents of typically developing children. Another study published in the same journal in 2019 found no association between early parenting behavior and the risk of developing autism.
-
-In summary, the idea that bad parenting or neglect causes autism is a myth that has been debunked by scientific evidence. Autism is a complex neurodevelopmental condition that is primarily caused by genetic factors, and parental behavior has little to no impact on the likelihood of a child developing autism. It is important to dispel these harmful myths and focus on providing support and understanding to individuals with autism and their families.
-
-Here are the references to the studies mentioned in my response:
-
-Gaugler, T., Klei, L., Sanders, S. J., Bodea, C. A., Goldberg, A. P., Lee, A. B., ... & Buxbaum, J. D. (2014). Most genetic risk for autism resides with common variation. Nature Genetics, 46(8), 881-885. doi: 10.1038/ng.3039 [Link](https://www.nature.com/articles/ng.3039)
-
-Oono, I. P., Honey, E. J., & McConachie, H. (2013). Parent-mediated early intervention for young children with autism spectrum disorders (ASD). Cochrane Database of Systematic Reviews, (4). doi: 10.1002/14651858.CD009774.pub2 [Link](https://pubmed.ncbi.nlm.nih.gov/23633377/)
-
-Singer, G. H. (2006). Meta-analysis of comparative studies of depression in mothers of children with and without developmental disabilities. American Journal on Mental Retardation, 111(3), 155-169. doi: 10.1352/0895-8017(2006)111[155:MOCSOD]2.0.CO;2
-
-Hastings, R. P., & Johnson, E. (2001). Stress in UK families conducting intensive home-based behavioural intervention for their young child with autism. Journal of Autism and Developmental Disorders, 31(3), 327-336. doi: 10.1023/A:1010695802499 [Link](https://link.springer.com/article/10.1007/s10803-014-2178-7)
-
-Estes, A., Olson, E., Sullivan, K., Greenson, J., Winter, J., Dawson, G., & Munson, J. (2013). Parenting-related stress and psychological distress in mothers of toddlers with autism spectrum disorders. Brain Development, 35(2), 133-138. doi: 10.1007/s10578-012-0304-2 [Link: braindevelopment.com](https://www.brainanddevelopment.com/article/S0387-7604(12)00262-8/fulltext) - [Link: nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552060/)
 
 ### Myth: People with autism lack empathy.
 
