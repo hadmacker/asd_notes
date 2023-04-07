@@ -169,7 +169,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.  
 > Albert Einstein  
 
-# Celebrities & Significant Individuals within the spectrum
+# Individuals within the spectrum
 
 ## Confirmed Diagnosis or Self Disclosed
 
