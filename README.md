@@ -12,8 +12,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
-  * [See: Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
-  * [Controversy around ABA Therapy, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
+  * [What is Applied Behaviour Analysis?, Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
+  * See Controversies section for further resources.
   * See also: _Masking_, _Scripts_.
 * **ASC**: Autism Spectrum Condition
   * Coined by: Angela Taylor (Inspire Community Outreach)
@@ -249,7 +249,7 @@ Individuals should research these people independently. A search engine query fo
 
 * [ASAN: Autistic Self Advocacy Network](https://autisticadvocacy.org/)
 * [Autism Speaks](https://autismspeaks.org)
-  * :warning: Central to numerous controversies in the past. See Controversies section for more details.
+  * :warning: Central to numerous controversies in their past. See Controversies section for further detail.
 * Autism Society of America 
   * [Main](https://autismsociety.org/)
   * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
@@ -350,6 +350,7 @@ Individuals should research these people independently. A search engine query fo
 * Hans Asperger was involved with Nazi programs to send children to euthanasia clinics although his role and willingness to support such programs was unclear. [Wikipedia](https://en.wikipedia.org/wiki/Hans_Asperger)
 * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
 * [Damage over Generations. Quotes by Major Influencers in Autism](https://the-art-of-autism.com/damage-over-generations-quotes-by-major-influencers-in-autism/)
+* [The Controversy around ABA, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
 
 
 # Law
