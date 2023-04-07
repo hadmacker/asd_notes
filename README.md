@@ -128,6 +128,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * [Understanding Behaviour as Communication](https://www.understood.org/en/articles/understanding-behavior-as-communication-a-teachers-guide)
   * (Behaviour is information/communication. There is no "Problem Behaviour".)
 * Keep a photo of child available for IEP and diagnostic consultations for when the child is not present, to remind professionals of the humanity of the individual being discussed. Source: [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
+* Instead of an _obsession_, call it an _enthusiasm_, a _passion_, or a _specific interest_.
+* [Stuart Shanker's Five Steps of Self-Reg, self-reg.ca](https://self-reg.ca/wp-content/uploads/2021/05/infosheet_SelfRegParents.pdf)
 
 
 ## Quotes & Inspiration
@@ -157,22 +159,36 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > Please understand that you will be getting on the merry-go-round with different families. You might be on my family's merry-go-round for one or two years before you get off. But please understand: we _live_ on this merry-go-round."
 > Terry Shepherd, 1979 from [Uniquely Human](https://www.goodreads.com/en/book/show/23492643) p153,154
 
+> The assumption that a child who can’t communicate has nothing to say is as patently ridiculous as assuming an adult without a car has nowhere to go.  
+> [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
+
+> If autism is seen as something that must be hated, autistic young people will obediently grow up hating themselves.  
+> Autisticnotweird.com, ["Hating autism" and the damage it does](http://autisticnotweird.com/hating-autism/)
+
+> Everyone is a genius.  
+> But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.  
+> Albert Einstein  
+
 # Celebrities & Significant Individuals within the spectrum
 
 ## Confirmed Diagnosis or Self Disclosed
 
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
-* Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
-  * Humane Livestock slaughter, Squeeze machine
-* [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
-* [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
+* Daniel Tammet, Author with Aspergers syndrome and savant syndrome[Wikipedia](https://en.wikipedia.org/wiki/Daniel_Tammet)
 * [Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)
   * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
+* [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
 * Jason Arday [Wikipedia](https://en.wikipedia.org/wiki/Jason_Arday)
   * GDD: Learned to speak at 11 years old, read & write at 18.
   * [Youtube: Man who learnt to read at 18 becomes Cambridge University's youngest ever black professor - BBC News](https://youtu.be/g28uXeXz9l8)
 * Jim Sinclair, Autism Activist [Wikipedia](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 * Hannah Gadsby, Comedian [npr.org](https://www.npr.org/2020/05/26/862081893/autism-spectrum-diagnosis-helped-comic-hannah-gadsby-be-kinder-to-herself)
+* [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
+* [Michael John Carley](https://michaeljohncarley.com/books/), Author
+* Dr. [Stephen Shore](https://drstephenshore.com/), Professor of special education
+* Stephen Wiltshire, British architectural artist and autistic savant [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wiltshire)
+* Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
+  * Humane Livestock slaughter, Squeeze machine
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
 
@@ -277,8 +293,20 @@ Individuals should research these people independently. A search engine query fo
 
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
+* [Boy afraid he'll be on "naughty list" because of his autism, 6abc.com](https://6abc.com/santa-naught-list-michigan-christmas/1114282/)
 * Blogs
   * [Autistic Hoya, Lydia X. Z. Brown](https://www.autistichoya.com/)
+  * [autisticnotweird.com](https://autisticnotweird.com)
+    * [Bridging the gap between Autistic Adults and Autism Parents](https://autisticnotweird.com/bridging-the-gap/)
+      * Related: [Three lessons an "Autism mum" leart from meeting an Adult Autistic Advocate](https://faithmummy.wordpress.com/2018/02/13/three-lessons-an-autism-mum-learnt-from-meeting-an-adult-autistic-advocate/)
+    * [Five ways to damage autistic children without even knowing](https://autisticnotweird.com/five-ways-to-damage/)
+    * ["Hating autism" and the damage it does](http://autisticnotweird.com/hating-autism/)
+  * [The Art of Autism](https://the-art-of-autism.com/)
+    * [Favorite quotes about Autism and Aspergers](https://the-art-of-autism.com/favorite-quotes-about-autism-and-aspergers/)
+    * [Lunch with Temple Grandin: 11 recommendations for artists](https://the-art-of-autism.com/lunch-with-temple-grandin-eleven-recommendations-for-artists/)
+    * [The problem with creating perfect babies accordig to Finn](https://the-art-of-autism.com/the-problem-with-creating-pefect-babies-according-to-10-year-old-finn/)
+  * [The Autism Cafe](https://theautismcafe.com)
+    * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Righting the Gender Imbalance in Autism Studies](https://www.spectrumnews.org/features/deep-dive/righting-gender-imbalance-autism-studies/)
   > Because autistic girls tend to exhibit different traits than autistic boys do, they are frequently overlooked by teachers, doctors and standard diagnostic tools. Those omissions carry over into the research literature...
@@ -290,18 +318,27 @@ Individuals should research these people independently. A search engine query fo
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
 * [Understandig Autism](https://adaptmanitoba.ca/understanding-autism/)
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
-* [Spectrum News](https://www.spectrumnews.org/)
-  * Unverified source
-* [WrongPlanet.net](https://wrongplanet.net/)
-  * Unverified source
-  * Referenced in book, _The Autistic Brain_ (Grandin)
+* [Why the focus of autism research is shifting away from searching for a 'cure', nbcnews.com](https://www.nbcnews.com/health/kids-health/cure-autism-not-so-fast-n1055921)
 
+### Education & Employment
+
+* [The Neurodiversity @ Work Employer Roundtable launching Neurodiversity Career Connector job search portal for neurodivergent candidates](https://news.microsoft.com/2022/04/27/the-neurodiversity-work-employer-roundtable-and-nonprofit-disabilityin-are-launching-the-neurodiversity-career-connector-a-job-search-portal-for-neurodivergent-candidates/)
+  * [Neurodiversity @ Work Employer Roundtable](https://disabilityin.org/what-we-do/committees/neurodiversity-at-work-roundtable/)
+* [Neurodiversity as a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
+* [Neurodiversity Hiring Initiatives](https://askearn.org/page/neurodiversity-hiring-initiatives-and-partnerships)
+* [Why SAP Wants to hire nearly 700 Adults with Autism](https://www.inc.com/jeff-chu/sap-autism-india.html)
+
+#### Academia
+
+* [Bellevue College: Autism Spectrum Navigators](https://www.bellevuecollege.edu/autismspectrumnavigators/)
+* [Drexel: Employment Resources](https://drexel.edu/autismoutcomes/topics/employment/)
 
 # Controversies
 
 * [Wiki: Controversies in Autism](https://en.wikipedia.org/wiki/Controversies_in_autism)
 * Judge Rotenberg Educational Center [Wikipedia](https://en.wikipedia.org/wiki/Judge_Rotenberg_Educational_Center)
   * Controversy over its use of aversives in the form of electric shock punishment.
+  * [2018, Massachusetts school can continue using electric shocks on special needs students, judge rules](https://www.independent.co.uk/news/world/americas/electric-shock-therapy-school-special-needs-children-massachusetts-judge-rotenberg-center-canton-a8429736.html)
   * [#StopTheShock: The Judge Rotenberg Center, Torture, and How We can Stop It](https://autisticadvocacy.org/actioncenter/issues/school/climate/jrc/)
     > Some schools use **restraint and seclusion** on people with disabilities. Some use **aversives**. All three are very dangerous!
 * Autism Speaks Controversies [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
@@ -354,18 +391,12 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: Dear Society... Signed, Autism, Daniel Share-Strom](https://www.youtube.com/watch?v=8HG5xD4xD2U)
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
+* [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
 * Conferences, Courses, & Webinars
   * Empowered Families Conference [Event Link](https://inspirecommunityoutreach.ca/event/inspires-empowered-families-conference-2023/) Inspire Community Outreach [Link](https://inspirecommunityoutreach.ca/), Feb 25 2023
 * Short Stories
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
-
-
-# Education & Employment
-
-* [Bellevue College: Autism Spectrum Navigators](https://www.bellevuecollege.edu/autismspectrumnavigators/)
-* [Drexel: Employment Resources](https://drexel.edu/autismoutcomes/topics/employment/)
-* [Neurodiversity Hiring Initiatives](https://askearn.org/page/neurodiversity-hiring-initiatives-and-partnerships)
 
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments
