@@ -39,8 +39,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Electroconvulsive Therapy**: Electroconvulsive Therapy [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/electroconvulsive-therapy/about/pac-20393894)
   > Electroconvulsive therapy (ECT) is a procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure. ECT seems to cause changes in brain chemistry that can quickly reverse symptoms of certain mental health conditions.
 * **Etiology**: the cause or set of causes for a disease or condition
+* **Extrapyramidal Effects**: [WebMD](https://www.webmd.com/schizophrenia/what-are-extrapyramidal-effects) Uncontrollable involuntary movements
 * **GDD**: See Global Development Delay
 * **Genotype**: Genetic traits
+* **Gestalt Language Processing**: A form of language development that starts with whole memorized phrases instead of individual words. Individual words within a chunk may not be recognized by the person. [Gestalt Language Processing and AAC](https://www.assistiveware.com/blog/gestalt-language-processing-aac)
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
 * **Heterogeneity**: Having diverse characteristics or content
 * **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia). See also _Hypernumeracy_ and _Hyperlexia_.
@@ -55,23 +57,27 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Irlen Syndrome**: A visual perceptual processing disorder. Coloured glasses have been shown to improve quality of life.
 * **Kanner, Leo**: [Wikipedia](https://en.wikipedia.org/wiki/Leo_Kanner)
   * In 1943, Dr. Leo Kanner (Psychiatrist) published the first systematic description of early infantile autism. He concluded that this was a neurodevelopmental disorder and that 'these children have come into the world with an innate inability to form the usual, biologically provided contact with people'. [Source: nih.gov](https://pubmed.ncbi.nlm.nih.gov/29667863)
+* **Kinesthesia**: See Proprioception.
 * **Leo Kanner**: See Kanner, Leo
 * **Macrocephaly**: A condition having an enlarged head
 * **Masking**: The process for a neurodivergent individual to fake a neurotypical persona in public or for a scenario. See also: _Scripts_.
 * **Mind**: While the _mind_ is associated with the _brain_ and often the two terms are used interchangeably, the brain is considered to be a physical thing (biology) and the mind is considered to be mental. [Source: byjus.com](https://byjus.com/biology/difference-between-brain-and-mind/)
 * **Neurodevelopmental Disorder**: Conditions that impact how the brain works
 * **Neurodivergent**: Describes people whose brain differences affect how their brain works. [See: cleveladclinic.org](https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent)
+* **Neuroleptic Malignant Syndrome**: A life-threatening, neurological disorder most often caused by an adverse reaction to neuroleptic or antipsychotic drugs. [nih.gov](https://www.ninds.nih.gov/health-information/disorders/neuroleptic-malignant-syndrome)
 * **Neurology**: Science of the physiology of the brain.
   * Neurologists (Neurology) and psychiatrists (Psychiatry) both work with conditions and diseases that affect the brain and mind. However, neurologists specialize in physiological illnesses, while psychiatrists specialize in psychological disorders
 * **Neurospicy**: A colloquial portmanteau synonym for Neurodivergent. See Neurodivergent.
 * **Neurotypical**: An individual with "normal" behaviour
 * **Nosology**: The branch of medical science dealing with the classification of diseases
   * Relevance: The changing diagnostic criteria and scope for individuals with Autism
+* **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with spreptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
 * **PDD-NOS**: Pervasive Development Disorder - Not Otherwise Specified
   * DSM-III-R, 1987
 * **Phenotype**: Observed behaviour and traits
 * **Physiology**: The science of life and biology
 * **Pica**: (PIE-kuh) [Kidshealth: Pica is an eating disorder where a person eats things not usually considred food (i.e., grass, toys)](https://kidshealth.org/en/parents/pica.html)
+* **Proprioception**: The sense through which we perceive the position and movement of our body, including our sense of equillibrium and balance. Senses that depend on the notion of force. [sciencedirect.com](https://www.sciencedirect.com/topics/neuroscience/proprioception) - [Vestibular System and Proprioception: The Two Unknown Senses, propriorochsner.org](https://blog.ochsner.org/articles/vestibular-system-and-proprioception-the-two-unknown-senses)
 * **Psychiatry**: The science of the _mind_ specializing in psychological (behavioural) disorders.
 * **Psychopathy**: Mental illness or disorder
 * **Scripts**: rehearsed patterns used by a neurodivergent individual to exhibit a neurotypical response to a situation. See also: _Masking_.
@@ -80,7 +86,11 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * Stimming is not necessarily "bad" and may be allowed to continue if it does not interfere with life [Source: psychiatry.org](https://www.psychiatry.org/News-room/APA-Blogs/Understand-Stimming-Repetitive-Behaviors-Purpose)
   > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay...
 * **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space". A recent (2017) [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) word for Autism. [Wikipedia](https://en.wiktionary.org/wiki/takiw%C4%81tanga)
+* **tardive dyskinesia**: movement disorder characterized by uncontrollable, abnormal, and repetitive movements of the face, torso, and/or other body parts. This disorder may be caused by certain drugs. 
+* **Theory of Mind**: The ability to understand other people's thoughts and emotions. Individuals with autism may perform poorly on stadard theory of mind tasks. [Spectrumnews.org](https://www.spectrumnews.org/features/deep-dive/theory-of-mind-in-autism-a-research-field-reborn/)
 * **Trichotillomania**: An irresistable urge to pull one's hair. [nhs.uk](https://www.nhs.uk/mental-health/conditions/trichotillomania)
+* **Vestibular**: relating to dizziness, vertigo. [Vestibular System and Proprioception: The Two Unknown Senses, propriorochsner.org](https://blog.ochsner.org/articles/vestibular-system-and-proprioception-the-two-unknown-senses)
+
 
 
 # Statistics
@@ -289,10 +299,23 @@ Individuals should research these people independently. A search engine query fo
 * [A word on "Warrior Moms"](https://restlesshands42.wordpress.com/2016/07/22/a-word-on-warrior-moms/)
 * [Dear Autism Warrior Parents](https://www.jademikell.com/blog/2019/12/15/dear-autism-parents)
 
+### Interventions
+
+* **Developmental Individual Difference Relation-Based Intervention (DIR)**
+  * Developed by Stanley Greenspan and Serena Wieder, approach autism from a developmental point of view rather than as a behavioral issue. DIR is a less-structured model for behavioral intervention, focusing on strengthening and then building upon the emotional bond of the child with his or her caregiver. This method is often referred to as Floortime; however, the Floortime component is only part of the approach.
+  * [DIR Floortime Therapy](https://www.autismparentingmagazine.com/floortime-therapy/)
+* **The Miller Method**
+  * Arnold Miller
+  * [millermethod.org](http://www.millermethod.org/)
+* **Relationship Development Intervention (RDI)**
+  * [autismspeaks.org](https://www.autismspeaks.org/relationship-development-intervention-rdi-0)
+
+
 ### General
 
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
+* [Autism's Drug Problem](https://www.spectrumnews.org/features/deep-dive/autisms-drug-problem/)
 * [Boy afraid he'll be on "naughty list" because of his autism, 6abc.com](https://6abc.com/santa-naught-list-michigan-christmas/1114282/)
 * Blogs
   * [Autistic Hoya, Lydia X. Z. Brown](https://www.autistichoya.com/)
@@ -308,6 +331,7 @@ Individuals should research these people independently. A search engine query fo
   * [The Autism Cafe](https://theautismcafe.com)
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
+* [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
 * [Righting the Gender Imbalance in Autism Studies](https://www.spectrumnews.org/features/deep-dive/righting-gender-imbalance-autism-studies/)
   > Because autistic girls tend to exhibit different traits than autistic boys do, they are frequently overlooked by teachers, doctors and standard diagnostic tools. Those omissions carry over into the research literature...
 * [Sharing an Autism Diagnosis with Family and Friends](https://childmind.org/article/sharing-an-autism-diagnosis-with-family-and-friends/)
@@ -322,6 +346,7 @@ Individuals should research these people independently. A search engine query fo
 
 ### Education & Employment
 
+* [Disability Discrimination and Employment Decisions](https://www.eeoc.gov/disability-discrimination-and-employment-decisions)
 * [The Neurodiversity @ Work Employer Roundtable launching Neurodiversity Career Connector job search portal for neurodivergent candidates](https://news.microsoft.com/2022/04/27/the-neurodiversity-work-employer-roundtable-and-nonprofit-disabilityin-are-launching-the-neurodiversity-career-connector-a-job-search-portal-for-neurodivergent-candidates/)
   * [Neurodiversity @ Work Employer Roundtable](https://disabilityin.org/what-we-do/committees/neurodiversity-at-work-roundtable/)
 * [Neurodiversity as a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
@@ -412,6 +437,11 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 * "His/her behaviour comes from a difference in how their brain is wired."
 * "My child is autistic (or has autism). That's why they do that."
 * "Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting."
+* They're not givimg me a hard time, they're having a hard time.
+* They're all out of calm, so I need to give them calm.
+* They're overwhelmed and needs quiet, not demands.
+* Love the child in front of you. There isn't a different child hiding inside. This is the child you need to love.
+* This is what we're doing now. 
 
 ## Showing signs of impending meltdown or event
 
@@ -420,6 +450,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 or...
 
 > Excuse me, he/she is attempting to communicate and needs my full attention.
+
 
 ## How was he/she diagnosed?
 
@@ -454,6 +485,14 @@ or
 
 
 ## Why can't you control your child?
+
+> They're all out of calm, so I need to give them calm.
+
+or...
+
+> They're not giving me a hard time, they're having a hard time.
+
+or...
 
 > Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting.
 
