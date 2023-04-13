@@ -177,7 +177,15 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 > Everyone is a genius.  
 > But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.  
-> Albert Einstein  
+> Albert Einstein
+
+> What would happen if the autism gene was eliminated from the gene pool? You would have a bunch of people standing around in a cave, chatting and socializing and not getting anything done.  
+> Temple Grandin  
+
+> We can also express it like this: the difficulties, which this boy has with himself as well as with his relationship to the world, are the price he has to pay for his special gifts.  
+> Hans Asperger, 1938  
+> [The Complete Guide to Aspergers Syndrome](https://www.goodreads.com/author/quotes/4969670.Tony_Attwood)  
+> Also quoted in []()
 
 # Individuals within the spectrum
 
@@ -185,6 +193,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * Daniel Tammet, Author with Aspergers syndrome and savant syndrome[Wikipedia](https://en.wikipedia.org/wiki/Daniel_Tammet)
+* Daryl Hannah
+  * Actress, environmental activist
+  * [Wikipedia](https://en.wikipedia.org/wiki/Daryl_Hannah)
 * [Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)
   * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
 * [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
@@ -206,20 +217,25 @@ In the book "The Autistic Mind" (Grandin) explains the history of Autism and how
 
 Individuals should research these people independently. A search engine query for "Did _name_ have autism?" will result in apocryphal observations justifying a diagnosis using the current understanding of the condition.
 
-* **Nikola Tesla**
-  * A/C Electricity, A/C Motor, Radio-controlled robots
 * **Albert Einstein**
   * Theoretical Physics, Nuclear physics, Atomic Bomb research
+* **Bill Gates**
+  * Microsoft, Windows, Malaria Research
+* **Henry Cavendish (1731–1810)**
+  * [Henry Cavendish and Asperger’s syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0191886909000294)
+  * Scientist, Father of modern physics, inventor, discovered hydrogen, early Electricity pioneer
+  > Cavendish was a great Man with extraordinary singularities...  
+  > [Humphry Davy](https://www.goodreads.com/quotes/952997-author-cavendish-3980665-was-a-great-man-with-extraordinary-singularities-his-voice-was)
 * **Mozart**
   * [Did Mozart have Autism](https://www.crossrivertherapy.com/autism/did-mozart-have-autism)
   * Child Prodigy, perfect musical memory, ability to read music
   * Sound sensitivity to loud noises, Short attention span
-* **Vincent Van Gogh**
+* **Nikola Tesla**
+  * A/C Electricity, A/C Motor, Radio-controlled robots
 * **Steve Jobs**
   * Apple
-* **Bill Gates**
-  * Microsoft, Windows, Malaria Research
 * **Thomas Jefferson**
+* **Vincent Van Gogh**
 
 
 # Accommodations
@@ -332,21 +348,29 @@ Individuals should research these people independently. A search engine query fo
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
+* [Once upon a timne, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
+* [Receptiove and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
+  > **Receptive language** refers to how your child understands language.  
+  > **Expressive language** refers to how your child uses words to express himself/herself.
 * [Righting the Gender Imbalance in Autism Studies](https://www.spectrumnews.org/features/deep-dive/righting-gender-imbalance-autism-studies/)
   > Because autistic girls tend to exhibit different traits than autistic boys do, they are frequently overlooked by teachers, doctors and standard diagnostic tools. Those omissions carry over into the research literature...
 * [Sharing an Autism Diagnosis with Family and Friends](https://childmind.org/article/sharing-an-autism-diagnosis-with-family-and-friends/)
 * [(2012) New Rules Allow Joint Diagnosis of Autism, Attention Deficit](https://www.spectrumnews.org/news/new-rules-allow-joint-diagnosis-of-autism-attention-deficit/)
   > The DSM-5... eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
 * [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
+* [Sensory seeking vs. Sensory avoiding: What you need to know](https://www.understood.org/en/articles/sensory-seeking-and-sensory-avoiding-what-you-need-to-know)
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
 * [Understandig Autism](https://adaptmanitoba.ca/understanding-autism/)
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
+* [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
 * [Why the focus of autism research is shifting away from searching for a 'cure', nbcnews.com](https://www.nbcnews.com/health/kids-health/cure-autism-not-so-fast-n1055921)
 
 ### Education & Employment
 
 * [Disability Discrimination and Employment Decisions](https://www.eeoc.gov/disability-discrimination-and-employment-decisions)
+* [The Autism Advantage, Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2012/11/the-autism-advantage.html)
+  > The autistic worker, Cowen wrote, has an unusually wide variation in his or her skills, with higher highs and lower lows. Yet today, he argued, it is increasingly a worker’s greatest skill, not his average skill level, that matters. As capitalism has grown more adept at disaggregating tasks, workers can focus on what they do best, and managers are challenged to make room for brilliant, if difficult, outliers. 
 * [The Neurodiversity @ Work Employer Roundtable launching Neurodiversity Career Connector job search portal for neurodivergent candidates](https://news.microsoft.com/2022/04/27/the-neurodiversity-work-employer-roundtable-and-nonprofit-disabilityin-are-launching-the-neurodiversity-career-connector-a-job-search-portal-for-neurodivergent-candidates/)
   * [Neurodiversity @ Work Employer Roundtable](https://disabilityin.org/what-we-do/committees/neurodiversity-at-work-roundtable/)
 * [Neurodiversity as a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
@@ -366,13 +390,12 @@ Individuals should research these people independently. A search engine query fo
   * [2018, Massachusetts school can continue using electric shocks on special needs students, judge rules](https://www.independent.co.uk/news/world/americas/electric-shock-therapy-school-special-needs-children-massachusetts-judge-rotenberg-center-canton-a8429736.html)
   * [#StopTheShock: The Judge Rotenberg Center, Torture, and How We can Stop It](https://autisticadvocacy.org/actioncenter/issues/school/climate/jrc/)
     > Some schools use **restraint and seclusion** on people with disabilities. Some use **aversives**. All three are very dangerous!
-* Autism Speaks Controversies [Wikipedia](https://en.wikipedia.org/wiki/Autism_Speaks)
+* Autism Speaks Controversies 
   * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, a focus on the effects of Autism to the family and not on the individual, and a lack of representation of Neurodivergent individuals on their board. 
   * Autism Speaks has recognized some of their past views and actions were harmful. [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/)
   * [Wiki: Autism Speaks](https://en.wikipedia.org/wiki/Autism_Speaks)
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
-* Hans Asperger was involved with Nazi programs to send children to euthanasia clinics although his role and willingness to support such programs was unclear. [Wikipedia](https://en.wikipedia.org/wiki/Hans_Asperger)
 * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
 * [Damage over Generations. Quotes by Major Influencers in Autism](https://the-art-of-autism.com/damage-over-generations-quotes-by-major-influencers-in-autism/)
 * [The Controversy around ABA, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
@@ -434,6 +457,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 ## Briefly:
 
 * :star: "Let's pause this. He/she needs my immediate attention."
+* He/She's my high octane child.
 * "His/her behaviour comes from a difference in how their brain is wired."
 * "My child is autistic (or has autism). That's why they do that."
 * "Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting."
@@ -442,6 +466,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 * They're overwhelmed and needs quiet, not demands.
 * Love the child in front of you. There isn't a different child hiding inside. This is the child you need to love.
 * This is what we're doing now. 
+
 
 ## Showing signs of impending meltdown or event
 
@@ -500,6 +525,7 @@ or
 
 > I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment.
 
+
 ## Why should your kid get special treatment?
 
 > A child with autism should get what they need because they need it. Simple as that.  
@@ -509,6 +535,7 @@ or
 ## They don't look autistic
 
 > Autism is a neurological condition that affects individuals in different ways, and there is no one-size-fits-all presentation of autism.
+
 
 ## How to disclose an Autism diagnosis to child
 
@@ -570,3 +597,5 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
 * [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
+* [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+
