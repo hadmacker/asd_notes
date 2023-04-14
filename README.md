@@ -191,7 +191,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > We can also express it like this: the difficulties, which this boy has with himself as well as with his relationship to the world, are the price he has to pay for his special gifts.  
 > Hans Asperger, 1938  
 > [The Complete Guide to Aspergers Syndrome](https://www.goodreads.com/author/quotes/4969670.Tony_Attwood)  
-> Also quoted in []()
+> Also quoted in [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
 
 # Individuals within the spectrum
 
@@ -603,5 +603,5 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
 * [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
-* [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+* [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
 
