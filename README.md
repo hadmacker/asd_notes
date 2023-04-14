@@ -290,8 +290,8 @@ Individuals should research these people independently. A search engine query fo
   * Religious organization providing some special needs articles and book publication.
   * [Autism search results, focusonthefamily.com](https://www.focusonthefamily.com/?s=autism) - [focusonthefamily.ca](https://www.focusonthefamily.ca/content/filter/latest/article,broadcast,product/all/parenting?search=autism)
   * References ABA therapy as the primary treatment method for Autism, followed by medication and diet. 
-  * :warning: Links to Autism Speaks. (See Controversies section for additional context around Autism Speaks.)
-    * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
+  * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
+  * :warning: Links to Autism Speaks. (See Controversies section for further context around Autism Speaks.)
 * [Literally Ausome (Australia)](https://literallyausome.com.au/)
 
 # Articles & Media
@@ -354,8 +354,8 @@ Individuals should research these people independently. A search engine query fo
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
-* [Once upon a timne, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
-* [Receptiove and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
+* [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
+* [Receptive and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
   > **Receptive language** refers to how your child understands language.  
   > **Expressive language** refers to how your child uses words to express himself/herself.
 * [Righting the Gender Imbalance in Autism Studies](https://www.spectrumnews.org/features/deep-dive/righting-gender-imbalance-autism-studies/)
@@ -363,7 +363,6 @@ Individuals should research these people independently. A search engine query fo
 * [Sharing an Autism Diagnosis with Family and Friends](https://childmind.org/article/sharing-an-autism-diagnosis-with-family-and-friends/)
 * [(2012) New Rules Allow Joint Diagnosis of Autism, Attention Deficit](https://www.spectrumnews.org/news/new-rules-allow-joint-diagnosis-of-autism-attention-deficit/)
   > The DSM-5... eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
-* [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * [Sensory seeking vs. Sensory avoiding: What you need to know](https://www.understood.org/en/articles/sensory-seeking-and-sensory-avoiding-what-you-need-to-know)
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
@@ -411,6 +410,7 @@ Individuals should research these people independently. A search engine query fo
 
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
   > Under Title II of the ADA, States are required to place persons with mental disabilities in community settings rather than in institutions when the State's treatment professionals have determined that: (1) community placement is appropriate, (2) the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and (3) the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.
+* [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * Olmstead v. L.C. [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
   > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
   > [hhs.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/community-living-and-olmstead/index.html)
@@ -595,13 +595,13 @@ ASD is more than 4 times more common among boys than among girls.
 
 # Books
 
-While this is not a comprehensive list of all inputs to this document, many of the resources cited were discovered in one of the following books:
+While this is not a comprehensive list of all inputs to this document, many of the resources cited were discovered in one of the following books. Books marked with a :star: are highly recommended. 
 
-* [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
-* [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
+* :star: [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
+* :star: [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
 * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
-* [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
-* [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
+* :star: [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
+* :star: [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 * [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
 
