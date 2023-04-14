@@ -425,7 +425,7 @@ Individuals should research these people independently. A search engine query fo
 * [Police Shooting Of Unarmed Autistic Teen Ricardo Hayes, CBS Chicaco](https://www.cbsnews.com/chicago/news/police-shooting-settlement-ricardo-hayes-sgt-khalil-muhammad-city-council-finance-committee/)
 * [Police Shooting of Charles Kinsey, mental health therapist, as he was retrieving his autistic patient](https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey)
 
-# Movies, Multimedia, Conferences, & Literature
+# Movies, Multimedia, & Literature
 
 * Movies
   * Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
@@ -447,8 +447,6 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
-* Conferences, Courses, & Webinars
-  * Empowered Families Conference [Event Link](https://inspirecommunityoutreach.ca/event/inspires-empowered-families-conference-2023/) Inspire Community Outreach [Link](https://inspirecommunityoutreach.ca/), Feb 25 2023
 * Short Stories
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
@@ -595,13 +593,17 @@ ASD is more than 4 times more common among boys than among girls.
 
 # Books
 
-While this is not a comprehensive list of all inputs to this document, many of the resources cited were discovered in one of the following books. Books marked with a :star: are highly recommended. 
+While this is not a comprehensive list of all inputs to this document, many of the resources cited were first discovered in one of the following books.
 
-* :star: [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
-* :star: [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
+* [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
+* [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
 * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
-* :star: [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
-* :star: [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
+* [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
+* [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 * [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
 
+# Conferences, Courses, & Webinars
+
+* Empowered Families Conference [Event Link](https://inspirecommunityoutreach.ca/event/inspires-empowered-families-conference-2023/) Inspire Community Outreach [Link](https://inspirecommunityoutreach.ca/), Feb 25 2023
+* [Inspire Community Outreach Events Calendar](https://inspirecommunityoutreach.ca/events/)
