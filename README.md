@@ -1,6 +1,12 @@
 # Autism Spectrum Disorder Notes
 
-This document is a collection of links, resources, tools, and other sources discovered during personal investigation. Contributions may be submitted in the form of [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+This document is a collection of links, resources, tools, and other sources discovered during personal investigation. 
+
+## Contributing
+
+Contributions may be submitted in the form of [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
+# Images
 
 * [Images](./Images.md)
 
