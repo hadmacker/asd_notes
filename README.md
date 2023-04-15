@@ -194,6 +194,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > [The Complete Guide to Aspergers Syndrome](https://www.goodreads.com/author/quotes/4969670.Tony_Attwood)  
 > Also quoted in [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
 
+> Autistic individuals are practical, logical and sensible, and when not distracted by their own imaginative world, they are often far more intelligent and sensitive than average people. It is a medical mystery, and a social enigma.  
+> Attributed to Hans Asperger, no source provided    
+
 # Individuals within the spectrum
 
 ## Confirmed Diagnosis or Self Disclosed
