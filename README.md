@@ -1,6 +1,6 @@
 # Autism Spectrum Disorder Notes
 
-This document is a collection of links, resources, tools, and other sources discovered during personal investigation. 
+This document is a collection of links, resources, tools, and other sources discovered during personal investigation.
 
 ## Contributing
 
@@ -99,7 +99,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 
 
-# Statistics
+# Statistics & Facts
 
 * [Centers for Disease Control and Prevention (CDC) Data and Statistics on ASD](https://www.cdc.gov/ncbddd/autism/data.html)
   * 2020: About **1 in 36 children** in the United States has been identified with ASD
@@ -109,6 +109,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * Children with autism are 160 times as likely to die from drowning as the general pediatric population. 
   * [Drowning is the leading cause of death for children with ASD](https://www.publichealth.columbia.edu/public-health-now/news/individuals-autism-substantially-heightened-risk-injury-death)
 * [40 times more likely to die from injury than the general public, CNN](https://www.cnn.com/2017/03/21/health/autism-injury-deaths-study/index.html)
+* Autistic drivers are involved in less motor vehicle crashes, moving violations, and suspensions than non-autistic drivers. [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8918049/#:~:text=Results%3A,0.32%20%5B0.18%E2%80%930.58%5D)
 
 
 # Diagnostic Criteria
