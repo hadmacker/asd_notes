@@ -214,6 +214,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * [Youtube: Man who learnt to read at 18 becomes Cambridge University's youngest ever black professor - BBC News](https://youtu.be/g28uXeXz9l8)
 * Jim Sinclair, Autism Activist [Wikipedia](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 * Hannah Gadsby, Comedian [npr.org](https://www.npr.org/2020/05/26/862081893/autism-spectrum-diagnosis-helped-comic-hannah-gadsby-be-kinder-to-herself)
+* Lee Felsenstein, Computer pioneer
+  * Claimed by [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Lee_Felsenstein) makes no mention of it.
+  * [(Broken link) leefelsenstein.com](http://www.leefelsenstein.com/wp-content/uploads/2013/01/My-Path-Through-the-FSM-and-Beyond.pdf) [Cached](./Articles/felsenstein.com/My%20Path%20Through%20the%20FSM%20and%20Beyond.html), reveals an Aspergers diagnosis.
 * [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
 * [Michael John Carley](https://michaeljohncarley.com/books/), Author
 * Dr. [Stephen Shore](https://drstephenshore.com/), Professor of special education
