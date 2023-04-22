@@ -17,6 +17,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **ABA**: See Applied Behavioural Analysis therapy
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience
+* **Allistic**: Not on the Autistic spectrum. May be used by those with autism to describes "neurotypicals". [Differences in Autistic v. Allistic Communication](https://accessate.net/features/2791/differences-in-autistic-v-allistic-communication#:~:text=For%20those%20unfamiliar%2C%20%E2%80%9Callistic%E2%80%9D,in%20contrast%20to%20%E2%80%9Cautistic%E2%80%9D)
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
   * [What is Applied Behaviour Analysis?, Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
   * See Controversies section for further resources.
@@ -78,6 +79,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Nosology**: The branch of medical science dealing with the classification of diseases
   * Relevance: The changing diagnostic criteria and scope for individuals with Autism
 * **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with spreptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
+* **Pathological Demand Avoidance (PDA)**: All kids avoid doing things they’re asked to do from time to time. But some go to extremes to ignore or resist anything they perceive as a demand. That pattern of behavior is called pathological demand avoidance, or PDA. It is seen most often in people with autism. [childmind.org](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * **PDD-NOS**: Pervasive Development Disorder - Not Otherwise Specified
   * DSM-III-R, 1987
 * **Phenotype**: Observed behaviour and traits
@@ -110,6 +112,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * [Drowning is the leading cause of death for children with ASD](https://www.publichealth.columbia.edu/public-health-now/news/individuals-autism-substantially-heightened-risk-injury-death)
 * [40 times more likely to die from injury than the general public, CNN](https://www.cnn.com/2017/03/21/health/autism-injury-deaths-study/index.html)
 * Autistic drivers are involved in less motor vehicle crashes, moving violations, and suspensions than non-autistic drivers. [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8918049/#:~:text=Results%3A,0.32%20%5B0.18%E2%80%930.58%5D)
+* Profound Autism Statistics
+  * 27.6% of 8-year-old children diagnosed with autism have profound autism, which describes those who are nonverbal, minimally verbal, or had an IQ under 50.
+  * Prevalence of profound autism was 4.6 in 1000 8-year-old children.
+  * [CDC report via nih.gov](https://pubmed.ncbi.nlm.nih.gov/37074176/)
 
 
 # Diagnostic Criteria
@@ -138,6 +144,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * **First** we do ____.
   * **Then** we do ____.
 * [Grounding Techniques](https://www.therapistaid.com/therapy-article/grounding-techniques-article)
+* [PDA PANDA Infographic](https://www.pdasociety.org.uk/resources/helpful-approaches-infographic/)
 * [Shakedown Exercise](https://www.sessionlab.com/methods/shake-down)
   * To both harness unbridled body energy as well as to wake up the body if sedentary
 * ["Handy" Model of the Brain, The](https://medizzy.com/feed/23887560)
@@ -231,6 +238,9 @@ In the book "The Autistic Mind" (Grandin) explains the history of Autism and how
 
 Individuals should research these people independently. A search engine query for "Did _name_ have autism?" will result in apocryphal observations justifying a diagnosis using the current understanding of the condition.
 
+* **Alan Turing**
+  * Computer Pioneer, Cracked German encryption during WWII
+  * [Autism: The enigma that amazingly saved 14 Million lives](https://www.autismparentingmagazine.com/autism-enigma-amazingly-saved-lives/)
 * **Albert Einstein**
   * Theoretical Physics, Nuclear physics, Atomic Bomb research
 * **Bill Gates**
@@ -301,6 +311,7 @@ Individuals should research these people independently. A search engine query fo
   * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
   * :warning: Links to Autism Speaks. (See Controversies section for further context around Autism Speaks.)
 * [Literally Ausome (Australia)](https://literallyausome.com.au/)
+* [Pathological Demand Avoidance (PDA) Society, UK](https://www.pdasociety.org.uk/)
 
 # Articles & Media
 
@@ -343,6 +354,7 @@ Individuals should research these people independently. A search engine query fo
 
 ### General
 
+* [10 ways to make your church autism friendly](https://canadianmennonite.org/stories/10-ways-make-your-church-autism-friendly)
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
 * [Autism's Drug Problem](https://www.spectrumnews.org/features/deep-dive/autisms-drug-problem/)
@@ -363,6 +375,7 @@ Individuals should research these people independently. A search engine query fo
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
+* [Pathological Demand Avoidance (PDA) in kids](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * [Receptive and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
   > **Receptive language** refers to how your child understands language.  
   > **Expressive language** refers to how your child uses words to express himself/herself.
