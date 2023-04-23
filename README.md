@@ -17,6 +17,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **ABA**: See Applied Behavioural Analysis therapy
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience
+* **Affinity**: A hallmark indicator of autism spectrum disorder is that patiences have a particular focused interest on a specific topic. This is known as an affinity.
 * **Allistic**: Not on the Autistic spectrum. May be used by those with autism to describes "neurotypicals". [Differences in Autistic v. Allistic Communication](https://accessate.net/features/2791/differences-in-autistic-v-allistic-communication#:~:text=For%20those%20unfamiliar%2C%20%E2%80%9Callistic%E2%80%9D,in%20contrast%20to%20%E2%80%9Cautistic%E2%80%9D)
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
   * [What is Applied Behaviour Analysis?, Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
@@ -43,13 +44,17 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * DSM-IV-R: 2000
   * DSM-V: 2013. Grouped Autism, Aspergers, PDD-NOS, childhood disintegrative disorder in a new "Autism Spectrum Disorder" classification.
     * :warning: This grouping of disorders is one factor that contributes to an increase in Autism diagnosis statistics and comparison of statistics derived using different diagnostic criteria may be inaccurate or misleading. See also: Autism Speaks Controversies.
+* **Echolalia**: the unsolicited repetition of utterances made by others. This may be in the form of repeating lines from a parent or peer, or lines of script from movies, tv shows, or advertisements. These lines may not directly represent the phrase uttered. See also: Gestalt language processing (GLP).
 * **Electroconvulsive Therapy**: Electroconvulsive Therapy [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/electroconvulsive-therapy/about/pac-20393894)
   > Electroconvulsive therapy (ECT) is a procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure. ECT seems to cause changes in brain chemistry that can quickly reverse symptoms of certain mental health conditions.
 * **Etiology**: the cause or set of causes for a disease or condition
+* **Executive Functioning**: 
+  * The phrase “executive function” refers to a set of skills. These skills underlie the capacity to plan ahead and meet goals, display self-control, follow multiple-step directions even when interrupted, and stay focused despite distractions, among others.
+  * [harvard.edu](https://developingchild.harvard.edu/resources/what-is-executive-function-and-how-does-it-relate-to-child-development/#:~:text=The%20phrase%20%E2%80%9Cexecutive%20function%E2%80%9D%20refers,focused%20despite%20distractions%2C%20among%20others.)
 * **Extrapyramidal Effects**: [WebMD](https://www.webmd.com/schizophrenia/what-are-extrapyramidal-effects) Uncontrollable involuntary movements
 * **GDD**: See Global Development Delay
 * **Genotype**: Genetic traits
-* **Gestalt Language Processing**: A form of language development that starts with whole memorized phrases instead of individual words. Individual words within a chunk may not be recognized by the person. [Gestalt Language Processing and AAC](https://www.assistiveware.com/blog/gestalt-language-processing-aac)
+* **Gestalt Language Processing (GLP)**: A form of language development that starts with whole memorized phrases instead of individual words. Individual words within a chunk may not be recognized by the person. [Gestalt Language Processing and AAC](https://www.assistiveware.com/blog/gestalt-language-processing-aac)
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
 * **Heterogeneity**: Having diverse characteristics or content
 * **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia). See also _Hypernumeracy_ and _Hyperlexia_.
@@ -62,6 +67,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * ICD-11: 2022
   * ICD-10: 2016, 2019
 * **Irlen Syndrome**: A visual perceptual processing disorder. Coloured glasses have been shown to improve quality of life.
+* **Joint Attention**: When one purposefully coordinates their focus of attention with that of another person. [unc.edu](https://www.med.unc.edu/healthsciences/asap/materials-1/about-joint-attention/#:~:text=What%20is%20Joint%20Attention%3F,intentionally%20and%20for%20social%20reasons.)
+  * Imagine, for example, that a teacher points to her desk and says to a child, “Look at that big apple.” The child looks at the place the teacher has pointed and sees the apple. In this situation, the teacher and the child have engaged in joint attention—that is, they shared attention to the apple on purpose.
 * **Kanner, Leo**: [Wikipedia](https://en.wikipedia.org/wiki/Leo_Kanner)
   * In 1943, Dr. Leo Kanner (Psychiatrist) published the first systematic description of early infantile autism. He concluded that this was a neurodevelopmental disorder and that 'these children have come into the world with an innate inability to form the usual, biologically provided contact with people'. [Source: nih.gov](https://pubmed.ncbi.nlm.nih.gov/29667863)
 * **Kinesthesia**: See Proprioception.
@@ -78,7 +85,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Neurotypical**: An individual with "normal" behaviour
 * **Nosology**: The branch of medical science dealing with the classification of diseases
   * Relevance: The changing diagnostic criteria and scope for individuals with Autism
-* **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with spreptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
+* **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
 * **Pathological Demand Avoidance (PDA)**: All kids avoid doing things they’re asked to do from time to time. But some go to extremes to ignore or resist anything they perceive as a demand. That pattern of behavior is called pathological demand avoidance, or PDA. It is seen most often in people with autism. [childmind.org](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * **PDD-NOS**: Pervasive Development Disorder - Not Otherwise Specified
   * DSM-III-R, 1987
@@ -89,6 +96,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Psychiatry**: The science of the _mind_ specializing in psychological (behavioural) disorders.
 * **Psychopathy**: Mental illness or disorder
 * **Scripts**: rehearsed patterns used by a neurodivergent individual to exhibit a neurotypical response to a situation. See also: _Masking_.
+* **Social pragmatics**: 
+  * Social pragmatics refers to the social use of language and how individuals interact with others. This includes what we say, how we say it, our body language, taking turns in conversation, showing interest in another person’s comments and ideas, and even knowing when not to talk! Pragmatic skills are central to how we communicate with others and participate in social groups, such as our families and communities. Pragmatic skills are vital for communicating our personal thoughts, ideas and feelings. [ChildrensTherapyPlace.com](https://childrenstherapyplace.com/heck-social-pragmatics/#:~:text=Social%20pragmatics%20refers%20to%20the,knowing%20when%20not%20to%20talk!)
+* [Somatic Symptom Disorder](https://www.psychiatry.org/patients-families/somatic-symptom-disorder): The individual has excessive worries, feelings and behaviors relating to the physical (somatic) symptoms. Sometimes people experience the symptoms even though they do not have a diagnosed medical condition.
+  * Some examples: High anxiety may result in vomiting even without a medical issue present. Or a headache or cramps.
 * **Sullivan, Ruth Christ**: A founder of Autism Society of America (formerly National Society for Autistic Children, NSAC)[Wikipedia](https://en.wikipedia.org/wiki/Ruth_C._Sullivan)
 * **Stimming**: self-stimulatory behaviour, can be used to regulate or regain self control [See: betterhelp.com](https://www.betterhelp.com/advice/adhd/what-is-stimming-adhd-and-possible-behavioral-issues)
   * Stimming is not necessarily "bad" and may be allowed to continue if it does not interfere with life [Source: psychiatry.org](https://www.psychiatry.org/News-room/APA-Blogs/Understand-Stimming-Repetitive-Behaviors-Purpose)
@@ -140,6 +151,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 * [10 Things Every Child with Autism Wishes You Knew](http://southcentralasd.blogspot.com/p/10-things.html)
 * [54321 Grounding Technique for Anxiety](https://insighttimer.com/blog/54321-grounding-technique/)
+* Coloured Badges to indicate openness to social interaction:
+  * GREEN: Please interact with me
+  * YELLOW: Only people I know should interact with me
+  * RED: Please avoid me
 * [First Then](https://autismcircuit.net/tool/first-then-card)
   * **First** we do ____.
   * **Then** we do ____.
@@ -196,6 +211,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > What would happen if the autism gene was eliminated from the gene pool? You would have a bunch of people standing around in a cave, chatting and socializing and not getting anything done.  
 > Temple Grandin  
 
+> We claim -- not on the basis of theory, but on the basis of our experiences with many children like this -- that this boy's positive and negative qualities are two natural, necessary, interconnected aspects of one well-knit harmonious personality.  
 > We can also express it like this: the difficulties, which this boy has with himself as well as with his relationship to the world, are the price he has to pay for his special gifts.  
 > Hans Asperger, 1938  
 > [The Complete Guide to Aspergers Syndrome](https://www.goodreads.com/author/quotes/4969670.Tony_Attwood)  
@@ -204,10 +220,23 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > Autistic individuals are practical, logical and sensible, and when not distracted by their own imaginative world, they are often far more intelligent and sensitive than average people. It is a medical mystery, and a social enigma.  
 > Attributed to Hans Asperger, no source provided    
 
+> So-called mild autism doesn't mean one experiences autism mildly.  
+> It means YOU experience their autism mildly.  
+> You may not know how hard they've had to work to get to the level they are.  
+> Adam Walton, @TheProudAspergian  
+
+> If being normal is being selfish, being dishonest, killing, having guns, and waging war, I do not want any of it.  
+> Kathy Lissner, quoted in [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)  
+
+> Not all features of atypical human operating systems are bugs  
+> [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+
+
 # Individuals within the spectrum
 
 ## Confirmed Diagnosis or Self Disclosed
 
+* Bram Cohen: BitTorrent creator, diagnosed with Aspergers [Bloomberg.com](https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers)
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * Daniel Tammet, Author with Aspergers syndrome and savant syndrome[Wikipedia](https://en.wikipedia.org/wiki/Daniel_Tammet)
 * Daryl Hannah
@@ -276,6 +305,44 @@ Individuals should research these people independently. A search engine query fo
 * Quiet or sensory-safe rooms
 * Tutors, extra learing
 * (In the remote world) Allowed to disable video in chat or mute.
+* For faster transition between class, allow the child to bring their backpack to class (instead of asking them to use their locker) and tape a schedule and list of materials for each class to a binder.
+* For children that monopolize the teacher's time with questions, they may require 100% of details to process information. This may diminish the classes rigor and flow, driving attention away from other children in class. Allow them to ask a certain number of questions as determined by a number of poker chips in front of them. As they ask questions, tokens are removed, to be replenished at the teacher's discretion. Once questions have been removed, they should be instructed to write their questions in a notebook or to see the teacher during downtime.
+* Request a mock bus ride, possibly around the neighborhood, to be conditioned to being on a bus.
+* provide a notebook and pen of travels from home to school daily teachers and therapist should be expected to document attempted tasks having challenges and send instructions home on how to reinforce skills desired, and then return the notebook back to school with comments, and how she felt in the home environment doing the same things
+* Potentially continue schooling through summer break to reduce regression of skills that may atrophy if unused during the summer break.
+
+# IEP (Individualized Education Program)
+
+> If they can't learn the way we teach, we teach the way they learn.  
+> Dr. Ivar Lovaas, creator of ABA Therapy.  
+
+> I've come to a frightening conclusion that I [as the teacher] am the decisive element in the classroom.  
+> Haim Ginott, highly regarded educator and author  
+
+> Because I think differently, my autism requires that you teach differently. In order to teach me to color inside the lines, you may have to reach outside those lines. To get me to see life and learning as a palette of colors, you have to start by understanding that through my eyes, life's experiences are black and white, all or nothing.  
+> [Ten Things Your Student With Autism Wishes You Knew, Ellen Notbohm](https://www.amazon.com/Things-Your-Student-Autism-Wishes-ebook/dp/B0B3HWPPG8)  
+
+* Keep a photo of child available for IEP and diagnostic consultations for when the child is not present, to remind professionals of the humanity of the individual being discussed. Source: [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
+* Philosophy
+  * Students should get what they need to succeed. Because they need it.
+  * A three-legged stool analogy may be beneficial here. There must be balance on all sides for our child to sit on top.
+* Parents, educators, professionals share the same table, even if they're often on opposite sides. While this may appear intimidating to parents, **the shared goal of all parties is to maximize the child's educational experience and potential**. Each role around the table is essential to maximize this goal:
+  * **Parents**: Know the full child and their strengths, weaknesses, and patterns of behaviour outside of school time.
+  * **Educators**: Execute the IEP agreed upon.
+  * **Professionals**: Bring expertise, insight, tools, strategies and pragmatics to the discussion.
+* Questions to ask:
+  * What therapy services are provided? OT (Occupational Therapy), PT (Physical Therapy), ST (Speach Therapy), others?
+  * Does the school system have an autism consultant or coordinator? How can parents access this resources?
+  * What is the class size and ratio of students to teachers and assistants?
+  * What evidence-based teaching practices are utilized?
+  * Does this child's teacher have experience teaching children with autism?
+  * Do they have any special education licensure?
+  * How do the staff handle behaviour issues?
+  * How do we succeed as a team? How can I help you to be successful? How can I volunteer?
+* Tools:
+  * Parents can include a log book in the child's backpack that follows the child to/from school for teachers to document any teaching that the child struggled with during the day and with further instruction that the parents can support from home, or for teachers or support staff to write little notes about the skills worked on and that the family may be able to reinforce from home.
+  * Create a personalized story or picture schedule for the child's school day. Contact the teacher or school to access their daily schedule. A picture of the teacher or classroom may also help to set the story narrative.
+  * If the child is a bus rider, find the bus number. Request a "mock bus ride" if the school division offers one.
 
 
 # Organizations
@@ -374,6 +441,9 @@ Individuals should research these people independently. A search engine query fo
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
+* [Don't Mourn For Us, Jim Sinclair, ucsc.edu](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
+* [Institute for the Study of the Neurologically Typical (ISNT)](https://angryautie.wordpress.com/2013/06/24/the-institute-for-the-study-of-the-neurologically-typical/)
+  > “Neurotypical syndrome is a neurobiological disorder characterized by preoccupation with social concerns, delusions of superiority, and obsession with conformity.”
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
 * [Pathological Demand Avoidance (PDA) in kids](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * [Receptive and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
@@ -620,9 +690,17 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
 * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
 * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
+  * Autism self advocacy insights from the perspective of an experienced journalist's experience with autism. 
+  * :star: Highly recommended.
 * [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
+  * :star: Highly recommended.
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
+  * A non-intimidating book spanning grief, resources, interventions, medicine, and more.
 * [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+  * A well-researched chronological history of Autism's key researchers and influencers, and changes in the label over time.
+  * Trigger Warning: Addresses difficult topics related to the history of autism including eugenics, mercy killing, institutionalization, morally reprehensible research
+* [Dragonfly: A daughter's emergence from autism, Lori Ashley Taylor](https://www.amazon.com/Dragonfly-Daughters-Emergence-Practical-Parents-ebook/dp/B072NJM8Q5)
+  * Written by a parent with an autistic child from the perspective of her role as an educator, with practical insights.
 
 # Conferences, Courses, & Webinars
 
