@@ -30,10 +30,12 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Autism Warrior Parent**: 
   > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
   > [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
+* **Autistic Inertia**: Difficulty starting or stopping tasks. May be related to Perseveration? See Perseveration. [Using the Maori creation story to navigate autistic inertia](https://www.altogetherautism.org.nz/using-the-maori-creation-story-to-navigate-autistic-inertia/#:~:text=Some%20people%20living%20with%20autism,what%20is%20called%20autistic%20inertia.)
 * **Aversives**: unpleasant stimuli that induce changes in behavior via negative reinforcement or positive punishment. [Wikipedia](https://en.wikipedia.org/wiki/Aversives). May be used in ABA therapy.
-* **Bruno Bettelheim**: An early Autism researcher and psychologist pioneering treatements. His research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
+* **Behavioral momentum**: The tendency for behavior to persist following a change in environmental conditions. The greater the rate of reinforcement, the greater the behavioral momentum. [Behavioral momentum in the treatment of noncompliance, nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1286105/#:~:text=Behavioral%20momentum%20refers%20to%20the,the%20greater%20the%20behavioral%20momentum.)
 * **Biology**: The branch of science that deals with living organisms and their vital processes. 
 * **Brain**: The physical, biological organ consisting of nerve cells and can be physically touched. See _Mind_ for nuances.
+* **Bruno Bettelheim**: An early Autism researcher and psychologist pioneering treatements. His research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
   * Downs Syndrome is an example of a CNV
 * **Comorbid**: having multiple disorders or diagnoses
@@ -52,6 +54,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * The phrase “executive function” refers to a set of skills. These skills underlie the capacity to plan ahead and meet goals, display self-control, follow multiple-step directions even when interrupted, and stay focused despite distractions, among others.
   * [harvard.edu](https://developingchild.harvard.edu/resources/what-is-executive-function-and-how-does-it-relate-to-child-development/#:~:text=The%20phrase%20%E2%80%9Cexecutive%20function%E2%80%9D%20refers,focused%20despite%20distractions%2C%20among%20others.)
 * **Extrapyramidal Effects**: [WebMD](https://www.webmd.com/schizophrenia/what-are-extrapyramidal-effects) Uncontrollable involuntary movements
+* **Facilitated Communication**: 
+  * See Controversies section pertaining to Anna Stubblefield using FC improperly for sexual consent. 
+  * See also book for a FC success story: [I have been buried under years of dust, Valerie Gilpeer & Emily Grodin](https://www.amazon.ca/Have-Been-Buried-Under-Years/dp/0062984349)
 * **GDD**: See Global Development Delay
 * **Genotype**: Genetic traits
 * **Gestalt Language Processing (GLP)**: A form of language development that starts with whole memorized phrases instead of individual words. Individual words within a chunk may not be recognized by the person. [Gestalt Language Processing and AAC](https://www.assistiveware.com/blog/gestalt-language-processing-aac)
@@ -89,6 +94,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Pathological Demand Avoidance (PDA)**: All kids avoid doing things they’re asked to do from time to time. But some go to extremes to ignore or resist anything they perceive as a demand. That pattern of behavior is called pathological demand avoidance, or PDA. It is seen most often in people with autism. [childmind.org](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * **PDD-NOS**: Pervasive Development Disorder - Not Otherwise Specified
   * DSM-III-R, 1987
+* **Perseveration**: When someone gets "Stuck" on an topic or idea. [What is perseveration?](https://www.understood.org/en/articles/perseveration-adhd-and-learning-differences)
 * **Phenotype**: Observed behaviour and traits
 * **Physiology**: The science of life and biology
 * **Pica**: (PIE-kuh) [Kidshealth: Pica is an eating disorder where a person eats things not usually considred food (i.e., grass, toys)](https://kidshealth.org/en/parents/pica.html)
@@ -230,6 +236,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 > Not all features of atypical human operating systems are bugs  
 > [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+
+> All brains are needed and can be beautiful  
+> Unattributed
 
 
 # Individuals within the spectrum
@@ -495,7 +504,7 @@ Individuals should research these people independently. A search engine query fo
 * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
 * [Damage over Generations. Quotes by Major Influencers in Autism](https://the-art-of-autism.com/damage-over-generations-quotes-by-major-influencers-in-autism/)
 * [The Controversy around ABA, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
-
+* [Anna Stubblefield found guilty of first degree sexual assault against an individual with disabilities when she initiated sexual contact using only facilitated communication as a form of consent.](https://www.facilitatedcommunication.org/facilitator-crimes#:~:text=Former%20Rutgers%20University%20professor%2C%20Anna,a%20facilitator%20at%20Syracuse%20University.)
 
 # Law
 
@@ -561,6 +570,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 * They're overwhelmed and needs quiet, not demands.
 * Love the child in front of you. There isn't a different child hiding inside. This is the child you need to love.
 * This is what we're doing now. 
+* It must be so frustrating to not be able to say the things you’re thinking.
 
 
 ## Showing signs of impending meltdown or event
@@ -701,6 +711,11 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * Trigger Warning: Addresses difficult topics related to the history of autism including eugenics, mercy killing, institutionalization, morally reprehensible research
 * [Dragonfly: A daughter's emergence from autism, Lori Ashley Taylor](https://www.amazon.com/Dragonfly-Daughters-Emergence-Practical-Parents-ebook/dp/B072NJM8Q5)
   * Written by a parent with an autistic child from the perspective of her role as an educator, with practical insights.
+* [I have been buried under years of dust, Valerie Gilpeer & Emily Grodin](https://www.amazon.ca/Have-Been-Buried-Under-Years/dp/0062984349)
+  * A powerful book on advocating for education, IEP insights, and finding success using controversial techniques for communication.
+  * :star: Highly recommended.
+* [An Anthropologist on Mars, Oliver Sacks](https://www.amazon.ca/Anthropologist-Mars-Oliver-Sacks/dp/0394281519)
+  * Profiles of interesting neurological patients, including Temple Grandin.
 
 # Conferences, Courses, & Webinars
 
