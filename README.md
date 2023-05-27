@@ -14,6 +14,7 @@ Contributions may be submitted in the form of [Github Pull Requests](https://doc
 
 _The contents of this glossary may include outdated terms, disproven theories, and terms not closely related to Autism Spectrum Disorder that have come up during personal investigation._
 
+* **AAC**: Adaptive and Augmentative Communication Technology. Technology and application-based supports to enable communication through touch.
 * **ABA**: See Applied Behavioural Analysis therapy
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience
@@ -36,6 +37,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Biology**: The branch of science that deals with living organisms and their vital processes. 
 * **Brain**: The physical, biological organ consisting of nerve cells and can be physically touched. See _Mind_ for nuances.
 * **Bruno Bettelheim**: An early Autism researcher and psychologist pioneering treatements. His research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
+* **CBT**: Cognitive Behavioral Therapy [camh.ca](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/cognitive-behavioural-therapy)
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
   * Downs Syndrome is an example of a CNV
 * **Comorbid**: having multiple disorders or diagnoses
@@ -53,6 +55,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Executive Functioning**: 
   * The phrase “executive function” refers to a set of skills. These skills underlie the capacity to plan ahead and meet goals, display self-control, follow multiple-step directions even when interrupted, and stay focused despite distractions, among others.
   * [harvard.edu](https://developingchild.harvard.edu/resources/what-is-executive-function-and-how-does-it-relate-to-child-development/#:~:text=The%20phrase%20%E2%80%9Cexecutive%20function%E2%80%9D%20refers,focused%20despite%20distractions%2C%20among%20others.)
+* **Expressive Language**: How your child uses words to express themself.
 * **Extrapyramidal Effects**: [WebMD](https://www.webmd.com/schizophrenia/what-are-extrapyramidal-effects) Uncontrollable involuntary movements
 * **Facilitated Communication**: 
   * See Controversies section pertaining to Anna Stubblefield using FC improperly for sexual consent. 
@@ -101,6 +104,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Proprioception**: The sense through which we perceive the position and movement of our body, including our sense of equillibrium and balance. Senses that depend on the notion of force. [sciencedirect.com](https://www.sciencedirect.com/topics/neuroscience/proprioception) - [Vestibular System and Proprioception: The Two Unknown Senses, propriorochsner.org](https://blog.ochsner.org/articles/vestibular-system-and-proprioception-the-two-unknown-senses)
 * **Psychiatry**: The science of the _mind_ specializing in psychological (behavioural) disorders.
 * **Psychopathy**: Mental illness or disorder
+* **Receptive Language**: How your child understands language
 * **Scripts**: rehearsed patterns used by a neurodivergent individual to exhibit a neurotypical response to a situation. See also: _Masking_.
 * **Social pragmatics**: 
   * Social pragmatics refers to the social use of language and how individuals interact with others. This includes what we say, how we say it, our body language, taking turns in conversation, showing interest in another person’s comments and ideas, and even knowing when not to talk! Pragmatic skills are central to how we communicate with others and participate in social groups, such as our families and communities. Pragmatic skills are vital for communicating our personal thoughts, ideas and feelings. [ChildrensTherapyPlace.com](https://childrenstherapyplace.com/heck-social-pragmatics/#:~:text=Social%20pragmatics%20refers%20to%20the,knowing%20when%20not%20to%20talk!)
@@ -571,6 +575,8 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 * Love the child in front of you. There isn't a different child hiding inside. This is the child you need to love.
 * This is what we're doing now. 
 * It must be so frustrating to not be able to say the things you’re thinking.
+* For those that can’t communicate, they might be Disguised as poor thinkers. (Paul Collins)
+* Something is only funny if we both think it’s funny, and I’m not laughing.
 
 
 ## Showing signs of impending meltdown or event
@@ -644,6 +650,8 @@ or
 
 ## How to disclose an Autism diagnosis to child
 
+### Dr. Stephen Shore 4 step process
+
 The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is described further in [Uniquely Human](https://www.goodreads.com/en/book/show/23492643) Chapter 12
 
 * Dr. Stephen Shore's 4 step process:
@@ -654,6 +662,9 @@ The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is d
 * [Uniquelyhuman.com](https://uniquelyhuman.com/2021/04/02/disclosure-self-advocacy-dr-stephen-shore/)
 * [Autism & Disclosure: Tips For Sharing Your Diagnosis, with Dr. Stephen Shore | EDB 219](https://differentbrains.org/autism-disclosure-tips-for-sharing-your-diagnosis-with-dr-stephen-shore-edb-219/)
 
+### Harry Potter
+
+Using Harry Potter as an example and role model to disclose autism to your child age 9 explain how Harry Potter is special and awesome but is still different from his peers and doesn't often relate to them.
 
 ## Myths and Misconceptions
 
@@ -710,7 +721,8 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * A well-researched chronological history of Autism's key researchers and influencers, and changes in the label over time.
   * Trigger Warning: Addresses difficult topics related to the history of autism including eugenics, mercy killing, institutionalization, morally reprehensible research
 * [Dragonfly: A daughter's emergence from autism, Lori Ashley Taylor](https://www.amazon.com/Dragonfly-Daughters-Emergence-Practical-Parents-ebook/dp/B072NJM8Q5)
-  * Written by a parent with an autistic child from the perspective of her role as an educator, with practical insights.
+  * Written by a parent with an autistic child from the perspective of her role as an educator, with practical insights focused around education and accomodations at school.
+  * :star: Highly recommended.
 * [I have been buried under years of dust, Valerie Gilpeer & Emily Grodin](https://www.amazon.ca/Have-Been-Buried-Under-Years/dp/0062984349)
   * A powerful book on advocating for education, IEP insights, and finding success using controversial techniques for communication.
   * :star: Highly recommended.
