@@ -20,6 +20,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **ACE**: Adverse Childhood Experience
 * **Affinity**: A hallmark indicator of autism spectrum disorder is that patiences have a particular focused interest on a specific topic. This is known as an affinity.
 * **Allistic**: Not on the Autistic spectrum. May be used by those with autism to describes "neurotypicals". [Differences in Autistic v. Allistic Communication](https://accessate.net/features/2791/differences-in-autistic-v-allistic-communication#:~:text=For%20those%20unfamiliar%2C%20%E2%80%9Callistic%E2%80%9D,in%20contrast%20to%20%E2%80%9Cautistic%E2%80%9D)
+* **Aphasia**: A communication disorder that makes it difficult to use words. It can affect speech, writing, and ability to understand language. [webmd.com](https://www.webmd.com/brain/aphasia-causes-symptoms-types-treatments)
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
   * [What is Applied Behaviour Analysis?, Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
   * See Controversies section for further resources.
@@ -38,9 +39,11 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Brain**: The physical, biological organ consisting of nerve cells and can be physically touched. See _Mind_ for nuances.
 * **Bruno Bettelheim**: An early Autism researcher and psychologist pioneering treatements. His research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
 * **CBT**: Cognitive Behavioral Therapy [camh.ca](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/cognitive-behavioural-therapy)
+* **Cognitive Behaviour Therapy (CBT)**: CBT is based on the concept that your thoughts, feelings, physical sensations and actions are interconnected, and that negative thoughts and feelings can trap you in a negative cycle. [nhs.uk](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/overview/#:~:text=Cognitive%20behavioural%20therapy%20(CBT)%20is,mental%20and%20physical%20health%20problems.)
+* **Comorbid**: having multiple disorders or diagnoses
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
   * Downs Syndrome is an example of a CNV
-* **Comorbid**: having multiple disorders or diagnoses
+* **Double Empathy Problem**: The basis of the theory is that a mismatch between two people can lead to faulty communication. This disconnect can occur at many levels, from conversation styles to how people see the world. The greater the disconnect, the more difficulty the two people will have interacting. [spectrumnews](https://www.spectrumnews.org/news/double-empathy-explained/)
 * **DSM**: Diagnostic and Statistical Manual of Mental Disorders
   * DSM-III: 1980
   * DSM-III-R: 1987 (Revised)
@@ -65,6 +68,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Gestalt Language Processing (GLP)**: A form of language development that starts with whole memorized phrases instead of individual words. Individual words within a chunk may not be recognized by the person. [Gestalt Language Processing and AAC](https://www.assistiveware.com/blog/gestalt-language-processing-aac)
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
 * **Heterogeneity**: Having diverse characteristics or content
+* **Hidden curriculum**: the unwritten, unofficial, and often unintended lessons values and perspectives that students learn in school.
 * **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia). See also _Hypernumeracy_ and _Hyperlexia_.
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
 * **Hypermnesia**: Advanced degree of retentiveness and recall of memory with high clarity of detail. [Hypermnesia, ABA](https://dictionary.apa.org/hypermnesia)
@@ -137,7 +141,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * 27.6% of 8-year-old children diagnosed with autism have profound autism, which describes those who are nonverbal, minimally verbal, or had an IQ under 50.
   * Prevalence of profound autism was 4.6 in 1000 8-year-old children.
   * [CDC report via nih.gov](https://pubmed.ncbi.nlm.nih.gov/37074176/)
-
+* Autistic children are **6 times more likely to have thoughts of suicide** if they have an IQ of 120 or higher[Autism combined with high IQ increases risk of suicidal thoughts](https://medicine.uiowa.edu/content/autism-combined-high-iq-increases-risk-suicidal-thoughts)
 
 # Diagnostic Criteria
 
@@ -179,6 +183,24 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * Keep a photo of child available for IEP and diagnostic consultations for when the child is not present, to remind professionals of the humanity of the individual being discussed. Source: [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
 * Instead of an _obsession_, call it an _enthusiasm_, a _passion_, or a _specific interest_.
 * [Stuart Shanker's Five Steps of Self-Reg, self-reg.ca](https://self-reg.ca/wp-content/uploads/2021/05/infosheet_SelfRegParents.pdf)
+* Instead of apologising, show appreciation:
+  * "I'm sorry, [they] can't do that" becomes "thank you for understanding [their] limitations". "I'm sorry [they're] becoming overwhelmed" becomes "thank you for being patient".
+  * Even if others are not doing the thing you're thanking them for, it teaches THEM how they SHOULD be behaving in that situation.
+* Toilet Training
+  * [Toilet Training for Everyone - actcommunity.ca](https://www.actcommunity.ca/education/videos/toilet-training-for-everyone-revised-and-expanded/)
+* Wait at the edge of the sidewalk until I tap your head for a boost.
+  * Can also use this to encourage flexibility:
+    * Instead of side-walk, wait at the fire hydrant. Or Tree. Or House # 123.
+    * Instead of Head, tap the shoulder.
+    * A tap to the back (or ear, or neck) may indicate a "Hop" or "Skip" boost instead of speed.
+    * Change the number of taps. 
+      * 1: small boost
+      * 3: big boost
+* Tips for meltdown recovery:
+  * Take time to breathe
+  * Drink some water
+  * Find comfort object
+  * Meet sensory needs
 
 
 ## Quotes & Inspiration
@@ -244,6 +266,22 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > All brains are needed and can be beautiful  
 > Unattributed
 
+> For those that can’t communicate, they might be Disguised as poor thinkers.  
+> Paul Collins
+
+> It seems that for success in science or art, a dash of autism is essential.  
+> Hans Asperger  
+
+> This above all; to thine own self be true.  
+> Shakespeare  
+
+> There is no missing puzzle piece of them you need to find.  
+> They are whole and all there even if you don’t know how to understand them yet.  
+> Unattributed  
+
+> Forcing 'compliance' only leaves children more susceptible to abuse later on in life.  
+> Unattributed.  
+> May be assocated to unstrangemind.com or "No you don't" essays.  
 
 # Individuals within the spectrum
 
@@ -255,6 +293,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * Daryl Hannah
   * Actress, environmental activist
   * [Wikipedia](https://en.wikipedia.org/wiki/Daryl_Hannah)
+* [Dawn Prince-Hughes, wikipedia](https://en.wikipedia.org/wiki/Dawn_Prince-Hughes)
+  * Anthropologist, primatologist, Ethologist
 * [Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)
   * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
 * [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
@@ -267,6 +307,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * Claimed by [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
   * [Wikipedia](https://en.wikipedia.org/wiki/Lee_Felsenstein) makes no mention of it.
   * [(Broken link) leefelsenstein.com](http://www.leefelsenstein.com/wp-content/uploads/2013/01/My-Path-Through-the-FSM-and-Beyond.pdf) [Cached](./Articles/felsenstein.com/My%20Path%20Through%20the%20FSM%20and%20Beyond.html), reveals an Aspergers diagnosis.
+* Liane Holliday Willey: Author, Autism Educator, Speaker [aspie.com](http://www.aspie.com/)
 * [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
 * [Michael John Carley](https://michaeljohncarley.com/books/), Author
 * Dr. [Stephen Shore](https://drstephenshore.com/), Professor of special education
@@ -280,6 +321,7 @@ In the book "The Autistic Mind" (Grandin) explains the history of Autism and how
 
 Individuals should research these people independently. A search engine query for "Did _name_ have autism?" will result in apocryphal observations justifying a diagnosis using the current understanding of the condition.
 
+
 * **Alan Turing**
   * Computer Pioneer, Cracked German encryption during WWII
   * [Autism: The enigma that amazingly saved 14 Million lives](https://www.autismparentingmagazine.com/autism-enigma-amazingly-saved-lives/)
@@ -287,6 +329,7 @@ Individuals should research these people independently. A search engine query fo
   * Theoretical Physics, Nuclear physics, Atomic Bomb research
 * **Bill Gates**
   * Microsoft, Windows, Malaria Research
+* **Charles Babbage**: Father of the modern computer. [Genius, Creativity, and Savantism, pmg.eu](http://professormichaelfitzgerald.eu/genius-creativity-and-savantism/)
 * **Henry Cavendish (1731–1810)**
   * [Henry Cavendish and Asperger’s syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0191886909000294)
   * Scientist, Father of modern physics, inventor, discovered hydrogen, early Electricity pioneer
@@ -335,6 +378,14 @@ Individuals should research these people independently. A search engine query fo
 > Because I think differently, my autism requires that you teach differently. In order to teach me to color inside the lines, you may have to reach outside those lines. To get me to see life and learning as a palette of colors, you have to start by understanding that through my eyes, life's experiences are black and white, all or nothing.  
 > [Ten Things Your Student With Autism Wishes You Knew, Ellen Notbohm](https://www.amazon.com/Things-Your-Student-Autism-Wishes-ebook/dp/B0B3HWPPG8)  
 
+> School: We’re not well equipped to meet their needs.  
+> Response: You don’t have to be well equipped. Let’s start with willing and work from there.  
+
+* **Presume competence.** Presume that your child is aware and wants to understand. Consider that this might look different than what you expect. (Lei Wiley-Mydske)
+  * The above is confirmed by the presense of books including:
+    * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
+    * [I have been buried under years of dust, Valerie Gilpeer & Emily Grodin](https://www.amazon.ca/Have-Been-Buried-Under-Years/dp/0062984349)
+* **Hidden curriculum**: the unwritten, unofficial, and often unintended lessons values and perspectives that students learn in school.
 * Keep a photo of child available for IEP and diagnostic consultations for when the child is not present, to remind professionals of the humanity of the individual being discussed. Source: [Uniquely Human](https://www.goodreads.com/en/book/show/23492643)
 * Philosophy
   * Students should get what they need to succeed. Because they need it.
@@ -356,7 +407,7 @@ Individuals should research these people independently. A search engine query fo
   * Parents can include a log book in the child's backpack that follows the child to/from school for teachers to document any teaching that the child struggled with during the day and with further instruction that the parents can support from home, or for teachers or support staff to write little notes about the skills worked on and that the family may be able to reinforce from home.
   * Create a personalized story or picture schedule for the child's school day. Contact the teacher or school to access their daily schedule. A picture of the teacher or classroom may also help to set the story narrative.
   * If the child is a bus rider, find the bus number. Request a "mock bus ride" if the school division offers one.
-
+* [Youth with disabilities often lack support as they leave school, cbc.ca](https://www.cbc.ca/news/canada/manitoba/youth-with-disabilities-transition-school-report-1.6837919)
 
 # Organizations
 
@@ -425,6 +476,7 @@ Individuals should research these people independently. A search engine query fo
 * **Developmental Individual Difference Relation-Based Intervention (DIR)**
   * Developed by Stanley Greenspan and Serena Wieder, approach autism from a developmental point of view rather than as a behavioral issue. DIR is a less-structured model for behavioral intervention, focusing on strengthening and then building upon the emotional bond of the child with his or her caregiver. This method is often referred to as Floortime; however, the Floortime component is only part of the approach.
   * [DIR Floortime Therapy](https://www.autismparentingmagazine.com/floortime-therapy/)
+* **More Than Words, The Hanen Centre**: [hanen.org](https://www.hanen.org/Programs/For-Parents/More-Than-Words.aspx)
 * **The Miller Method**
   * Arnold Miller
   * [millermethod.org](http://www.millermethod.org/)
@@ -446,15 +498,19 @@ Individuals should research these people independently. A search engine query fo
       * Related: [Three lessons an "Autism mum" leart from meeting an Adult Autistic Advocate](https://faithmummy.wordpress.com/2018/02/13/three-lessons-an-autism-mum-learnt-from-meeting-an-adult-autistic-advocate/)
     * [Five ways to damage autistic children without even knowing](https://autisticnotweird.com/five-ways-to-damage/)
     * ["Hating autism" and the damage it does](http://autisticnotweird.com/hating-autism/)
+  * [Emma's Hope Book](https://emmashopebook.com/)
   * [The Art of Autism](https://the-art-of-autism.com/)
     * [Favorite quotes about Autism and Aspergers](https://the-art-of-autism.com/favorite-quotes-about-autism-and-aspergers/)
     * [Lunch with Temple Grandin: 11 recommendations for artists](https://the-art-of-autism.com/lunch-with-temple-grandin-eleven-recommendations-for-artists/)
     * [The problem with creating perfect babies accordig to Finn](https://the-art-of-autism.com/the-problem-with-creating-pefect-babies-according-to-10-year-old-finn/)
   * [The Autism Cafe](https://theautismcafe.com)
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
+  * [Unstrangemind.com](http://unstrangemind.com/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
 * [Don't Mourn For Us, Jim Sinclair, ucsc.edu](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
+* [Dungeons, Dragons, and Autism](https://www.altogetherautism.org.nz/dungeons-dragons-and-autism/)
+* [Hidden Markov Models to Estimate the Probability of Having Autistic Children](https://ieeexplore.ieee.org/document/9099478)
 * [Institute for the Study of the Neurologically Typical (ISNT)](https://angryautie.wordpress.com/2013/06/24/the-institute-for-the-study-of-the-neurologically-typical/)
   > “Neurotypical syndrome is a neurobiological disorder characterized by preoccupation with social concerns, delusions of superiority, and obsession with conformity.”
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
@@ -468,8 +524,10 @@ Individuals should research these people independently. A search engine query fo
 * [(2012) New Rules Allow Joint Diagnosis of Autism, Attention Deficit](https://www.spectrumnews.org/news/new-rules-allow-joint-diagnosis-of-autism-attention-deficit/)
   > The DSM-5... eliminates a troublesome passage in the current version that has prevented doctors and researchers from describing ADHD and autism as disorders that can occur together.
 * [Sensory seeking vs. Sensory avoiding: What you need to know](https://www.understood.org/en/articles/sensory-seeking-and-sensory-avoiding-what-you-need-to-know)
+* [The Cost of Compliance is unreasonable](https://loveexplosions.net/2013/01/30/the-cost-of-compliance-is-unreasonable/)
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
+* [The Fruits of Damaging Childhood Therapy](http://unstrangemind.com/the-fruits-of-damaging-childhood-therapy/)
 * [Understandig Autism](https://adaptmanitoba.ca/understanding-autism/)
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
@@ -512,6 +570,7 @@ Individuals should research these people independently. A search engine query fo
 
 # Law
 
+* [Australian Terrorism Prediction tool considered autism a sign of criminality despite lack of evidence, theguardian.com](https://www.theguardian.com/australia-news/2023/may/12/australian-terrorism-prediction-tool-considered-autism-a-sign-of-criminality-despite-lack-of-evidence)
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
   > Under Title II of the ADA, States are required to place persons with mental disabilities in community settings rather than in institutions when the State's treatment professionals have determined that: (1) community placement is appropriate, (2) the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and (3) the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.
 * [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
@@ -526,8 +585,16 @@ Individuals should research these people independently. A search engine query fo
   * [In RE Guardianship of Kennedy, leagle, 2014](https://www.leagle.com/decision/iniaco20140418138)
   * [The Iowa Supreme Court on vasectomies and due process](https://iowaappeals.com/administrator/the-iowa-supreme-court-on-vasectomies-and-due-process/)
   * [Sterilization laws in the United States](https://en.wikipedia.org/wiki/Sterilization_law_in_the_United_States)
+
+## Police Shootings
+
 * [Police Shooting Of Unarmed Autistic Teen Ricardo Hayes, CBS Chicaco](https://www.cbsnews.com/chicago/news/police-shooting-settlement-ricardo-hayes-sgt-khalil-muhammad-city-council-finance-committee/)
-* [Police Shooting of Charles Kinsey, mental health therapist, as he was retrieving his autistic patient](https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey)
+* Linden Cameron, 13
+  * [13-year-old Boy with Autism Disorder Shot by Salt Lake City Police](https://www.npr.org/2020/09/09/910975499/autistic-13-year-old-boy-shot-by-salt-lake-city-police)
+  * [Shooting of Linden Cameron, Wikipedia](https://en.wikipedia.org/wiki/Shooting_of_Linden_Cameron)
+* [Shooting of Charles Kinsey, mental health therapist, as he was retrieving his autistic patient](https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey)
+* [Woman with Asperger's shot, killed by police in Arizona](https://www.cnn.com/2016/02/05/us/aspergers-woman-killed/index.html)
+
 
 # Movies, Multimedia, & Literature
 
@@ -536,11 +603,13 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
   * Pixar's Loop [IMDb](https://www.imdb.com/title/tt9536836/)
     * [Why Pixar’s First Non-Verbal Character In The Short ‘Loop’ Was a Game-Changer, Forbes](https://www.forbes.com/sites/kristenlopez/2020/01/10/why-pixars-first-non-verbal-character-in-the-short-loop-was-a-game-changer/?sh=3ca2b77a284c)
+  * [Extreme Love: Autism, Wikipedia](https://en.wikipedia.org/wiki/Extreme_Love:_Autism)
 * Music
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
   * [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
+  * [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
   * TED & TEDx Talks
@@ -550,6 +619,7 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: Dear Society... Signed, Autism, Daniel Share-Strom](https://www.youtube.com/watch?v=8HG5xD4xD2U)
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
+  * [Hit me with your Autistic: A Stand Up Comedy Special](https://www.youtube.com/watch?v=1BppE9bM74E)
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
 * Short Stories
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
@@ -649,6 +719,12 @@ or
 
 
 ## How to disclose an Autism diagnosis to child
+
+### Resources
+
+* YouTube: [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
+* YouTube: [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
+* [The Do's and Don'ts of telling your child they are Autistic](https://www.differentnotdeficient.co.uk/post/the-dos-and-don-ts-of-telling-your-child-that-they-are-autistic)
 
 ### Dr. Stephen Shore 4 step process
 
