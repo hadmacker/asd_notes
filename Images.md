@@ -4,6 +4,7 @@
 
 ![All brains are equally important](./Images/all%20brains%20are%20equally%20important.jpg)
 ![Understanding Dysregulation](./Images/understanding%20dysregulation.jpg)
+![The Autism Spectrum is not linear](./Images/spectrum%20not%20linear.JPG)
 
 ## Quotes
 
@@ -23,6 +24,8 @@
 ![No I don't think I'll grow out of my autism. Autism is a part of me. If I'm gonna grow, it's gonna grow with me.](/Images/ican%20grow%20autism.png)
 
 ![this is our fight](./Images/this%20is%20our%20fight.JPG)
+
+![Every plant has their own requirements to grow. So do people.](./Images/every%20plant%20has%20their%20own%20requirements%20to%20grow.jpg)
 
 ## Memes
 

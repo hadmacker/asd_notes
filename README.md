@@ -43,6 +43,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Comorbid**: having multiple disorders or diagnoses
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
   * Downs Syndrome is an example of a CNV
+* **CPTSD**: [Complex post-traumatic stress disorder (complex PTSD)](https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd-and-complex-ptsd/complex-ptsd/)
 * **Double Empathy Problem**: The basis of the theory is that a mismatch between two people can lead to faulty communication. This disconnect can occur at many levels, from conversation styles to how people see the world. The greater the disconnect, the more difficulty the two people will have interacting. [spectrumnews](https://www.spectrumnews.org/news/double-empathy-explained/)
 * **DSM**: Diagnostic and Statistical Manual of Mental Disorders
   * DSM-III: 1980
@@ -201,6 +202,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * Drink some water
   * Find comfort object
   * Meet sensory needs
+* Games: [Granny's Candies Board Game](https://www.superduperinc.com/grannys-candies.html)
 
 
 ## Quotes & Inspiration
@@ -272,8 +274,18 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > It seems that for success in science or art, a dash of autism is essential.  
 > Hans Asperger  
 
+> You can't blend in when you were born to stand out.  
+> R. J. Palacio  
+
 > This above all; to thine own self be true.  
 > Shakespeare  
+
+> The most interesting people you'll find are ones that don't fit into your average cardboard box. They'll make what they need, they'll make their own boxes.  
+> Dr. Temple Grandin  
+
+> Most of our tensions and frustrations stem from compulsive needs to act the role of someone we are not.  
+> Janos (Hans) Selye, M.D., The Stress of Life  
+> Quoted by Gabor Mate in The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture  
 
 > There is no missing puzzle piece of them you need to find.  
 > They are whole and all there even if you don’t know how to understand them yet.  
@@ -289,6 +301,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 * Bram Cohen: BitTorrent creator, diagnosed with Aspergers [Bloomberg.com](https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers)
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
+* [Courtney Love](https://the-genius-of-autism.fandom.com/wiki/Courtney_Love), Musician
 * Daniel Tammet, Author with Aspergers syndrome and savant syndrome[Wikipedia](https://en.wikipedia.org/wiki/Daniel_Tammet)
 * Daryl Hannah
   * Actress, environmental activist
@@ -314,6 +327,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * Stephen Wiltshire, British architectural artist and autistic savant [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wiltshire)
 * Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
   * Humane Livestock slaughter, Squeeze machine
+* [Tony Snell](https://people.com/nba-star-tony-snell-autism-diagnosis-at-31-7548235#:~:text=After%20taking%20that%20initiative%20last,%2C%20speech%20and%20nonverbal%20communication.%22), NBA player
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
 
@@ -408,6 +422,12 @@ Individuals should research these people independently. A search engine query fo
   * Create a personalized story or picture schedule for the child's school day. Contact the teacher or school to access their daily schedule. A picture of the teacher or classroom may also help to set the story narrative.
   * If the child is a bus rider, find the bus number. Request a "mock bus ride" if the school division offers one.
 * [Youth with disabilities often lack support as they leave school, cbc.ca](https://www.cbc.ca/news/canada/manitoba/youth-with-disabilities-transition-school-report-1.6837919)
+* [GOM: Human Rights and Appropriate Educational Programming](https://www.edu.gov.mb.ca/k12/specedu/aep/human_rights.html#:~:text=A%20publicly%20funded%20education%20system,and%20The%20Education%20Administration%20Act.)
+  * [GOM: The Public Schools Act](https://web2.gov.mb.ca/laws/statutes/ccsm/p250.php)
+  * [GOM: The Education Adminstration Act](https://web2.gov.mb.ca/laws/statutes/ccsm/e010.php)
+* [Right to Education](https://inclusiveeducation.ca/learn/right-to-education/)
+  > “Parents of children with disabilities face many challenges, but few as great as ensuring their children get a good education.”  
+  > CBC, The Current, April 29, 2014  
 
 # Organizations
 
@@ -489,6 +509,7 @@ Individuals should research these people independently. A search engine query fo
 * [10 ways to make your church autism friendly](https://canadianmennonite.org/stories/10-ways-make-your-church-autism-friendly)
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
+* [At the intersection of Autism and Trauma](https://www.spectrumnews.org/features/deep-dive/intersection-autism-trauma/)
 * [Autism's Drug Problem](https://www.spectrumnews.org/features/deep-dive/autisms-drug-problem/)
 * [Boy afraid he'll be on "naughty list" because of his autism, 6abc.com](https://6abc.com/santa-naught-list-michigan-christmas/1114282/)
 * Blogs
@@ -515,6 +536,7 @@ Individuals should research these people independently. A search engine query fo
   > “Neurotypical syndrome is a neurobiological disorder characterized by preoccupation with social concerns, delusions of superiority, and obsession with conformity.”
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
 * [Pathological Demand Avoidance (PDA) in kids](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
+* [PTSD and Autism Overlap](https://neurodivergentinsights.com/misdiagnosis-monday/ptsd-and-autism)
 * [Receptive and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
   > **Receptive language** refers to how your child understands language.  
   > **Expressive language** refers to how your child uses words to express himself/herself.
@@ -573,6 +595,11 @@ Individuals should research these people independently. A search engine query fo
 * [Australian Terrorism Prediction tool considered autism a sign of criminality despite lack of evidence, theguardian.com](https://www.theguardian.com/australia-news/2023/may/12/australian-terrorism-prediction-tool-considered-autism-a-sign-of-criminality-despite-lack-of-evidence)
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
   > Under Title II of the ADA, States are required to place persons with mental disabilities in community settings rather than in institutions when the State's treatment professionals have determined that: (1) community placement is appropriate, (2) the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and (3) the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.
+* [Commonly Asked Questions about Child Care Centers and the Americans with Disabilities Act](https://www.ada.gov/resources/child-care-centers/)
+  > Privately-run child care centers... **must comply with title III of the ADA**. Child care services provided by government agencies... **must comply with title II of the ADA**.  
+  > Emphasis mine. 
+  * Interpretation: (At least in the United States) even private-run child-care centers must provide a certain level of expected accomodation.
+* [New Zealand denies entry to autistic daughter of immigrant couple](https://www.theguardian.com/world/2022/apr/26/new-zealand-denies-entry-to-autistic-daughter-of-immigrant-couple)
 * [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * Olmstead v. L.C. [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
   > The U.S. Supreme Court’s 1999 landmark decision in Olmstead v. L.C. (Olmstead) found the unjustified segregation of people with disabilities is a form of unlawful discrimination under the Americans with Disabilities Act (ADA).
@@ -624,7 +651,8 @@ Individuals should research these people independently. A search engine query fo
 * Short Stories
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
-
+* [Thomas the Tank engine to introduce first autistic character](https://www.theguardian.com/global/2022/sep/07/thomas-the-tank-engine-to-introduce-first-autistic-character)
+  * [Youtube: 'Thomas and Friends' introduces Bruno the Brake Car, its first character with autism, PBS NewHour](https://www.youtube.com/watch?v=hFq1H-e-sOE)
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments
 
@@ -804,6 +832,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * :star: Highly recommended.
 * [An Anthropologist on Mars, Oliver Sacks](https://www.amazon.ca/Anthropologist-Mars-Oliver-Sacks/dp/0394281519)
   * Profiles of interesting neurological patients, including Temple Grandin.
+* [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.amazon.ca/Myth-Normal-Illness-Healing-Culture/dp/0735278369)
 
 # Conferences, Courses, & Webinars
 
