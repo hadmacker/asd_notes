@@ -300,7 +300,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 > “Why do you need a label?” Bc there is comfort in knowing you are a normal zebra, not a strange horse. Bc you can’t find community w other zebras if you don’t know you belong. And bc it is impossible for a zebra to be happy or healthy spending its life feeling like a failed horse  
 > [Twitter: @OMGImAutisticAF](https://twitter.com/OMGImAutisticAF/status/1564311584767463425?s=20)  
-> [Cached](.\Images\a normal zebra not a strange horse.jpg)
+> [Cached](./Images/a%20normal%20zebra%20not%20a%20strange%20horse.jpg)
 
 # Individuals within the spectrum
 
@@ -663,7 +663,7 @@ Individuals should research these people independently. A search engine query fo
 * [Thomas the Tank engine to introduce first autistic character](https://www.theguardian.com/global/2022/sep/07/thomas-the-tank-engine-to-introduce-first-autistic-character)
   * [Youtube: 'Thomas and Friends' introduces Bruno the Brake Car, its first character with autism, PBS NewHour](https://www.youtube.com/watch?v=hFq1H-e-sOE)
 * [Facebook: When He Outgrew Cute](https://m.facebook.com/story.php?story_fbid=pfbid02WT9Y9Dua8k3qCkJSMUaL3kigh5qo53wt4dt2gCzhjZSCqpiUxmqXuXevhVVd27cfl&id=100058036480641&mibextid=qC1gEa)
-  * [Cached](.\articles\fb_jessplusthemess_whoc.png)
+  * [Cached](./Articles/fb_jessplusthemess_whoc.png)
 
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments

@@ -12,6 +12,8 @@
 
 ![Sometimes it is the people no one can imagine anything of who do the things no one can imagine, Alan Turing](./Images/turing%20do%20the%20things%20that%20noone%20can%20imagine.jpg)
 
+![A normal zebra and not a strange horse](./Images/a%20normal%20zebra%20not%20a%20strange%20horse.jpg)
+
 ## Cartoons & Inspiration
 
 ![Anxiety](./Images/anxiety.jpg)
