@@ -121,6 +121,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay...
 * **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space". A recent (2017) [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) word for Autism. [Wikipedia](https://en.wiktionary.org/wiki/takiw%C4%81tanga)
 * **tardive dyskinesia**: movement disorder characterized by uncontrollable, abnormal, and repetitive movements of the face, torso, and/or other body parts. This disorder may be caused by certain drugs. 
+* **Tickertape Synesthesia**: those with “ticker-tape” synesthesia tend to see subtitles when listening to the spoken word.
+  * [A Subtitled World: Uncovering the Secrets of Tickertape Synesthesia](https://neurosciencenews.com/subtitles-tickertape-synesthesia-22419/#:~:text=A%20Subtitled%20World%3A%20Uncovering%20the%20Secrets%20of%20Tickertape%20Synesthesia,-FeaturedNeuroscience&text=Summary%3A%20Study%20reveals%20how%20we,listening%20to%20the%20spoken%20word.)
+  * [Do you see subtitles when someone is speaking? You aren't alone](https://bigthink.com/neuropsych/tickertape-synesthesia/)
 * **Theory of Mind**: The ability to understand other people's thoughts and emotions. Individuals with autism may perform poorly on stadard theory of mind tasks. [Spectrumnews.org](https://www.spectrumnews.org/features/deep-dive/theory-of-mind-in-autism-a-research-field-reborn/)
 * **Trichotillomania**: An irresistable urge to pull one's hair. [nhs.uk](https://www.nhs.uk/mental-health/conditions/trichotillomania)
 * **Vestibular**: relating to dizziness, vertigo. [Vestibular System and Proprioception: The Two Unknown Senses, propriorochsner.org](https://blog.ochsner.org/articles/vestibular-system-and-proprioception-the-two-unknown-senses)
@@ -294,6 +297,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 > Forcing 'compliance' only leaves children more susceptible to abuse later on in life.  
 > Unattributed.  
 > May be assocated to unstrangemind.com or "No you don't" essays.  
+
+> “Why do you need a label?” Bc there is comfort in knowing you are a normal zebra, not a strange horse. Bc you can’t find community w other zebras if you don’t know you belong. And bc it is impossible for a zebra to be happy or healthy spending its life feeling like a failed horse  
+> [Twitter: @OMGImAutisticAF](https://twitter.com/OMGImAutisticAF/status/1564311584767463425?s=20)  
+> [Cached](.\Images\a normal zebra not a strange horse.jpg)
 
 # Individuals within the spectrum
 
@@ -550,6 +557,7 @@ Individuals should research these people independently. A search engine query fo
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
 * [The Fruits of Damaging Childhood Therapy](http://unstrangemind.com/the-fruits-of-damaging-childhood-therapy/)
+* [Understanding and Treating Self-Injurious Behavior in Autism](https://autism.org/understanding-and-treating-self-injury-book/)
 * [Understandig Autism](https://adaptmanitoba.ca/understanding-autism/)
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
@@ -557,6 +565,7 @@ Individuals should research these people independently. A search engine query fo
 
 ### Education & Employment
 
+* [Best Jobs for People with Autism in the UK](https://exceptionalindividuals.com/jobs-for-people-with-autism/)
 * [Disability Discrimination and Employment Decisions](https://www.eeoc.gov/disability-discrimination-and-employment-decisions)
 * [The Autism Advantage, Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2012/11/the-autism-advantage.html)
   > The autistic worker, Cowen wrote, has an unusually wide variation in his or her skills, with higher highs and lower lows. Yet today, he argued, it is increasingly a worker’s greatest skill, not his average skill level, that matters. As capitalism has grown more adept at disaggregating tasks, workers can focus on what they do best, and managers are challenged to make room for brilliant, if difficult, outliers. 
@@ -653,6 +662,9 @@ Individuals should research these people independently. A search engine query fo
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
 * [Thomas the Tank engine to introduce first autistic character](https://www.theguardian.com/global/2022/sep/07/thomas-the-tank-engine-to-introduce-first-autistic-character)
   * [Youtube: 'Thomas and Friends' introduces Bruno the Brake Car, its first character with autism, PBS NewHour](https://www.youtube.com/watch?v=hFq1H-e-sOE)
+* [Facebook: When He Outgrew Cute](https://m.facebook.com/story.php?story_fbid=pfbid02WT9Y9Dua8k3qCkJSMUaL3kigh5qo53wt4dt2gCzhjZSCqpiUxmqXuXevhVVd27cfl&id=100058036480641&mibextid=qC1gEa)
+  * [Cached](.\articles\fb_jessplusthemess_whoc.png)
+
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments
 
@@ -663,8 +675,11 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 ## Briefly:
 
 * :star: "Let's pause this. He/she needs my immediate attention."
+* "They're focused right now" or "They're overwhelmed".
+  * Communicate the current interaction and avoid sharing a specific diagnosis.
 * He/She's my high octane child.
 * "His/her behaviour comes from a difference in how their brain is wired."
+  * "Their brain is wired uniquely."
 * "My child is autistic (or has autism). That's why they do that."
 * "Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting."
 * They're not givimg me a hard time, they're having a hard time.
@@ -674,7 +689,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 * This is what we're doing now. 
 * It must be so frustrating to not be able to say the things you’re thinking.
 * For those that can’t communicate, they might be Disguised as poor thinkers. (Paul Collins)
-* Something is only funny if we both think it’s funny, and I’m not laughing.
+* Something is only funny if we both think it’s funny. I’m not laughing.
 
 
 ## Showing signs of impending meltdown or event
