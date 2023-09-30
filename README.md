@@ -2,6 +2,29 @@
 
 This document is a collection of links, resources, tools, and other sources discovered during personal investigation.
 
+# Table of Contents
+
+* [Accomodations](#accommodations)
+* [Articles & Media](#articles--media)
+* [Books](#books)
+* [Conferences, Courses, & Webinars](#conferences-courses--webinars)
+* [Controversies](#controversies)
+* [Diagnostic Criteria](#diagnostic-criteria)
+* [Glossary](#glossary)
+* [IEP (Individualized Education Program)](#iep-individualized-education-program)
+* [Images](#images)
+* [Individuals Within the Spectrum](#individuals-within-the-spectrum)
+  * [Confirmed Diagnosis or Self-Disclosed](#confirmed-diagnosis-or-self-disclosed)
+  * [Suspected or Observed Diagnosis, Not Formally Diagnosed](#suspected-or-observed-diagnosis-not-formally-diagnosed)
+* [Law](#law)
+* [Movies, Multimedia, & Literature](#movies-multimedia--literature)
+* [Organizations](#organizations)
+* [Statistics & Facts](#statistics--facts)
+* [Tactful responses to interactions, myths, and challenging questions or comments](#tactful-responses-to-interactions-myths--challenging-questions-or-comments)
+* [Toolkit](#toolkit)
+  * [Quotes & Inspiration](#quotes--inspiration)
+
+
 ## Contributing
 
 Contributions may be submitted in the form of [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
@@ -306,6 +329,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 ## Confirmed Diagnosis or Self Disclosed
 
+* [Adhara Pérez Sánchez](https://en.wikipedia.org/wiki/Adhara_P%C3%A9rez_S%C3%A1nchez) Child prodigy
+  * [‘To Change the World': Girl, 8, Has an IQ of 162, Hopes to Become Astronaut](https://www.nbcsandiego.com/news/local/to-change-the-world-girl-8-has-an-iq-of-162-hopes-to-become-astronaut/2279752/)
 * Bram Cohen: BitTorrent creator, diagnosed with Aspergers [Bloomberg.com](https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers)
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * [Courtney Love](https://the-genius-of-autism.fandom.com/wiki/Courtney_Love), Musician
@@ -317,6 +342,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * Anthropologist, primatologist, Ethologist
 * [Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)
   * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
+* Gary McKinnon: Hacker
+  * [Asperger's syndrome hacker 'should not be extradited'](https://www.theguardian.com/technology/2009/jul/14/gary-mckinnon-aspergers-hacking)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Gary_McKinnon)
+  * [Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU) claims McKinnon has Autism and he became obsessed.
 * [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
 * Jason Arday [Wikipedia](https://en.wikipedia.org/wiki/Jason_Arday)
   * GDD: Learned to speak at 11 years old, read & write at 18.
@@ -348,20 +377,34 @@ Individuals should research these people independently. A search engine query fo
   * [Autism: The enigma that amazingly saved 14 Million lives](https://www.autismparentingmagazine.com/autism-enigma-amazingly-saved-lives/)
 * **Albert Einstein**
   * Theoretical Physics, Nuclear physics, Atomic Bomb research
+  * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
 * **Bill Gates**
   * Microsoft, Windows, Malaria Research
 * **Charles Babbage**: Father of the modern computer. [Genius, Creativity, and Savantism, pmg.eu](http://professormichaelfitzgerald.eu/genius-creativity-and-savantism/)
 * **Henry Cavendish (1731–1810)**
-  * [Henry Cavendish and Asperger’s syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0191886909000294)
   * Scientist, Father of modern physics, inventor, discovered hydrogen, early Electricity pioneer
+  * [Henry Cavendish and Asperger’s syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0191886909000294)
+  * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
   > Cavendish was a great Man with extraordinary singularities...  
   > [Humphry Davy](https://www.goodreads.com/quotes/952997-author-cavendish-3980665-was-a-great-man-with-extraordinary-singularities-his-voice-was)
+* **Irène Joliot-Curie** Nuclear research
+  * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie)
+* **Isaac Newton** Gravity
+  * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
+* **Mark Zuckerberg** Facebook, Meta
+  * [goldenstepsaba](https://www.goldenstepsaba.com/resources/is-mark-zuckerberg-autistic#:~:text=on%20the%20spectrum.-,In%202013%2C%20Zuckerberg%20made%20a%20public%20statement%20that%20he%20has,a%20milder%20form%20of%20autism). Claims not confirmed by reliable sources.
+* **Marie Curie**: Discovered Radium, Polonium. Nuclear research.
+  * [Marie Curie... thought to have shown signs of Asperger's syndrome](https://recognitionhealth.com/autism-spectrum-disorder/#:~:text=Isaac%20Newton%2C%20Albert%20Einstein%20and,from%20family%20and%20social%20services.)
+  * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/)
 * **Mozart**
   * [Did Mozart have Autism](https://www.crossrivertherapy.com/autism/did-mozart-have-autism)
   * Child Prodigy, perfect musical memory, ability to read music
   * Sound sensitivity to loud noises, Short attention span
 * **Nikola Tesla**
   * A/C Electricity, A/C Motor, Radio-controlled robots
+* **Paul Dirac**: Quantum Mechanics
+  * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
 * **Steve Jobs**
   * Apple
 * **Thomas Jefferson**
@@ -511,6 +554,28 @@ Individuals should research these people independently. A search engine query fo
   * [autismspeaks.org](https://www.autismspeaks.org/relationship-development-intervention-rdi-0)
 
 
+### Autism's link to the Scientific Mind
+
+* [YouTube: Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU)
+  * Is Autism linked to minds wired for science?
+  * [The Geek Syndrome](https://www.wired.com/2001/12/aspergers/)
+  > It seems that for success in science or art, a dash of autism is essential.  
+  > Hans Asperger  
+  * Boys vs. Girls: Is there a difference between the sexes and systemizing? Turns out yes (discussed in video above.)
+    * This may explain why ASD is more prevalent in boys over girls.
+* [YouTube: Uncovering the secrets of Autism Spectrum Conditions, Dr. Simon Baron-Cohen, IIS](https://www.youtube.com/watch?v=nQazUfGIMX0)
+  * [Preference for geometric patterns early in life as a risk factor for autism, Pierce et al, 2010](https://pubmed.ncbi.nlm.nih.gov/20819977/)
+  > [Eindhoven study suggests] Autism is genetically potentially linked to talent in understanding systems...
+* [The Silicon Valley Syndrome, Autism and the Tech Industry](https://medium.com/@miamiautismdad/the-silicon-valley-syndrome-autism-and-the-tech-industry-61e46b46bc6f)
+* [Autism and the technical mind: children of scientists and engineers may inherit genes that not only confer intellectual talents but also predispose them to autism](https://pubmed.ncbi.nlm.nih.gov/23120898/)
+* [Autism in Tech is more common than you'd think](https://www.linkedin.com/pulse/autism-tech-more-common-than-youd-think-richard-benfield-mbcs/)
+* [Autism More Common in Tech-Heavy Centers](https://www.livescience.com/14719-autism-information-technology-region.html)
+* [The Eindhoven study: STEM regions and autism](https://www.autismresearchcentre.com/projects/school-survey-of-autism-spectrum-conditions-in-three-regions-in-the-netherlands/#:~:text=In%20brief%2C%20rates%20of%20autism,of%20having%20an%20autistic%20child)
+* [Childhood autism spikes in geek heartland](https://www.newscientist.com/article/dn20589-childhood-autism-spikes-in-geek-heartlands/)
+* [Are Geeky Couples More Likely to Have Kids with Autism?](https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/)
+* [Autism and the Technical Mind: Live Chat with Simon Baron-Cohen, Transcript](https://www.scientificamerican.com/article/baron-cohen-autism-and-technical-mind-live-chat/)
+
+
 ### General
 
 * [10 ways to make your church autism friendly](https://canadianmennonite.org/stories/10-ways-make-your-church-autism-friendly)
@@ -598,7 +663,12 @@ Individuals should research these people independently. A search engine query fo
 * [Damage over Generations. Quotes by Major Influencers in Autism](https://the-art-of-autism.com/damage-over-generations-quotes-by-major-influencers-in-autism/)
 * [The Controversy around ABA, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
 * [Anna Stubblefield found guilty of first degree sexual assault against an individual with disabilities when she initiated sexual contact using only facilitated communication as a form of consent.](https://www.facilitatedcommunication.org/facilitator-crimes#:~:text=Former%20Rutgers%20University%20professor%2C%20Anna,a%20facilitator%20at%20Syracuse%20University.)
+* Utah charter school for autistic students
+  * [Utah charter school for autistic students restrained, secluded children, violating their civil rights, feds find](https://www.sltrib.com/news/education/2023/09/08/utah-charter-school-autistic/#:~:text=The%20federal%20investigation%20focused%20on,the%20second%2C%20the%20report%20states)
+  * [Read Spectrum Academy documents: What investigators found at Utah charter for kids with autism](https://www.sltrib.com/news/education/2023/09/09/read-spectrum-academy-documents/)
+  * [Utah charter school agrees to remedy restraint, seclusion concerns](https://www.k12dive.com/news/OCR-restraint-seclusion-investigation/693219/)
 
+  
 # Law
 
 * [Australian Terrorism Prediction tool considered autism a sign of criminality despite lack of evidence, theguardian.com](https://www.theguardian.com/australia-news/2023/may/12/australian-terrorism-prediction-tool-considered-autism-a-sign-of-criminality-despite-lack-of-evidence)
@@ -621,6 +691,9 @@ Individuals should research these people independently. A search engine query fo
   * [In RE Guardianship of Kennedy, leagle, 2014](https://www.leagle.com/decision/iniaco20140418138)
   * [The Iowa Supreme Court on vasectomies and due process](https://iowaappeals.com/administrator/the-iowa-supreme-court-on-vasectomies-and-due-process/)
   * [Sterilization laws in the United States](https://en.wikipedia.org/wiki/Sterilization_law_in_the_United_States)
+    * [History of eugenics in the United States](https://gallaudet.edu/museum/exhibits/history-through-deaf-eyes/language-and-identity/a-deaf-variety-of-the-human-race/#:~:text=Alexander%20Graham%20Bell%20studied%20eugenics,all%2C%20marrying%20other%20deaf%20people.)
+* [1933: German Law Authorizes Sterilization for Prevention of Hereditary Diseases](https://newspapers.ushmm.org/events/german-law-authorizes-sterilization-for-prevention-of-hereditary-diseases)
+  * Triggers: Nazi ideology, eugenics
 
 ## Police Shootings
 
@@ -648,6 +721,7 @@ Individuals should research these people independently. A search engine query fo
   * [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
+  * [Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU)
   * TED & TEDx Talks
     * [Youtube: TED: The World Needs All Kinds of Minds, Temple Grandin](https://youtu.be/fn_9f5x0f1Q)
     * [Youtube: TEDx: Facing Adversity with a Grin, Jason Arday](https://youtu.be/Y07EK4R_iEE)
@@ -837,6 +911,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
   * A non-intimidating book spanning grief, resources, interventions, medicine, and more.
 * [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
+  * :star: Highly recommended.
   * A well-researched chronological history of Autism's key researchers and influencers, and changes in the label over time.
   * Trigger Warning: Addresses difficult topics related to the history of autism including eugenics, mercy killing, institutionalization, morally reprehensible research
 * [Dragonfly: A daughter's emergence from autism, Lori Ashley Taylor](https://www.amazon.com/Dragonfly-Daughters-Emergence-Practical-Parents-ebook/dp/B072NJM8Q5)
