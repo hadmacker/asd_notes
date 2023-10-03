@@ -122,6 +122,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Nosology**: The branch of medical science dealing with the classification of diseases
   * Relevance: The changing diagnostic criteria and scope for individuals with Autism
 * **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
+* **Passing**: Passing is when an autistic person suppresses everything about themselves to appear neurotypical. 
+  * [YouTube: Ask an Autistic #2 - What is Passing?](https://youtu.be/EsH1fX4MM60?si=973o3OgRnijPaxyE)
 * **Pathological Demand Avoidance (PDA)**: All kids avoid doing things they’re asked to do from time to time. But some go to extremes to ignore or resist anything they perceive as a demand. That pattern of behavior is called pathological demand avoidance, or PDA. It is seen most often in people with autism. [childmind.org](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * **PDD-NOS**: Pervasive Development Disorder - Not Otherwise Specified
   * DSM-III-R, 1987
@@ -142,6 +144,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Stimming**: self-stimulatory behaviour, can be used to regulate or regain self control [See: betterhelp.com](https://www.betterhelp.com/advice/adhd/what-is-stimming-adhd-and-possible-behavioral-issues)
   * Stimming is not necessarily "bad" and may be allowed to continue if it does not interfere with life [Source: psychiatry.org](https://www.psychiatry.org/News-room/APA-Blogs/Understand-Stimming-Repetitive-Behaviors-Purpose)
   > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay...
+* **Table Ready**: When an autistic child is ready for school because they can sit still at a table without stimming.
+  * [YouTube: Ask an Autistic #2 - What is Passing?](https://youtu.be/EsH1fX4MM60?si=973o3OgRnijPaxyE)
 * **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space". A recent (2017) [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) word for Autism. [Wikipedia](https://en.wiktionary.org/wiki/takiw%C4%81tanga)
 * **tardive dyskinesia**: movement disorder characterized by uncontrollable, abnormal, and repetitive movements of the face, torso, and/or other body parts. This disorder may be caused by certain drugs. 
 * **Tickertape Synesthesia**: those with “ticker-tape” synesthesia tend to see subtitles when listening to the spoken word.
@@ -583,6 +587,8 @@ Individuals should research these people independently. A search engine query fo
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
 * [At the intersection of Autism and Trauma](https://www.spectrumnews.org/features/deep-dive/intersection-autism-trauma/)
 * [Autism's Drug Problem](https://www.spectrumnews.org/features/deep-dive/autisms-drug-problem/)
+* [Autistic Burnout](https://stimpunks.org/burnout/)
+* [Avengers: Endgame's 3-hour runtime is a stark reminder of Hollywood's Hidden Ableism](https://www.mtv.com/news/vmqicc/avengers-endgame-runtime-ableism)
 * [Boy afraid he'll be on "naughty list" because of his autism, 6abc.com](https://6abc.com/santa-naught-list-michigan-christmas/1114282/)
 * Blogs
   * [Autistic Hoya, Lydia X. Z. Brown](https://www.autistichoya.com/)
@@ -678,6 +684,8 @@ Individuals should research these people independently. A search engine query fo
   > Privately-run child care centers... **must comply with title III of the ADA**. Child care services provided by government agencies... **must comply with title II of the ADA**.  
   > Emphasis mine. 
   * Interpretation: (At least in the United States) even private-run child-care centers must provide a certain level of expected accomodation.
+* Dobbs v. Jackson Women’s Health Organization
+  * [ASAN: Our Rights Under Threat: What Dobbs v. Jackson Women’s Health Organization Means for People with Disabilities](https://autisticadvocacy.org/policy/toolkits/ourrights/)
 * [New Zealand denies entry to autistic daughter of immigrant couple](https://www.theguardian.com/world/2022/apr/26/new-zealand-denies-entry-to-autistic-daughter-of-immigrant-couple)
 * [Oklahoma Republicans Vote to Let Teachers Hit Kids with Disabilities, Newsweek, 2023](https://www.newsweek.com/oklahoma-republicans-vote-let-teahers-hit-kids-disabilities-1787784)
 * Olmstead v. L.C. [Wikipedia](https://en.wikipedia.org/wiki/Olmstead_v._L.C.)
@@ -718,6 +726,8 @@ Individuals should research these people independently. A search engine query fo
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
   * [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
+  * [Amythest Schaber, @neurowonderful](https://www.youtube.com/@neurowonderful)
+    * 
   * [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
@@ -858,6 +868,10 @@ The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is d
 ### Harry Potter
 
 Using Harry Potter as an example and role model to disclose autism to your child age 9 explain how Harry Potter is special and awesome but is still different from his peers and doesn't often relate to them.
+
+### Frozen
+
+Consider Elsa and her powers, and how she had to suppress them to be "normal".
 
 ## Myths and Misconceptions
 
