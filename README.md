@@ -42,6 +42,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience
 * **Affinity**: A hallmark indicator of autism spectrum disorder is that patiences have a particular focused interest on a specific topic. This is known as an affinity.
+* **Alexithymia**: [Alexithymia is a broad term to describe problems with feeling emotions. In fact, this Greek term used in Freudian psychodynamic theories loosely translates to “no words for emotion.” While the condition is not well-known, it’s estimated that 1 in 10 peopleTrusted Source has it.](https://www.healthline.com/health/autism/alexithymia#:~:text=Alexithymia%20is%20a%20broad%20term,in%2010%20people%20has%20it.)
 * **Allistic**: Not on the Autistic spectrum. May be used by those with autism to describes "neurotypicals". [Differences in Autistic v. Allistic Communication](https://accessate.net/features/2791/differences-in-autistic-v-allistic-communication#:~:text=For%20those%20unfamiliar%2C%20%E2%80%9Callistic%E2%80%9D,in%20contrast%20to%20%E2%80%9Cautistic%E2%80%9D)
 * **Aphasia**: A communication disorder that makes it difficult to use words. It can affect speech, writing, and ability to understand language. [webmd.com](https://www.webmd.com/brain/aphasia-causes-symptoms-types-treatments)
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
