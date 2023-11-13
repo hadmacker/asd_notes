@@ -83,6 +83,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Executive Functioning**: 
   * The phrase “executive function” refers to a set of skills. These skills underlie the capacity to plan ahead and meet goals, display self-control, follow multiple-step directions even when interrupted, and stay focused despite distractions, among others.
   * [harvard.edu](https://developingchild.harvard.edu/resources/what-is-executive-function-and-how-does-it-relate-to-child-development/#:~:text=The%20phrase%20%E2%80%9Cexecutive%20function%E2%80%9D%20refers,focused%20despite%20distractions%2C%20among%20others.)
+  * [What Is Executive Function? 7 Deficits Tied to ADHD](https://www.additudemag.com/7-executive-function-deficits-linked-to-adhd/)
 * **Expressive Language**: How your child uses words to express themself.
 * **Extrapyramidal Effects**: [WebMD](https://www.webmd.com/schizophrenia/what-are-extrapyramidal-effects) Uncontrollable involuntary movements
 * **Facilitated Communication**: 
@@ -136,7 +137,13 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Psychiatry**: The science of the _mind_ specializing in psychological (behavioural) disorders.
 * **Psychopathy**: Mental illness or disorder
 * **Receptive Language**: How your child understands language
+* **Rejection Sensitive Dysphoria (RSD)**: 
+  * [Rejection Sensitive Dysphoria, Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd)
+    > Rejection sensitive dysphoria (RSD) is when you experience severe emotional pain because of a failure or feeling rejected. This condition is linked to ADHD and experts suspect it happens due to differences in brain structure.
+  * [What Is Rejection Sensitive Dysphoria? (WebMD)](https://www.webmd.com/add-adhd/rejection-sensitive-dysphoria)
 * **Scripts**: rehearsed patterns used by a neurodivergent individual to exhibit a neurotypical response to a situation. See also: _Masking_.
+* **Shanidar 1**: [Shanidar 1 (Smithsonian)](https://humanorigins.si.edu/evidence/human-fossils/fossils/shanidar-1)
+  * A Neanderthal that was as cared for and lives to an old age, even after a debilitating injury at a young age. Shows that even the Neanderthals took care of their people and that everyone in their society had value.
 * **Social pragmatics**: 
   * Social pragmatics refers to the social use of language and how individuals interact with others. This includes what we say, how we say it, our body language, taking turns in conversation, showing interest in another person’s comments and ideas, and even knowing when not to talk! Pragmatic skills are central to how we communicate with others and participate in social groups, such as our families and communities. Pragmatic skills are vital for communicating our personal thoughts, ideas and feelings. [ChildrensTherapyPlace.com](https://childrenstherapyplace.com/heck-social-pragmatics/#:~:text=Social%20pragmatics%20refers%20to%20the,knowing%20when%20not%20to%20talk!)
 * [Somatic Symptom Disorder](https://www.psychiatry.org/patients-families/somatic-symptom-disorder): The individual has excessive worries, feelings and behaviors relating to the physical (somatic) symptoms. Sometimes people experience the symptoms even though they do not have a diagnosed medical condition.
@@ -174,7 +181,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * Prevalence of profound autism was 4.6 in 1000 8-year-old children.
   * [CDC report via nih.gov](https://pubmed.ncbi.nlm.nih.gov/37074176/)
 * Autistic children are **6 times more likely to have thoughts of suicide** if they have an IQ of 120 or higher[Autism combined with high IQ increases risk of suicidal thoughts](https://medicine.uiowa.edu/content/autism-combined-high-iq-increases-risk-suicidal-thoughts)
-
+* [April 2nd annually is World Autism Awareness Day](https://www.un.org/en/observances/autism-day)
 # Diagnostic Criteria
 
 :warning: Diagnostic criteria sources below are provided for reference context and should not be used for self-diagnosis or evaluation without consulting a licensed professional.
@@ -228,12 +235,17 @@ _The contents of this glossary may include outdated terms, disproven theories, a
     * Change the number of taps. 
       * 1: small boost
       * 3: big boost
-* Tips for meltdown recovery:
-  * Take time to breathe
-  * Drink some water
-  * Find comfort object
-  * Meet sensory needs
+* Meltdowns
+  * Tips for meltdown recovery:
+    * Take time to breathe
+    * Drink some water
+    * Find comfort object
+    * Meet sensory needs
+  * [Meltdowns: A guide for all audiences](https://www.autism.org.uk/advice-and-guidance/topics/behaviour/meltdowns/all-audiences)
 * Games: [Granny's Candies Board Game](https://www.superduperinc.com/grannys-candies.html)
+* Eating:
+  * Take emotion out of eating. No pleading, no cajoling, no joking, no commentary. Make food available without comment. Without restriction.
+  * "Casual eating". It's there if you want it.
 
 
 ## Quotes & Inspiration
@@ -336,6 +348,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 
 * [Adhara Pérez Sánchez](https://en.wikipedia.org/wiki/Adhara_P%C3%A9rez_S%C3%A1nchez) Child prodigy
   * [‘To Change the World': Girl, 8, Has an IQ of 162, Hopes to Become Astronaut](https://www.nbcsandiego.com/news/local/to-change-the-world-girl-8-has-an-iq-of-162-hopes-to-become-astronaut/2279752/)
+* [Austin Riley](https://www.ctvnews.ca/w5/canadian-race-car-driver-austin-riley-inspires-on-and-off-the-track-1.6629956)
+  * Race car driver
 * Bram Cohen: BitTorrent creator, diagnosed with Aspergers [Bloomberg.com](https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers)
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * [Courtney Love](https://the-genius-of-autism.fandom.com/wiki/Courtney_Love), Musician
@@ -483,6 +497,7 @@ Individuals should research these people independently. A search engine query fo
 * [Right to Education](https://inclusiveeducation.ca/learn/right-to-education/)
   > “Parents of children with disabilities face many challenges, but few as great as ensuring their children get a good education.”  
   > CBC, The Current, April 29, 2014  
+* [Reddit: IEP discussion thread](https://www.reddit.com/r/Autism_Parenting/comments/13s9srx/comment/jlq53ag/?context=3&share_id=4aMFqy0KD1YErYGK8imUq&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
 
 # Organizations
 
@@ -503,19 +518,20 @@ Individuals should research these people independently. A search engine query fo
 
 ## Elsewhere
 
-* [ASAN: Autistic Self Advocacy Network](https://autisticadvocacy.org/)
-* [Autism Speaks](https://autismspeaks.org)
+* [ASAN: Autistic Self Advocacy Network (USA)](https://autisticadvocacy.org/)
+* [Autism Speaks (USA)](https://autismspeaks.org)
   * :warning: Central to numerous controversies in their past. See Controversies section for further detail.
-* Autism Society of America 
+* Autism Society of America (USA)
   * [Main](https://autismsociety.org/)
   * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
 * [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
-* Focus on the Family
+* Focus on the Family (USA)
   * Religious organization providing some special needs articles and book publication.
   * [Autism search results, focusonthefamily.com](https://www.focusonthefamily.com/?s=autism) - [focusonthefamily.ca](https://www.focusonthefamily.ca/content/filter/latest/article,broadcast,product/all/parenting?search=autism)
   * References ABA therapy as the primary treatment method for Autism, followed by medication and diet. 
   * [What Parents need to know about autism, Focusonthefamily, 2019](https://www.focusonthefamily.com/parenting/what-parents-need-to-know-about-autism/)
   * :warning: Links to Autism Speaks. (See Controversies section for further context around Autism Speaks.)
+* [Friendship Circle (USA)](https://www.friendshipcircle.org/resources)
 * [Literally Ausome (Australia)](https://literallyausome.com.au/)
 * [Pathological Demand Avoidance (PDA) Society, UK](https://www.pdasociety.org.uk/)
 
@@ -613,6 +629,7 @@ Individuals should research these people independently. A search engine query fo
 * [Hidden Markov Models to Estimate the Probability of Having Autistic Children](https://ieeexplore.ieee.org/document/9099478)
 * [Institute for the Study of the Neurologically Typical (ISNT)](https://angryautie.wordpress.com/2013/06/24/the-institute-for-the-study-of-the-neurologically-typical/)
   > “Neurotypical syndrome is a neurobiological disorder characterized by preoccupation with social concerns, delusions of superiority, and obsession with conformity.”
+* [MRI's link impaired brain activity to inability to regulate emotions in autism](https://www.sciencedaily.com/releases/2015/01/150127100018.htm)
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
 * [Pathological Demand Avoidance (PDA) in kids](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * [PTSD and Autism Overlap](https://neurodivergentinsights.com/misdiagnosis-monday/ptsd-and-autism)
@@ -666,7 +683,11 @@ Individuals should research these people independently. A search engine query fo
   * [Wiki: Autism Speaks](https://en.wikipedia.org/wiki/Autism_Speaks)
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
-* Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
+* Vaccines and Autism
+  * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.
+  * [MMR Vaccine is not linked with autism, says Danish study (NIH)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1124634/)
+  * [Vaccines and Autism: A Measured Response](https://www.youtube.com/watch?v=8BIcAZxFfrc)
+  * [Vaccines are not associated with Autism: An evidence-based meta-analysis of case-control and cohort studies (NIH)](https://pubmed.ncbi.nlm.nih.gov/24814559/)
 * [Damage over Generations. Quotes by Major Influencers in Autism](https://the-art-of-autism.com/damage-over-generations-quotes-by-major-influencers-in-autism/)
 * [The Controversy around ABA, childmind.org](https://childmind.org/article/controversy-around-applied-behavior-analysis/)
 * [Anna Stubblefield found guilty of first degree sexual assault against an individual with disabilities when she initiated sexual contact using only facilitated communication as a form of consent.](https://www.facilitatedcommunication.org/facilitator-crimes#:~:text=Former%20Rutgers%20University%20professor%2C%20Anna,a%20facilitator%20at%20Syracuse%20University.)
@@ -716,22 +737,27 @@ Individuals should research these people independently. A search engine query fo
 
 # Movies, Multimedia, & Literature
 
-* Movies
-  * Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
-    * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
+* Movies & Serials
+  * [As We See It (2022, Amazon Original)](https://www.imdb.com/title/tt12530128/)
+  * [Extreme Love: Autism, Wikipedia](https://en.wikipedia.org/wiki/Extreme_Love:_Autism)
   * Pixar's Loop [IMDb](https://www.imdb.com/title/tt9536836/)
     * [Why Pixar’s First Non-Verbal Character In The Short ‘Loop’ Was a Game-Changer, Forbes](https://www.forbes.com/sites/kristenlopez/2020/01/10/why-pixars-first-non-verbal-character-in-the-short-loop-was-a-game-changer/?sh=3ca2b77a284c)
-  * [Extreme Love: Autism, Wikipedia](https://en.wikipedia.org/wiki/Extreme_Love:_Autism)
+  * Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
+    * [Youtube: Temple Grandin Movie Trailer](https://youtu.be/cpkN0JdXRpM)
+  * [The A Word](https://en.wikipedia.org/wiki/The_A_Word)
+  * [Thomas the Tank engine to introduce first autistic character](https://www.theguardian.com/global/2022/sep/07/thomas-the-tank-engine-to-introduce-first-autistic-character)
+    * [Youtube: 'Thomas and Friends' introduces Bruno the Brake Car, its first character with autism, PBS NewHour](https://www.youtube.com/watch?v=hFq1H-e-sOE)
 * Music
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
   * [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
   * [Amythest Schaber, @neurowonderful](https://www.youtube.com/@neurowonderful)
-    * 
   * [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
+  * [Hit me with your Autistic: A Stand Up Comedy Special](https://www.youtube.com/watch?v=1BppE9bM74E)
+  * [Mr. Snayl's Wild Ride](https://www.youtube.com/@MrSnayl): "I make videos about what it's like to operate in the world as an Autistic adult."
   * [Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU)
   * TED & TEDx Talks
     * [Youtube: TED: The World Needs All Kinds of Minds, Temple Grandin](https://youtu.be/fn_9f5x0f1Q)
@@ -740,15 +766,20 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: Dear Society... Signed, Autism, Daniel Share-Strom](https://www.youtube.com/watch?v=8HG5xD4xD2U)
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
-  * [Hit me with your Autistic: A Stand Up Comedy Special](https://www.youtube.com/watch?v=1BppE9bM74E)
+  * [Vaccines and Autism: A Measured Response](https://www.youtube.com/watch?v=8BIcAZxFfrc)
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
-* Short Stories
+* Essays, Poetry, & Short Stories
+  * [Poem: The Special Mother by Erma Bombeck](http://www.downssideup.com/2012/07/erma-bombeck-special-mothers.html) ([Alt1](https://www.the-special-needs-child.com/The-Special-Mother.html), [Alt2](https://differentbrains.org/different-brains-salutes-the-special-mother-by-erma-bombeck/), [Cached](Articles/Downs%20Side%20Up_%20Erma%20Bombeck_%20The%20Special%20Mother.pdf))
   * [Short Story: Mimsy Were the Borogroves](https://en.wikipedia.org/wiki/Mimsy_Were_the_Borogoves)
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
-* [Thomas the Tank engine to introduce first autistic character](https://www.theguardian.com/global/2022/sep/07/thomas-the-tank-engine-to-introduce-first-autistic-character)
-  * [Youtube: 'Thomas and Friends' introduces Bruno the Brake Car, its first character with autism, PBS NewHour](https://www.youtube.com/watch?v=hFq1H-e-sOE)
 * [Facebook: When He Outgrew Cute](https://m.facebook.com/story.php?story_fbid=pfbid02WT9Y9Dua8k3qCkJSMUaL3kigh5qo53wt4dt2gCzhjZSCqpiUxmqXuXevhVVd27cfl&id=100058036480641&mibextid=qC1gEa)
   * [Cached](./Articles/fb_jessplusthemess_whoc.png)
+* Novels
+  * [Failure to Communicate (Xandri Corelel Book 1), Kaia Sønderby](https://a.co/g6GgoJK)
+    * Science fiction written by an autistic individual about an autistic protagonist
+    * Language warning in book, also polyamorous relationships, queer lit
+    * [Review](https://everybookadoorway.com/neurodiversity-and-alien-anthropology-failure-to-communicate-by-kaia-sonderby/?utm_source=www.google.com&utm_medium=organic&utm_campaign=Google&referrer-analytics=1)
+    > The First Law of Retrospection states that everything is obvious once it’s been properly explained to one, especially if the one in question isn’t half so clever as they like to think.
 
 
 # Tactful Responses to Interactions, Myths & Challenging Questions or Comments
@@ -866,13 +897,21 @@ The following process from [Dr. Stephen Shore](https://drstephenshore.com/) is d
 * [Uniquelyhuman.com](https://uniquelyhuman.com/2021/04/02/disclosure-self-advocacy-dr-stephen-shore/)
 * [Autism & Disclosure: Tips For Sharing Your Diagnosis, with Dr. Stephen Shore | EDB 219](https://differentbrains.org/autism-disclosure-tips-for-sharing-your-diagnosis-with-dr-stephen-shore-edb-219/)
 
+### Frozen
+
+Consider Elsa and her powers, and how she had to suppress them to be "normal".
+
 ### Harry Potter
 
 Using Harry Potter as an example and role model to disclose autism to your child age 9 explain how Harry Potter is special and awesome but is still different from his peers and doesn't often relate to them.
 
-### Frozen
+### Spiderman
 
-Consider Elsa and her powers, and how she had to suppress them to be "normal".
+Hides his powers, dislikes them even at first.
+
+### X-Men
+
+Fundamentally about individuals with different abilities and are outwardly viewed as "mutants". Some of these abilities may not be seen as positive traits.
 
 ## Myths and Misconceptions
 
@@ -938,6 +977,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [An Anthropologist on Mars, Oliver Sacks](https://www.amazon.ca/Anthropologist-Mars-Oliver-Sacks/dp/0394281519)
   * Profiles of interesting neurological patients, including Temple Grandin.
 * [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.amazon.ca/Myth-Normal-Illness-Healing-Culture/dp/0735278369)
+
 
 # Conferences, Courses, & Webinars
 
