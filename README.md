@@ -10,6 +10,7 @@ This document is a collection of links, resources, tools, and other sources disc
 * [Conferences, Courses, & Webinars](#conferences-courses--webinars)
 * [Controversies](#controversies)
 * [Diagnostic Criteria](#diagnostic-criteria)
+* [Education & Employment](#education--employment)
 * [Glossary](#glossary)
 * [IEP (Individualized Education Program)](#iep-individualized-education-program)
 * [Images](#images)
@@ -400,12 +401,18 @@ Individuals should research these people independently. A search engine query fo
 * **Bill Gates**
   * Microsoft, Windows, Malaria Research
 * **Charles Babbage**: Father of the modern computer. [Genius, Creativity, and Savantism, pmg.eu](http://professormichaelfitzgerald.eu/genius-creativity-and-savantism/)
+* **Charles Darwin**
+  * Theory of Evolution, Natural Selection
+  * [Top 5 Scientific Breakthroughs That Could Be Credited to Autism](https://www.appliedbehavioranalysisedu.org/top-5-scientific-breakthroughs-that-could-be-credited-to-autism/)
 * **Henry Cavendish (1731–1810)**
   * Scientist, Father of modern physics, inventor, discovered hydrogen, early Electricity pioneer
   * [Henry Cavendish and Asperger’s syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0191886909000294)
   * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
   > Cavendish was a great Man with extraordinary singularities...  
   > [Humphry Davy](https://www.goodreads.com/quotes/952997-author-cavendish-3980665-was-a-great-man-with-extraordinary-singularities-his-voice-was)
+* **Hugh Ross**
+  * Astrophysicist
+  * [YouTube: Astrophysicist on the Autism Spectrum](https://www.youtube.com/watch?v=QxGy9OsF-fg)
 * **Irène Joliot-Curie** Nuclear research
   * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
   * [Wikipedia](https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie)
@@ -663,6 +670,7 @@ Individuals should research these people independently. A search engine query fo
 * [Neurodiversity as a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 * [Neurodiversity Hiring Initiatives](https://askearn.org/page/neurodiversity-hiring-initiatives-and-partnerships)
 * [Why SAP Wants to hire nearly 700 Adults with Autism](https://www.inc.com/jeff-chu/sap-autism-india.html)
+* [NASA's Neurodiversity Network](https://science.nasa.gov/sciact-team/nasa-neurodiversity-network/)
 
 #### Academia
 
