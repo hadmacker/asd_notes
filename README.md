@@ -100,6 +100,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
 * **Hypermnesia**: Advanced degree of retentiveness and recall of memory with high clarity of detail. [Hypermnesia, ABA](https://dictionary.apa.org/hypermnesia)
 * **Hypernumeracy**: Hypernumeracy is known as 'hyperlexia but with numbers instead of letters' and is an advanced or self-taught ability to understand math and numbers in young children. It presents with an intense fascination with numbers, much like hyperlexia does with letters. [literallyausome.com.au](https://literallyausome.com.au/autism/hyperlexia-and-hypernumeracy/)
+* **Hypotonia**: A medical condition to describe decreased muscle tone and muscle weakness [childrenshospital.org](https://www.childrenshospital.org/conditions/muscle-weakness-hypotonia)
 * **ICD**: See International Classification of Diseases
 * **Infantalize**: To treat as a child or in a way which denies their maturity in age or experience.
 * **International Classification of Diseases** [WHO.int](https://icd.who.int/en)
@@ -247,6 +248,21 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * Eating:
   * Take emotion out of eating. No pleading, no cajoling, no joking, no commentary. Make food available without comment. Without restriction.
   * "Casual eating". It's there if you want it.
+* Crisis Storybooks
+  * Described in [Susan Senator's book "Making Peace with Autism"](https://www.amazon.ca/Making-Peace-Autism-Discovery-Unexpected/dp/1590303822).
+  * Prior to an event, draw a story for an upcoming event, itemizing it at a level of detail that the child requires, to set the expectations for the event, and for the child's behaviour during an event, to tell the story that the child will perform.
+    * "Child followed the teacher on stage for the assembly."
+    * "Child sat patiently beside the teacher during the assembly."
+    * "After the assembly, the child followed the teacher off the stage and back to their classroom."
+  * Pencil crayons and paper, or whatever drawing tools you'd prefer to use.
+    * Scholor's Choice has these amazing [9x12 whiteboard tablets](https://www.scholarschoice.ca/colorations-single-9-x-12-whiteboard.html) that might be useful for drawing short crisis storybooks.
+* [hand2mind See My Feelings Single Mirror](https://www.target.com/p/hand2mind-see-my-feelings-single-mirror/-/A-86391717)
+* Day calendar clock
+  * Displays Week day, day of month, month, year
+  * Examples: [Amazon.ca](https://www.amazon.ca/Clock%E4%B8%A8Dementia-Medicine-Reminder%E4%B8%A8Digital-Clock%E4%B8%A8Large-Alzheimers/dp/B09WMSTNL1/) [Amazon.ca](https://www.amazon.ca/SSYA-Newest-Version-Clock-Non-Abbreviated/dp/B07C2LL3XF/)
+* Visual two-color timer
+  [Two-color timer](https://www.scholarschoice.ca/the-original-time-timer-8in.html)
+
 
 
 ## Quotes & Inspiration
@@ -505,6 +521,8 @@ Individuals should research these people independently. A search engine query fo
   > “Parents of children with disabilities face many challenges, but few as great as ensuring their children get a good education.”  
   > CBC, The Current, April 29, 2014  
 * [Reddit: IEP discussion thread](https://www.reddit.com/r/Autism_Parenting/comments/13s9srx/comment/jlq53ag/?context=3&share_id=4aMFqy0KD1YErYGK8imUq&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+* Remember the two P's: [Be Positive and Persistent](http://firstsigns.org/treatment/schools.htm)
+
 
 # Organizations
 
@@ -606,6 +624,8 @@ Individuals should research these people independently. A search engine query fo
 
 ### General
 
+* [Autistic drivers could find their licenses in legal limbo (Australia)](https://www.abc.net.au/news/2023-11-20/autism-driving-licences-new-standards/103108100)
+* [‘A lot fell into place’: the adults who discovered they were autistic – after their child was diagnosed](https://www.theguardian.com/society/2021/dec/16/adults-discovered-autistic-child-diagnosed-autism)
 * [10 ways to make your church autism friendly](https://canadianmennonite.org/stories/10-ways-make-your-church-autism-friendly)
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
@@ -869,9 +889,13 @@ or...
 
 > Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting.
 
-or
+or...
 
 > I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment.
+
+or...
+
+> This is a neurological defense response to being overstimulated, it is not under their control any more than closing your eyes when sneezing is.
 
 
 ## Why should your kid get special treatment?
@@ -885,7 +909,12 @@ or
 > Autism is a neurological condition that affects individuals in different ways, and there is no one-size-fits-all presentation of autism.
 
 
-## How to disclose an Autism diagnosis to child
+## Isn’t everyone a little autistic?
+
+> Everyone gets short of breath sometimes, but not everyone has asthma.
+
+
+# How to disclose an Autism diagnosis to child
 
 ### Resources
 
@@ -982,12 +1011,18 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [I have been buried under years of dust, Valerie Gilpeer & Emily Grodin](https://www.amazon.ca/Have-Been-Buried-Under-Years/dp/0062984349)
   * A powerful book on advocating for education, IEP insights, and finding success using controversial techniques for communication.
   * :star: Highly recommended.
-* [An Anthropologist on Mars, Oliver Sacks](https://www.amazon.ca/Anthropologist-Mars-Oliver-Sacks/dp/0394281519)
+* [An Anthropologist on Mars, Oliver Sacks](https://www.amazon.ca/Anthropoogist-Mars-Oliver-Sacks/dp/0394281519)
   * Profiles of interesting neurological patients, including Temple Grandin.
 * [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.amazon.ca/Myth-Normal-Illness-Healing-Culture/dp/0735278369)
+  * Well-researched author. 
+  * But he's very long winded. Rambles. Can't seem to get to a point. Book has great insights but difficult to apply.
+* [Making Peace with Autism: One Family's Story of Struggle, Discovery, and Unexpected Gifts, Susan Senator](https://www.amazon.ca/Making-Peace-Autism-Discovery-Unexpected/dp/1590303822)
+  * Very good book. Practical.
+  * Introduces the idea of crisis storybooks.
+  * This is an older resource and many referenced online sources are no longer available. Buy this book used.
 
-
-# Conferences, Courses, & Webinars
+# Conferences, Courses, Webinars, and Community
 
 * Empowered Families Conference [Event Link](https://inspirecommunityoutreach.ca/event/inspires-empowered-families-conference-2023/) Inspire Community Outreach [Link](https://inspirecommunityoutreach.ca/), Feb 25 2023
 * [Inspire Community Outreach Events Calendar](https://inspirecommunityoutreach.ca/events/)
+* [r/Telescopes: Autistic son has become obsessed with astronomy](https://www.reddit.com/r/telescopes/comments/64jmnu/autistic_son_has_become_obsessed_with_astronomy)
