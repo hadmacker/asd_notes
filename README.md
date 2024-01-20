@@ -795,6 +795,7 @@ Individuals should research these people independently. A search engine query fo
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
   * [Vaccines and Autism: A Measured Response](https://www.youtube.com/watch?v=8BIcAZxFfrc)
+  * [Non-verbal girl with Autism speaks through her computer 20/20 ABC News](https://youtu.be/xMBzJleeOno)
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
 * Essays, Poetry, & Short Stories
   * [Poem: The Special Mother by Erma Bombeck](http://www.downssideup.com/2012/07/erma-bombeck-special-mothers.html) ([Alt1](https://www.the-special-needs-child.com/The-Special-Mother.html), [Alt2](https://differentbrains.org/different-brains-salutes-the-special-mother-by-erma-bombeck/), [Cached](Articles/Downs%20Side%20Up_%20Erma%20Bombeck_%20The%20Special%20Mother.pdf))
