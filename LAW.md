@@ -2,7 +2,10 @@
 
 # Law
 
+* :star: [Manitoba: For Parents of a Child with a Disability](https://www.gov.mb.ca/fs/imd/childwdisab.html)
+* :star: [Manitoba Human Rights Commission](https://manitobahumanrights.ca/)
 * [Australian Terrorism Prediction tool considered autism a sign of criminality despite lack of evidence, theguardian.com](https://www.theguardian.com/australia-news/2023/may/12/australian-terrorism-prediction-tool-considered-autism-a-sign-of-criminality-despite-lack-of-evidence)
+* [Autistic drivers could find their licenses in legal limbo (Australia)](https://www.abc.net.au/news/2023-11-20/autism-driving-licences-new-standards/103108100)
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
   > Under Title II of the ADA, States are required to place persons with mental disabilities in community settings rather than in institutions when the State's treatment professionals have determined that: (1) community placement is appropriate, (2) the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and (3) the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.
 * [Commonly Asked Questions about Child Care Centers and the Americans with Disabilities Act](https://www.ada.gov/resources/child-care-centers/)
