@@ -1,3 +1,5 @@
+[This document](README.md)
+
 # Autism Spectrum Disorder Notes
 
 This document is a collection of links, resources, tools, and other sources discovered during personal investigation.
