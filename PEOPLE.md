@@ -17,8 +17,6 @@
   * [Wikipedia](https://en.wikipedia.org/wiki/Daryl_Hannah)
 * [Dawn Prince-Hughes, wikipedia](https://en.wikipedia.org/wiki/Dawn_Prince-Hughes)
   * Anthropologist, primatologist, Ethologist
-* [Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)
-  * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
 * Gary McKinnon: Hacker
   * [Asperger's syndrome hacker 'should not be extradited'](https://www.theguardian.com/technology/2009/jul/14/gary-mckinnon-aspergers-hacking)
   * [Wikipedia](https://en.wikipedia.org/wiki/Gary_McKinnon)
@@ -61,6 +59,8 @@ Individuals should research these people independently. A search engine query fo
 * **Charles Darwin**
   * Theory of Evolution, Natural Selection
   * [Top 5 Scientific Breakthroughs That Could Be Credited to Autism](https://www.appliedbehavioranalysisedu.org/top-5-scientific-breakthroughs-that-could-be-credited-to-autism/)
+* **[Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)**
+  * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
 * **Henry Cavendish (1731–1810)**
   * Scientist, Father of modern physics, inventor, discovered hydrogen, early Electricity pioneer
   * [Henry Cavendish and Asperger’s syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0191886909000294)
