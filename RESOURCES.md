@@ -93,3 +93,5 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * [May I be Excused, My Brain is Full: Olivia's Asperger's Story](https://a.co/d/7bNbD37)
   * [Chester and Gus](https://www.amazon.ca/Chester-Gus-Cammie-McGovern/dp/0062330691)
   * [Rules](https://www.amazon.ca/Rules-Cynthia-Lord/dp/0439443830/)
+
+[Back to main](README.md)

@@ -46,3 +46,5 @@
   * [Shooting of Linden Cameron, Wikipedia](https://en.wikipedia.org/wiki/Shooting_of_Linden_Cameron)
 * [Shooting of Charles Kinsey, mental health therapist, as he was retrieving his autistic patient](https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey)
 * [Woman with Asperger's shot, killed by police in Arizona](https://www.cnn.com/2016/02/05/us/aspergers-woman-killed/index.html)
+
+[Back to main](README.md)

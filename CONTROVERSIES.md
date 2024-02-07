@@ -28,3 +28,5 @@
 * Facilitated Communication
   * [Anna Stubblefield found guilty of first degree sexual assault against an individual with disabilities when she initiated sexual contact using only facilitated communication as a form of consent.](https://www.facilitatedcommunication.org/facilitator-crimes#:~:text=Former%20Rutgers%20University%20professor%2C%20Anna,a%20facilitator%20at%20Syracuse%20University.)
   * [Mysterious disappearances in the world of FC: What does it take to sustain the illusion?](https://www.facilitatedcommunication.org/blog/mysterious-disappearances-in-the-world-of-fc-what-does-it-take-to-sustain-the-illusion)
+
+[Back to main](README.md)

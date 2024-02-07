@@ -133,3 +133,4 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Trichotillomania**: An irresistable urge to pull one's hair. [nhs.uk](https://www.nhs.uk/mental-health/conditions/trichotillomania)
 * **Vestibular**: relating to dizziness, vertigo. [Vestibular System and Proprioception: The Two Unknown Senses, propriorochsner.org](https://blog.ochsner.org/articles/vestibular-system-and-proprioception-the-two-unknown-senses)
 
+[Back to main](README.md)

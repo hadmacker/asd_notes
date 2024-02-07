@@ -102,3 +102,5 @@
 * [The Brains of High Functioning Autistic individuals do not synchronize with those of others](https://www.sciencedirect.com/science/article/pii/S2213158213001411)
 * [Brain imaging research in autism spectrum disorders: In search of neuropathology and health across the lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465432/)
 * [What causes after school meltdowns and how parents can help](https://www.cbc.ca/news/canada/saskatoon/after-school-meltdowns-what-causes-them-and-how-parents-can-help-1.5741773)
+
+[Back to main](README.md)

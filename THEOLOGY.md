@@ -8,3 +8,5 @@
 # Church Community
 
 * [10 ways to make your church autism friendly](https://canadianmennonite.org/stories/10-ways-make-your-church-autism-friendly)
+
+[Back to main](README.md)

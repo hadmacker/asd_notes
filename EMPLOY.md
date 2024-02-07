@@ -13,7 +13,9 @@
 * [Why SAP Wants to hire nearly 700 Adults with Autism](https://www.inc.com/jeff-chu/sap-autism-india.html)
 * [NASA's Neurodiversity Network](https://science.nasa.gov/sciact-team/nasa-neurodiversity-network/)
 
-#### Academia
+# Academia
 
 * [Bellevue College: Autism Spectrum Navigators](https://www.bellevuecollege.edu/autismspectrumnavigators/)
 * [Drexel: Employment Resources](https://drexel.edu/autismoutcomes/topics/employment/)
+
+[Back to main](README.md)

@@ -16,3 +16,5 @@
 ## ICD-11 6A02
 
 * [WHO.int, ICD-11 6A02 Autism Diagnostic Criteria](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f437815624)
+
+[Back to main](README.md)

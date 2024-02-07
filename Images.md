@@ -36,3 +36,5 @@
 ![Autism is a gift -Neurotypicals](./Images/autism%20is%20a%20gift.jpg)
 
 ![Bullying](./Images/bullying.jpg)
+
+[Back to main](README.md)

@@ -101,3 +101,5 @@
 > Care about what other people think and you will always be their prisoner. -Lao Tzu
 
 > Optimist: Someone who figures that taking a step backward after taking a step forward is not a disaster, it's a cha-cha. -Robert Brault
+
+[Back to main](README.md)

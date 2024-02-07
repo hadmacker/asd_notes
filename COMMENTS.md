@@ -143,3 +143,5 @@ Research-backed interventions and therapies exist that may help autistic individ
 ASD is more than 4 times more common among boys than among girls.
 
 [cdc.gov](https://www.cdc.gov/ncbddd/autism/data.html)
+
+[Back to main](README.md)

@@ -36,3 +36,5 @@
 * [Friendship Circle (USA)](https://www.friendshipcircle.org/resources)
 * [Literally Ausome (Australia)](https://literallyausome.com.au/)
 * [Pathological Demand Avoidance (PDA) Society, UK](https://www.pdasociety.org.uk/)
+
+[Back to main](README.md)
