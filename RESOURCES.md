@@ -13,7 +13,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [Uniquely Human, Barry M. Prizant](https://www.goodreads.com/en/book/show/23492643)
   * :star: Highly recommended.
 * [Understanding Autism for Dummies, Stephen Shore](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
-  * A non-intimidating book spanning grief, resources, interventions, medicine, and more.
+  * A non-intimidating book spanning grief, resources, _recognized intervention types_, _medicine_, and more.
 * [NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
   * :star: Highly recommended.
   * A well-researched chronological history of Autism's key researchers and influencers, and changes in the label over time.
@@ -22,7 +22,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * Written by a parent with an autistic child from the perspective of her role as an educator, with practical insights focused around education and accomodations at school.
   * :star: Highly recommended.
 * [I have been buried under years of dust, Valerie Gilpeer & Emily Grodin](https://www.amazon.ca/Have-Been-Buried-Under-Years/dp/0062984349)
-  * A powerful book on advocating for education, IEP insights, and finding success using controversial techniques for communication.
+  * A powerful book on advocating for education, IEP insights, and finding success using controversial techniques (Facilitated Communication) for communication breakthroughs.
   * :star: Highly recommended.
 * [An Anthropologist on Mars, Oliver Sacks](https://www.amazon.ca/Anthropoogist-Mars-Oliver-Sacks/dp/0394281519)
   * Profiles of interesting neurological patients, including Temple Grandin.
@@ -30,7 +30,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * Well-researched author. 
   * But he's very long winded. Rambles. Can't seem to get to a point. Book has great insights but difficult to apply.
 * [Making Peace with Autism: One Family's Story of Struggle, Discovery, and Unexpected Gifts, Susan Senator](https://www.amazon.ca/Making-Peace-Autism-Discovery-Unexpected/dp/1590303822)
-  * Very good book. Practical.
+  * :star: Very good book. Practical.
   * Introduces the idea of crisis storybooks.
   * This is an older resource and many referenced online sources are no longer available. Buy this book used.
 * [What I mean when I say I'm Autistic. Unpuzzling a life on the Autism Spectrum, Annie Kotowicz](https://www.amazon.ca/What-Mean-When-Say-Autistic/dp/B0BJYSTPW2)
