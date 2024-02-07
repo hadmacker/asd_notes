@@ -34,6 +34,7 @@
 > School: We’re not well equipped to meet their needs.  
 > Response: You don’t have to be well equipped. Let’s start with willing and work from there.  
 
+* [GOM: Procotol for Early Childhood Transition to School for Children with Additional Support Needs](https://www.gov.mb.ca/healthychild/publications/protocol_early_childhood_transition.pdf)
 * **Presume competence.** Presume that your child is aware and wants to understand. Consider that this might look different than what you expect. (Lei Wiley-Mydske)
   * The above is confirmed by the presense of books including:
     * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
@@ -47,7 +48,7 @@
   * **Parents**: Know the full child and their strengths, weaknesses, and patterns of behaviour outside of school time.
   * **Educators**: Execute the IEP agreed upon.
   * **Professionals**: Bring expertise, insight, tools, strategies and pragmatics to the discussion.
-* Questions to ask:
+* **Questions to ask:**
   * What therapy services are provided? OT (Occupational Therapy), PT (Physical Therapy), ST (Speach Therapy), others?
   * Does the school system have an autism consultant or coordinator? How can parents access this resources?
   * What is the class size and ratio of students to teachers and assistants?
@@ -56,7 +57,7 @@
   * Do they have any special education licensure?
   * How do the staff handle behaviour issues?
   * How do we succeed as a team? How can I help you to be successful? How can I volunteer?
-* Tools:
+* **Tools:**
   * Parents can include a log book in the child's backpack that follows the child to/from school for teachers to document any teaching that the child struggled with during the day and with further instruction that the parents can support from home, or for teachers or support staff to write little notes about the skills worked on and that the family may be able to reinforce from home.
   * Create a personalized story or picture schedule for the child's school day. Contact the teacher or school to access their daily schedule. A picture of the teacher or classroom may also help to set the story narrative.
   * If the child is a bus rider, find the bus number. Request a "mock bus ride" if the school division offers one.

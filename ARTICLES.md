@@ -41,7 +41,6 @@
 
 ### General
 
-* [Autistic drivers could find their licenses in legal limbo (Australia)](https://www.abc.net.au/news/2023-11-20/autism-driving-licences-new-standards/103108100)
 * [‘A lot fell into place’: the adults who discovered they were autistic – after their child was diagnosed](https://www.theguardian.com/society/2021/dec/16/adults-discovered-autistic-child-diagnosed-autism)
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
