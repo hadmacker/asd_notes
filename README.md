@@ -10,6 +10,7 @@ This document is a collection of links, resources, tools, and other sources disc
 * [Articles & Media](ARTICLES.md)
 * [Controversies](CONTROVERSIES.md)
 * [Diagnostic Criteria](DIAG.md)
+* [Disclosing a diagnosis to a child](DISCLOSING.md)
 * [Education & Employment](EMPLOY.md)
 * [Glossary](GLOSSARY.md)
 * [Images](Images.md)
@@ -18,8 +19,10 @@ This document is a collection of links, resources, tools, and other sources disc
 * [Movies, Multimedia, & Literature Resources](RESOURCES.md)
 * [Organizations](ORGS.md)
 * [Quotes](QUOTES.md)
+* [Science & Neurology](SCIENCE.md)
 * [Statistics & Facts](STATS.md)
 * [Tactful responses to interactions, myths, and challenging questions or comments](COMMENTS.md)
+* [Theology](THEOLOGY.md)
 * [Toolkit](TOOLKIT.md)
 
 
