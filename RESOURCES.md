@@ -6,6 +6,8 @@ While this is not a comprehensive list of all inputs to this document, many of t
 
 * [Navigating Autism, Temple Grandin](https://www.amazon.ca/Navigating-Autism-Mindsets-Helping-Spectrum/dp/0393714845)
 * [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735)
+  * The author presents MRI imaging of her brain with comparison of a typical brain. She uses this to support her claim of "thinking in pictures".
+  * :star: Highly recommended. Children can be curious about the brain, and the imaging presented is very insightful to highlight how Autism doesn't present with a visible difference.
 * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
 * [We're Not Broken, Eric Garcia](https://www.amazon.ca/Were-Not-Broken-Changing-Conversation/dp/035869714X)
   * Autism self advocacy insights from the perspective of an experienced journalist's experience with autism. 

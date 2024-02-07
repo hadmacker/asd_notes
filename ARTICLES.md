@@ -94,13 +94,6 @@
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
 * [Why the focus of autism research is shifting away from searching for a 'cure', nbcnews.com](https://www.nbcnews.com/health/kids-health/cure-autism-not-so-fast-n1055921)
-* [The connectivity theory of autism, explained](https://www.spectrumnews.org/news/connectivity-theory-autism-explained/)
-  * _Functional connectivity_ between regions of the brain being atypical.
-* [Characteristics of Brains in Autism Spectrum Disorder: Structure, Function and Connectivity across the Lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688328/)
-* [fMRI imaging of the brain of those with autism spectrum disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3513685/)
-* [Differences in Cortical Structure and Functional MRI Connectivity in High Functioning Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048242/)
-* [The Brains of High Functioning Autistic individuals do not synchronize with those of others](https://www.sciencedirect.com/science/article/pii/S2213158213001411)
-* [Brain imaging research in autism spectrum disorders: In search of neuropathology and health across the lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465432/)
 * [What causes after school meltdowns and how parents can help](https://www.cbc.ca/news/canada/saskatoon/after-school-meltdowns-what-causes-them-and-how-parents-can-help-1.5741773)
 
 [Back to main](README.md)

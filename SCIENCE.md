@@ -1,6 +1,6 @@
 [Back to main](README.md)
 
-### Autism's link to the Scientific Mind
+# Autism's link to the Scientific Mind
 
 * [YouTube: Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU)
   * Is Autism linked to minds wired for science?
@@ -20,5 +20,20 @@
 * [Childhood autism spikes in geek heartland](https://www.newscientist.com/article/dn20589-childhood-autism-spikes-in-geek-heartlands/)
 * [Are Geeky Couples More Likely to Have Kids with Autism?](https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/)
 * [Autism and the Technical Mind: Live Chat with Simon Baron-Cohen, Transcript](https://www.scientificamerican.com/article/baron-cohen-autism-and-technical-mind-live-chat/)
+
+# Neurology
+
+In the book, [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735), the author goes on to show MRI imaging of her brain, with comparison of a typical brain, and is used to support her claim of "thinking in pictures".
+
+* [The connectivity theory of autism, explained](https://www.spectrumnews.org/news/connectivity-theory-autism-explained/)
+  * _Functional connectivity_ between regions of the brain being atypical.
+* [Characteristics of Brains in Autism Spectrum Disorder: Structure, Function and Connectivity across the Lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688328/)
+* [fMRI imaging of the brain of those with autism spectrum disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3513685/)
+* [Differences in Cortical Structure and Functional MRI Connectivity in High Functioning Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048242/)
+* [The Brains of High Functioning Autistic individuals do not synchronize with those of others](https://www.sciencedirect.com/science/article/pii/S2213158213001411)
+* [Brain imaging research in autism spectrum disorders: In search of neuropathology and health across the lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465432/)
+* [MRI's link impaired brain activity to inability to regulate emotions in autism](https://www.sciencedaily.com/releases/2015/01/150127100018.htm)
+* [Big Brains and White Matter: New Clues about Autism Subtypes](https://www.sciencedaily.com/releases/2020/12/201217135228.htm)
+
 
 [Back to main](README.md)
