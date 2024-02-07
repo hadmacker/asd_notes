@@ -36,7 +36,10 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * Introduces the idea of crisis storybooks.
   * This is an older resource and many referenced online sources are no longer available. Buy this book used.
 * [What I mean when I say I'm Autistic. Unpuzzling a life on the Autism Spectrum, Annie Kotowicz](https://www.amazon.ca/What-Mean-When-Say-Autistic/dp/B0BJYSTPW2)
-
+* [Amazon: Autism and the Church: Bible, Theology, and Community, Grant Macaskill](https://www.amazon.ca/Autism-Church-Bible-Theology-Community/dp/1481311255)
+  * :star: Highly recommended.
+  * This book provides a detailed and considerate approach to interpreting the Bible in relation to disability.
+  * [Review of Autism and the Church: Bible, Theology, and Community by Grant Macaskill | Disability Studies Quarterly](https://dsq-sds.org/index.php/dsq/article/view/7887/5876)
 
 # Conferences, Courses, Webinars, and Community
 
