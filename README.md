@@ -13,6 +13,7 @@ This document is a collection of links, resources, tools, and other sources disc
 * [Disclosing a diagnosis to a child](DISCLOSING.md)
 * [Education & Employment](EMPLOY.md)
 * [Glossary](GLOSSARY.md)
+* [Identity and Autism](IDENTITY.md)
 * [Images](Images.md)
 * [Individuals Within the Spectrum](PEOPLE.md)
 * [Law](LAW.md)

@@ -97,3 +97,5 @@ Individuals should research these people independently. A search engine query fo
 
 * [The Learning Disabled Hero](https://rickriordan.com/2005/09/the-learning-disabled-hero/)
   * Rick Riordan, author of Percy Jackson books, made the protagonist and many "demigods" to have ADHD in his writing.
+
+[Back to main](README.md)
