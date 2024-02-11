@@ -15,7 +15,7 @@ ASD is considered a spectrum because it manifests in varying degrees and with un
 
 https://www.youtube.com/watch?v=Ezv85LMFx2E  
 5 minute 30 second YouTube Video explaining Autism to children  
-![Amazing Things Happen Thumbnail](images/thumbamazingthings.png)
+![Amazing Things Happen Thumbnail](Images/thumbamazingthings.png)
 
 
 # The History of Autism
