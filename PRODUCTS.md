@@ -2,7 +2,7 @@
 
 # Apps, Products, Stores
 
-:warn: Disclaimer: The following list of products has not undergone review for provenance or authenticity verification. It is provided solely for informational purposes and does not constitute an endorsement or guarantee of the origin or quality of the listed items. Consumers are advised to conduct their own research and due diligence before making any purchasing decisions based on the information presented herein.
+:warning: Disclaimer: The following list of products has not undergone review for provenance or authenticity verification. It is provided solely for informational purposes and does not constitute an endorsement or guarantee of the origin or quality of the listed items. Consumers are advised to conduct their own research and due diligence before making any purchasing decisions based on the information presented herein.
 
 ## Apps
 

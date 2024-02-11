@@ -3,6 +3,7 @@
 # Autism and Identity
 
 * [ASAN: Identity-First Language](https://autisticadvocacy.org/about-asan/identity-first-language/)
+* It is important to recognize that individuals diagnosed with autism spectrum disorder are **not broken, damaged, faulty, sick, diseased, defective, less, or cursed.**
 
 > If autism is seen as something that must be hated, autistic young people will obediently grow up hating themselves.  
 > Autisticnotweird.com, ["Hating autism" and the damage it does](https://autisticnotweird.com/hating-autism/)
