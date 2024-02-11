@@ -6,6 +6,7 @@ This document is a collection of links, resources, tools, and other sources disc
 
 # Table of Contents
 
+* [What is Autism?](WHATISAUTISM.md)
 * [Accomodations & IEP's](ACCOMODATIONS.md)
 * [Articles & Media](ARTICLES.md)
 * [Controversies](CONTROVERSIES.md)

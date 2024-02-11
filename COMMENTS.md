@@ -32,11 +32,9 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 
 ## Showing signs of impending meltdown or event
 
-> Let's pause this. He/she needs my immediate attention.
-
-or...
-
-> Excuse me, he/she is attempting to communicate and needs my full attention.
+* Thanks for your convern, we have it covered!
+* Let's pause this. He/she needs my immediate attention.
+* Excuse me, he/she is attempting to communicate and needs my full attention.
 
 
 ## How was he/she diagnosed?
@@ -58,11 +56,7 @@ _Everyone's journey is unique. This is the author's journey to ASD awareness._
 
 ## Will he/she grow out of it?
 
-> Autism is a lifelong neurodevelopmental condition, which means that it does not go away or disappear over time. However, with the right support and interventions, individuals with autism can learn to navigate the world more effectively and develop skills and abilities that will help them to thrive.
-
-or
-
-> One does't outgrow autism. It grows with them. With the right supports, individuals with autism may be able to develop life skills to help them live a fulfilling life with independence.
+> One does't outgrow autism. It grows with them.
 
 
 ## What special talent does he/she have?
@@ -71,26 +65,17 @@ or
 > From:[Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 
 
-## Why can't you control your child?
+## Why can't you control your child? (Meltdowns)
 
-> They're all out of calm, so I need to give them calm.
+Quick Responses:
+* Thanks for your concern – we have it covered!
+* They’re focused on developing other skills right now.
+* We’re working with someone to help them grow in that area.
+* They're all out of calm, so I’m helping give them calm.
+* They're not giving me a hard time, they're having a hard time.
 
-or...
-
-> They're not giving me a hard time, they're having a hard time.
-
-or...
-
-> Their meltdown is a response to unique sensory and emotional processing, and is not a manipulation or faulty parenting.
-
-or...
-
-> I understand that my child's behavior may appear disruptive or challenging to manage, but I want to assure you that I am doing my best to support them in this moment.
-
-or...
-
-> This is a neurological defense response to being overstimulated, it is not under their control any more than closing your eyes when sneezing is.
-
+This question often comes up in response to meltdowns in public settings. Meltdowns should not be misinterpreted as a tantrum, although they may manifest with similar behaviours. Meltdowns are a neurological defense response to being overstimulated, it is not under their control any more than closing your eyes when sneezing is. This is in comparison to a Tantrum, which is deliberate, attention-seeking behaviour driven by a frustration response or desire to manipulate a situation. 
+A meltdown is a response to unique sensory and emotional processing and is not a manipulation or faulty parenting.
 
 ## Why should your kid get special treatment?
 
@@ -105,8 +90,23 @@ or...
 
 ## Isn’t everyone a little autistic?
 
-> Everyone gets short of breath sometimes, but not everyone has asthma.
-> Just because your blood sugar is impacted by what you eat, this doesn't mean everyone's a little diabetic.
+* Everyone gets short of breath sometimes, but not everyone has asthma.
+* Just because your blood sugar is impacted by what you eat, this doesn't mean everyone's a little diabetic.
+
+## I’m so sorry for you.
+
+There is no need to feel sorry; autism is a physical difference in the brain with its own strengths and challenges. We embrace their unique perspective and abilities. Understanding and support mean more than sympathy.
+
+> You didn't lose a child to autism. You lost a child because the child you waited for never came into existence. That isn't the fault of the autistic child who does exist, and it shouldn't be our burden. We need and deserve families who can see us and value us for ourselves, not families whose vision of us is obscured by the ghosts of children who never lived. Grieve if you must, for your own lost dreams. But don't mourn for us. We are alive. We are real.  
+> Jim Sinclair, "Don't Mourn for Us", Our Voice, Vol. 1, No. 3, 1993 Wiki: Jim Sinclair (Activist)  
+
+## Is there a cure? Are you looking for a cure? Can I pray for a cure?
+
+Autism is a physical difference in how the brain is wired. It is not a disease to be cured. Efforts should focus on acceptance, understanding, and supporting diverse ways of experiencing the world rather than seeking a cure.
+Praying for a cure is unnecessary and is a sensitive topic. Please check out this amazing book prior to continuing this path of thought.
+
+[Autism and The Church: Bible, Theology, and Community, Author: Grant Macaskill](https://www.thegospelcoalition.org/themelios/review/autism-and-the-church/)
+
 
 # Myths and Misconceptions
 
@@ -119,7 +119,9 @@ This myth is based on a theory that was debunked a long time ago. Sadly, it wron
 
 ### Myth: People with autism lack empathy.
 
-GPT: Actually, people with autism can experience and express empathy in their own unique ways. They may struggle with understanding social cues and nonverbal communication, but this does not mean they are incapable of empathy.
+##### [This section has been augmented with the use of AI](AI.md)
+
+Actually, people with autism can experience and express empathy in their own unique ways. They may struggle with understanding social cues and nonverbal communication, but this does not mean they are incapable of empathy.
 
 
 ### Myth: Autism is a mental illness.
