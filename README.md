@@ -20,6 +20,7 @@ This document is a collection of links, resources, tools, and other sources disc
 * [Law](LAW.md)
 * [Movies, Multimedia, & Literature Resources](RESOURCES.md)
 * [Organizations](ORGS.md)
+* [Products](PRODUCTS.md)
 * [Quotes](QUOTES.md)
 * [Science & Neurology](SCIENCE.md)
 * [Statistics & Facts](STATS.md)
