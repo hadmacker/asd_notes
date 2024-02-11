@@ -103,9 +103,12 @@ There is no need to feel sorry; autism is a physical difference in the brain wit
 ## Is there a cure? Are you looking for a cure? Can I pray for a cure?
 
 Autism is a physical difference in how the brain is wired. It is not a disease to be cured. Efforts should focus on acceptance, understanding, and supporting diverse ways of experiencing the world rather than seeking a cure.
+
 Praying for a cure is unnecessary and is a sensitive topic. Please check out this amazing book prior to continuing this path of thought.
 
 [Autism and The Church: Bible, Theology, and Community, Author: Grant Macaskill](https://www.thegospelcoalition.org/themelios/review/autism-and-the-church/)
+
+Individuals with autism are not broken, damaged, faulty, sick, diseased, defective, or cursed. _They have value, unquestionably, without compromise, without change_. We must be mindful to _not assume_ that they are valued only if they are _cured_ or _conform_ to a normative set of typical behaviours.
 
 
 # Myths and Misconceptions
@@ -130,14 +133,12 @@ Actually, people with autism can experience and express empathy in their own uni
 > [nhs.uk](https://www.nhs.uk/conditions/autism/autism-and-everyday-life/treatments-that-are-not-recommended-for-autism/)
 
 
-### Myth: Autism can be cured.
+### Myth: Autism can be cured. 
 
 > Autism is not an illness and there is no cure.  
 > [nhs.uk](https://www.nhs.uk/conditions/autism/autism-and-everyday-life/treatments-that-are-not-recommended-for-autism/)
 
-Research-backed interventions and therapies exist that may help autistic individuals to develop life skills and manage harmful behaviours.
-
-:warning: Some treatments and approaches may be harmful, fake, or unsupported by research. Further investigation should be performed prior to adopting any such treatment.
+Individuals with autism are not broken, damaged, faulty, sick, diseased, defective, or cursed. _They have value, unquestionably, without compromise, without change_. We must be mindful to _not assume_ that they are valued only if they are _cured_ or _conform_ to a normative set of typical behaviours.
 
 
 ### Myth: Autism only affects boys.
