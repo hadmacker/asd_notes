@@ -4,6 +4,10 @@
 
 * [ASAN: Identity-First Language](https://autisticadvocacy.org/about-asan/identity-first-language/)
 
+> If autism is seen as something that must be hated, autistic young people will obediently grow up hating themselves.  
+> Autisticnotweird.com, ["Hating autism" and the damage it does](https://autisticnotweird.com/hating-autism/)
+
+
 # Personal Notes
 
 :warning: While I try to maintain a neutral set of resources pertaining to Autism in these pages, I felt it was relevant to include elements of a recent conversation on autism and identity below.
