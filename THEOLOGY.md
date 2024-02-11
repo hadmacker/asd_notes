@@ -16,6 +16,7 @@
 Verse below should be considered in greater context not addressed here. For relevant Bible interpretation, I would encourage readers to investigate [Amazon: Autism and the Church: Bible, Theology, and Community, Grant Macaskill](https://www.amazon.ca/Autism-Church-Bible-Theology-Community/dp/1481311255)
 
 * [John 9](https://www.biblegateway.com/passage/?search=John%209&version=NIV) Jesus Heals a Man Born Blind
+  * [Autism and the Church: Bible, Theology, and Community, Grant Macaskill](https://www.amazon.ca/Autism-Church-Bible-Theology-Community/dp/1481311255) emphasizes how this miracle of healing was unique and should not be an expectation for those with disability.
 
 > For you created my inmost being;  
 > you knit me together in my mother’s womb.  
