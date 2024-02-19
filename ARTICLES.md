@@ -94,7 +94,6 @@
 * [Understanding highly sensitive children, Focusonthefamily, 2017](https://www.focusonthefamily.ca/content/understanding-highly-sensitive-children)
 * [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
 * [Why the focus of autism research is shifting away from searching for a 'cure', nbcnews.com](https://www.nbcnews.com/health/kids-health/cure-autism-not-so-fast-n1055921)
-* [What causes after school meltdowns and how parents can help](https://www.cbc.ca/news/canada/saskatoon/after-school-meltdowns-what-causes-them-and-how-parents-can-help-1.5741773)
 * [SPARK: Special interests in Autism](https://sparkforautism.org/discover_article/special-interests-in-autism/)
 
 [Back to main](README.md)

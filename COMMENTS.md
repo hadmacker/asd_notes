@@ -33,7 +33,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 
 ## Showing signs of impending meltdown or event
 
-* Thanks for your convern, we have it covered!
+* Thanks for your concern, we have it covered!
 * Let's pause this. He/she needs my immediate attention.
 * Excuse me, he/she is attempting to communicate and needs my full attention.
 
@@ -76,6 +76,7 @@ Quick Responses:
 * They're not giving me a hard time, they're having a hard time.
 
 This question often comes up in response to meltdowns in public settings. Meltdowns should not be misinterpreted as a tantrum, although they may manifest with similar behaviours. Meltdowns are a neurological defense response to being overstimulated, it is not under their control any more than closing your eyes when sneezing is. This is in comparison to a Tantrum, which is deliberate, attention-seeking behaviour driven by a frustration response or desire to manipulate a situation. 
+
 A meltdown is a response to unique sensory and emotional processing and is not a manipulation or faulty parenting.
 
 ## Why should your kid get special treatment?
