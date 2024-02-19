@@ -17,6 +17,8 @@
 * [Visual Analog Desktop Timer Countdown Clock](https://www.amazon.ca/Desktop-Countdown-Optional-Classroom-Meeting/dp/B07SKNH7Q6) ![Visual Analog Timer](Images/thumbtimer.png)
 * [12 x 12 Multipication pop it](https://www.amazon.ca/Multipication-Kingmall-Right-Angled-169bubbles-Multiplication/dp/B09K3TX235) ![12 x 12 multiplication pop it](Images/thumb1212popit.png)
 * [Nugget play couch](https://nuggetcomfort.com/products/the-nugget-koala)
+* [hand2mind See My Feelings Single Mirror](https://www.target.com/p/hand2mind-see-my-feelings-single-mirror/-/A-86391717)
+* [9x12 whiteboard tablets](https://www.scholarschoice.ca/colorations-single-9-x-12-whiteboard.html)
 
 ## Stores
 

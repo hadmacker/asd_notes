@@ -35,12 +35,17 @@
     * Change the number of taps. 
       * 1: small boost
       * 3: big boost
-* Meltdowns
+* :fire: **Meltdowns** :fire:
+  * Language skills fail during a meltdown. Stop talking.
+  * The last thing to happen is not often the reason for the meltdown.
+  * Your child isn't giving you a hard time, they are having a hard time.
+  * Your child's meltdown is never a choice.
   * Tips for meltdown recovery:
     * Take time to breathe
     * Drink some water
     * Find comfort object
     * Meet sensory needs
+    * Offer food or a snack
   * [Meltdowns: A guide for all audiences](https://www.autism.org.uk/advice-and-guidance/topics/behaviour/meltdowns/all-audiences)
 * Games: [Granny's Candies Board Game](https://www.superduperinc.com/grannys-candies.html)
 * Eating:
