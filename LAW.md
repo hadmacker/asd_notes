@@ -37,6 +37,10 @@
 * [Australia: New national Fitness to Drive standards are 'discriminatory' and 'humiliating' for autistic drivers, psychologists say](https://www.abc.net.au/news/2023-11-26/national-fitness-to-drive-standards-humiliating-autistic-drivers/103147928)
   > psychologists say people are now cancelling their autism assessment appointments because they fear the legal and financial consequences of not disclosing their condition
 * [Australians with autism diagnosis may have to retake driving tests](https://www.drive.com.au/news/australian-autism-diagnosis-retake-driving-test/)
+* Jillian McCabe
+  * [Independent: Mother sentenced to life for throwing autistic son off bridge](https://www.independent.co.uk/news/world/americas/mother-sentenced-to-life-for-throwing-autistic-son-off-bridge-a6893851.html)
+  * [NBC: Jillian McCabe Gets Life for Throwing Her Autistic Son Off Bridge](https://www.nbcnews.com/news/us-news/jillian-mccabe-gets-life-throwing-her-autistic-son-bridge-n524506)
+
 
 ## Police Shootings
 

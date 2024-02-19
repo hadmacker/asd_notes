@@ -9,6 +9,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 ## Briefly:
 
 * :star: "Let's pause this. He/she needs my immediate attention."
+* They need assistance processing their emotions right now.
 * "They're focused right now" or "They're overwhelmed".
   * Communicate the current interaction and avoid sharing a specific diagnosis.
 * We're working with someone to help him grow in that area.

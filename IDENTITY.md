@@ -4,6 +4,15 @@
 
 * [ASAN: Identity-First Language](https://autisticadvocacy.org/about-asan/identity-first-language/)
 * It is important to recognize that individuals diagnosed with autism spectrum disorder are **not broken, damaged, faulty, sick, diseased, defective, less, or cursed.**
+* [Equity: What Model Should We Use When We Talk About Autism?](https://mulpress.mcmaster.ca/cjae/article/view/4982/3978)
+  * Discusses identity in terms of a "social model of disability" compared to a "medical model of disability" and how this impacts identity vs. person first language.
+* [Autism Survey, Language choices](https://autisticnotweird.com/autismsurvey/#language)
+* [Identity-first vs. person-first language is an important distinction](https://healthjournalism.org/blog/2019/07/identity-first-vs-person-first-language-is-an-important-distinction/)
+* [Canadian Autism Spectrum Disorder Alliance (CASDA) Language Guide](https://autismalliance.ca/wp-content/uploads/2020/12/CASDA-Language-Guide.pdf)
+* [NIH: Editorial Perspective: The use of person-first language in scholarly writing may accentuate stigma](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545113/)
+* [The Failings of Person First Language](https://awnnetwork.org/failings-person-first-language/)
+* [Which terms should be used to describe autism? Perspectives from the UK autism community](https://journals.sagepub.com/doi/abs/10.1177/1362361315588200)
+* [JADD: “It Defines Who I Am” or “It’s Something I Have”: What Language Do [Autistic] Australian Adults [on the Autism Spectrum] Prefer?](https://link.springer.com/article/10.1007/s10803-020-04425-3)
 
 > If autism is seen as something that must be hated, autistic young people will obediently grow up hating themselves.  
 > Autisticnotweird.com, ["Hating autism" and the damage it does](https://autisticnotweird.com/hating-autism/)

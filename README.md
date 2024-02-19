@@ -2,7 +2,10 @@
 
 # Autism Spectrum Disorder Notes
 
-This document is a collection of links, resources, tools, and other sources discovered during personal investigation.
+Welcome here!
+
+This site is a collection of links, resources, tools, and other sources discovered during personal investigation into Autism Spectrum Disorder.
+
 
 # Table of Contents
 

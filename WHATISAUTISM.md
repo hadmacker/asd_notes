@@ -5,11 +5,12 @@
 ##### [This section has been augmented with the use of AI](AI.md)
 
 Autism Spectrum Disorder (ASD), also commonly referred to as Autism Spectrum Condition (ASC), is a neurodevelopmental condition characterized by a broad range of challenges related to social interaction, communication, and repetitive or restrictive behaviors. Individuals on the autism spectrum may display a diverse array of strengths, abilities, and differences in how they perceive and interact with the world. 
+
 ASD is considered a spectrum because it manifests in varying degrees and with unique characteristics for everyone. The condition typically emerges in early childhood, and its impact can range from mild to severe, influencing how individuals engage with others, communicate, and navigate their surroundings. It is essential to recognize and respect the diversity within the autism spectrum, as each person's experience is unique, requiring tailored approaches to support and understanding.
 
-> “Neurodevelopmental” means that Autism is a physical difference in the brain. It goes beyond simply “thinking differently” than others.
+> “Neurodevelopmental” means that Autism is a _physical difference_ in the brain. It goes beyond simply “thinking differently” than others.
 
->  In her book, “The Autistic Brain”, Dr. Temple Grandin goes deep into analysis of the differences in the autistic brain, including comparison of her own unique brain CT scans compared to a “typical” brain.
+>  In her book, “The Autistic Brain”, _Dr. Temple Grandin_ goes deep into analysis of the differences in the autistic brain, including comparison of her own unique brain CT scans compared to a “typical” brain.
 
 # Amazing Things Happen!
 
