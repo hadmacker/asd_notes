@@ -61,5 +61,8 @@
 * Visual two-color timer
   [Two-color timer](https://www.scholarschoice.ca/the-original-time-timer-8in.html)
 * Use routines, calendars, clocks, agendas, and itineraries to set expectations prior to activities and events.
+* [Numbrillig.ca](https://numbrillig.ca/)
+  * Hypernumeracy website, written by myself.
+  * [GitHub: Source code](https://github.com/hadmacker/numbrella) (Formerly code-name _numbrella_)
 
 [Back to main](README.md)

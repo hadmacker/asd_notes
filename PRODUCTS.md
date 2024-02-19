@@ -7,6 +7,9 @@
 ## Apps
 
 * [Routinefactory.com](https://routinefactory.com)
+* [Numbrillig.ca](https://numbrillig.ca/)
+  * Hypernumeracy website, written by myself.
+  * [GitHub: Source code](https://github.com/hadmacker/numbrella) (Formerly code-name _numbrella_)
 
 ## Products
 
