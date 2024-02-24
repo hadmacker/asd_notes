@@ -31,6 +31,8 @@
 
 ![Every plant has their own requirements to grow. So do people.](./Images/every%20plant%20has%20their%20own%20requirements%20to%20grow.jpg)
 
+![Autism is a journey I never planned but I sure do love my tour guide](./Images/autism%20is%20a%20journey.jpg)
+
 ## Memes
 
 ![Autism is a gift -Neurotypicals](./Images/autism%20is%20a%20gift.jpg)

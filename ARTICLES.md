@@ -39,6 +39,11 @@
 * **Relationship Development Intervention (RDI)**
   * [autismspeaks.org](https://www.autismspeaks.org/relationship-development-intervention-rdi-0)
 
+### Gender
+
+* [MERISMS, EUNUCHS, AND THE 8 GENDERS: A CHRISTIAN REFLECTION ON GENDER AND IDENTITY - PART 1](https://earthandaltarmag.com/posts/merisms-eunuchs-and-the-8-genders-a-christian-reflection-on-gender-and-identity)
+* [MERISMS, EUNUCHS, AND THE 8 GENDERS: A CHRISTIAN REFLECTION ON GENDER AND IDENTITY - PART 2](https://earthandaltarmag.com/posts/merisms-eunuchs-and-the-8-genders-a-christian-reflection-on-gender-and-identity-msnjf)
+
 ### General
 
 * [‘A lot fell into place’: the adults who discovered they were autistic – after their child was diagnosed](https://www.theguardian.com/society/2021/dec/16/adults-discovered-autistic-child-diagnosed-autism)
