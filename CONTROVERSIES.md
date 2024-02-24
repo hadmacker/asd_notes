@@ -12,7 +12,15 @@
   * Multiple controversies from inaccurate statistics, views of Autism as a disease to be cured, a focus on the effects of Autism to the family and not on the individual, and a lack of representation of Neurodivergent individuals on their board. 
   * Autism Speaks has recognized some of their past views and actions were harmful. [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/)
   * [Wiki: Autism Speaks](https://en.wikipedia.org/wiki/Autism_Speaks)
+  * [My Time with Autism Speaks, John Elder Robison](https://link.springer.com/chapter/10.1007/978-981-13-8437-0_16)
   * [ASAN: Before you donate to Autism Speaks, Consider the facts](https://autisticadvocacy.org/wp-content/uploads/2017/04/AutismSpeaksFlyer2020.pdf)
+  * [2013: Non-speaking Autistic Activist Responds to Suzanne Wright of Autism Speaks](https://awnnetwork.org/non-speaking-autistic-activist-responds-to-suzanne-wright-of-autism-speaks/)
+    * [A Woman To Be Reckoned With: The Controversial Legacy Of Suzanne Wright](https://the-art-of-autism.com/a-woman-to-be-reckoned-with-the-controversial-legacy-of-suzanne-wright/)
+  * 2009: "I am Autism" ad controversy:
+    * :warning: [I Am Autism commercial by Autism Speaks](https://www.youtube.com/watch?v=9UgLnWJFGHQ)
+    * [Horrific Autism Speaks “I am Autism” ad transcript](https://autisticadvocacy.org/2009/09/horrific-autism-speaks-i-am-autism-ad-transcript/)
+    * ['I Am Autism': An Advocacy Video Sparks Protest](https://content.time.com/time/health/article/0,8599,1935959,00.html)
+    * [THINGS LEFT UNSAID: “I AM AUTISM” 10 YEARS LATER](https://thinkingautismguide.com/2019/09/things-left-unsaid-i-am-autism-10-years.html)
   * The grouping of disorders that are classified as Autism in DSM-5 has changed significantly, and [Autism Speaks "For the Record" FAQ](https://www.autismspeaks.ca/for-the-record/) clearly compares 2005 (DSM-4) to 2016+ (DDSM-5) diagnosis rate statistics crossing different diagnostic criteria, not explaining the the grouping as a significant factor contributing to an increase in Autism diagnosis statistics. Comparison of statistics derived using different diagnostic criteria is reckless and misleading.
 * Vaccines and Autism
   * Andrew Wakefield [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wakefield), was responsible for the [1998 Lancet MMR Autism Fraud, Wikipedia](https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud) spreading false rumors associating vaccines to autism.

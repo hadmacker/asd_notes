@@ -11,6 +11,7 @@
 * Bram Cohen: BitTorrent creator, diagnosed with Aspergers [Bloomberg.com](https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers)
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * [Courtney Love](https://the-genius-of-autism.fandom.com/wiki/Courtney_Love), Musician
+* [Dallon Weekes](https://en.wikipedia.org/wiki/Dallon_Weekes): Panic at the Disco
 * Daniel Tammet, Author with Aspergers syndrome and savant syndrome[Wikipedia](https://en.wikipedia.org/wiki/Daniel_Tammet)
 * Daryl Hannah
   * Actress, environmental activist
@@ -39,6 +40,7 @@
 * Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
   * Humane Livestock slaughter, Squeeze machine
 * [Tony Snell](https://people.com/nba-star-tony-snell-autism-diagnosis-at-31-7548235#:~:text=After%20taking%20that%20initiative%20last,%2C%20speech%20and%20nonverbal%20communication.%22), NBA player
+* [Yuh-Line Niou](https://en.wikipedia.org/wiki/Yuh-Line_Niou): American politician who served as a member of the New York State Assembly for the 65th district.
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
 
@@ -59,6 +61,9 @@ Individuals should research these people independently. A search engine query fo
 * **Charles Darwin**
   * Theory of Evolution, Natural Selection
   * [Top 5 Scientific Breakthroughs That Could Be Credited to Autism](https://www.appliedbehavioranalysisedu.org/top-5-scientific-breakthroughs-that-could-be-credited-to-autism/)
+* **David Byrne**: The Talking Heads
+  * [YouTube: David Byrne interview mentioning Aspergers](https://www.youtube.com/watch?v=vtX6emk6U5k)
+  * [Wikipedia: David Byrne](https://en.wikipedia.org/wiki/David_Byrne)
 * **[Elon Musk](https://www.bbc.com/news/world-us-canada-57045770)**
   * Founder of SpaceX, Tesla, X.com (part of PayPal) and [more](https://en.wikipedia.org/wiki/Elon_Musk)
 * **Henry Cavendish (1731–1810)**

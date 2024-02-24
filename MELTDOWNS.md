@@ -5,6 +5,8 @@
 > A meltdown doesn’t always mean that I’m upset. Often, it simply means that I’m depleted.  
 >    
 > A meltdown may look like an explosion, but it protects me from implosion.  
+> 
+> What looks like defiance is often just dysregulation in disguise.
 >    
 > [What I mean when I say I'm Autistic. Unpuzzling a life on the Autism Spectrum, Annie Kotowicz](https://www.amazon.ca/What-Mean-When-Say-Autistic/dp/B0BJYSTPW2)  
 

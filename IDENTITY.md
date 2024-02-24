@@ -13,6 +13,8 @@
 * [The Failings of Person First Language](https://awnnetwork.org/failings-person-first-language/)
 * [Which terms should be used to describe autism? Perspectives from the UK autism community](https://journals.sagepub.com/doi/abs/10.1177/1362361315588200)
 * [JADD: “It Defines Who I Am” or “It’s Something I Have”: What Language Do [Autistic] Australian Adults [on the Autism Spectrum] Prefer?](https://link.springer.com/article/10.1007/s10803-020-04425-3)
+* [Critiques of the Neurodiversity Movement, Ginny Russell](https://link.springer.com/chapter/10.1007/978-981-13-8437-0_21)
+  > the terms "neurotypical" and "neurodivergent"...denote two distinct groups...these terms can be divisive, fostering an "us" and "them" mentality...a dichotomized view of the world where you are either "in" or you are "out".
 
 > If autism is seen as something that must be hated, autistic young people will obediently grow up hating themselves.  
 > Autisticnotweird.com, ["Hating autism" and the damage it does](https://autisticnotweird.com/hating-autism/)

@@ -36,6 +36,7 @@
       * 1: small boost
       * 3: big boost
 * Games: [Granny's Candies Board Game](https://www.superduperinc.com/grannys-candies.html)
+* [The Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 * Eating:
   * Take emotion out of eating. No pleading, no cajoling, no joking, no commentary. Make food available without comment. Without restriction.
   * "Casual eating". It's there if you want it.
