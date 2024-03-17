@@ -2,13 +2,17 @@
 
 # What is Autism?
 
-##### [This section has been augmented with the use of AI](AI.md)
+[Signs and Symptoms of Autism Spectrum Disorder](https://www.cdc.gov/ncbddd/autism/signs.html#:~:text=Autism%20spectrum%20disorder%20(ASD)%20is,%2C%20moving%2C%20or%20paying%20attention.)
 
-Autism Spectrum Disorder (ASD), also commonly referred to as Autism Spectrum Condition (ASC), is a neurodevelopmental condition characterized by a broad range of challenges related to social interaction, communication, and repetitive or restrictive behaviors. Individuals on the autism spectrum may display a diverse array of strengths, abilities, and differences in how they perceive and interact with the world. 
+> Autism spectrum disorder (ASD) is a developmental disability caused by differences in the brain. People with ASD often have problems with social communication and interaction, and restricted or repetitive behaviors or interests. People with ASD may also have different ways of learning, moving, or paying attention. It is important to note that some people without ASD might also have some of these symptoms. But for people with ASD, these characteristics can make life very challenging.
 
-ASD is considered a spectrum because it manifests in varying degrees and with unique characteristics for everyone. The condition typically emerges in early childhood, and its impact can range from mild to severe, influencing how individuals engage with others, communicate, and navigate their surroundings. It is essential to recognize and respect the diversity within the autism spectrum, as each person's experience is unique, requiring tailored approaches to support and understanding.
+# Key points
 
-> “Neurodevelopmental” means that Autism is a _physical difference_ in the brain. It goes beyond simply “thinking differently” than others.
+* It is a **neurodevelopmental difference**
+  * "Neurodevelopmental" means that Autism is a _physical difference_ in the brain. It goes beyond simply “thinking differently” than others, and spans deeper into how the brain is actually wired.
+  * Some people have described this as the difference between Windows and Mac Operating Systems, or Android vs. iOS.
+* It is a **disability** that goes beyond simply social challenges and adversely impacts their ability to learn, move, focus, or communicate at a chronic and systemic level.
+  * While others may identify with some symptoms associated with Autism, it d
 
 >  In her book, “The Autistic Brain”, _Dr. Temple Grandin_ goes deep into analysis of the differences in the autistic brain, including comparison of her own unique brain CT scans compared to a “typical” brain.
 

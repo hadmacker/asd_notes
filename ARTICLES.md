@@ -55,6 +55,7 @@
 * [Avengers: Endgame's 3-hour runtime is a stark reminder of Hollywood's Hidden Ableism](https://www.mtv.com/news/vmqicc/avengers-endgame-runtime-ableism)
 * [Boy afraid he'll be on "naughty list" because of his autism, 6abc.com](https://6abc.com/santa-naught-list-michigan-christmas/1114282/)
 * Blogs
+  * [A diary of a mom](https://adiaryofamom.com/faqs/)
   * [Autistic Hoya, Lydia X. Z. Brown](https://www.autistichoya.com/)
   * [autisticnotweird.com](https://autisticnotweird.com)
     * [Bridging the gap between Autistic Adults and Autism Parents](https://autisticnotweird.com/bridging-the-gap/)
@@ -100,5 +101,12 @@
 * [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
 * [Why the focus of autism research is shifting away from searching for a 'cure', nbcnews.com](https://www.nbcnews.com/health/kids-health/cure-autism-not-so-fast-n1055921)
 * [SPARK: Special interests in Autism](https://sparkforautism.org/discover_article/special-interests-in-autism/)
+
+### Disability (General)
+
+* [Social Model of Disability, Wikipedia](https://en.wikipedia.org/wiki/Social_model_of_disability)
+* [Aristotle's views on disability](https://mn.gov/mnddc/parallels/one/3.html#:~:text=Aristotle%20believed%2C%20as%20did%20most,rearing%20of%20deformed%20children.)
+  > In his Politics, Aristotle wrote "As to the exposure  and rearing of children, let there be a law that no deformed child shall live."
+* [THE RUDERMAN WHITE PAPER ON MEDIA COVERAGE OF THE MURDER OF PEOPLE WITH DISABILITIES BY THEIR CAREGIVERS](https://www.researchgate.net/publication/335150121_THE_RUDERMAN_WHITE_PAPER_ON_MEDIA_COVERAGE_OF_THE_MURDER_OF_PEOPLE_WITH_DISABILITIES_BY_THEIR_CAREGIVERS)
 
 [Back to main](README.md)

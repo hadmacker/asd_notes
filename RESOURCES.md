@@ -40,6 +40,10 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * :star: Highly recommended.
   * This book provides a detailed and considerate approach to interpreting the Bible in relation to disability.
   * [Review of Autism and the Church: Bible, Theology, and Community by Grant Macaskill | Disability Studies Quarterly](https://dsq-sds.org/index.php/dsq/article/view/7887/5876)
+* [Autistic Community and the Neurodiversity Movement](https://link.springer.com/book/10.1007/978-981-13-8437-0)
+  * :star: :star: Open access, free to download.
+  * Highly Recommended. Has contributions from some well-referenced sources, including John Elder Robison describing his former relationship with Autism Speaks, Eric Garcia and the politics surrounding Autism, among others.
+* []
 
 # Conferences, Courses, Webinars, and Community
 
@@ -79,6 +83,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
     * [Youtube: TEDx: Dear Society... Signed, Autism, Daniel Share-Strom](https://www.youtube.com/watch?v=8HG5xD4xD2U)
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
+    * [YouTube: Inspiration porn and the objectification of disability: Stella Young at TEDxSydney 2014](https://www.youtube.com/watch?v=SxrS7-I_sMQ&pp=ygUdU3RlbGxhIHlvdW5nIGluc3BpcmF0aW9uIHBvcm4%3D)
   * [Vaccines and Autism: A Measured Response](https://www.youtube.com/watch?v=8BIcAZxFfrc)
   * [Non-verbal girl with Autism speaks through her computer 20/20 ABC News](https://youtu.be/xMBzJleeOno)
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
