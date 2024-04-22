@@ -2,6 +2,7 @@
 
 # Autism's link to the Scientific Mind
 
+* [Simon Baron-Cohen](https://en.wikipedia.org/wiki/Simon_Baron-Cohen)
 * [YouTube: Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU)
   * Is Autism linked to minds wired for science?
   * [The Geek Syndrome](https://www.wired.com/2001/12/aspergers/)
@@ -20,6 +21,9 @@
 * [Childhood autism spikes in geek heartland](https://www.newscientist.com/article/dn20589-childhood-autism-spikes-in-geek-heartlands/)
 * [Are Geeky Couples More Likely to Have Kids with Autism?](https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/)
 * [Autism and the Technical Mind: Live Chat with Simon Baron-Cohen, Transcript](https://www.scientificamerican.com/article/baron-cohen-autism-and-technical-mind-live-chat/)
+* [Predicting the diagnosis of autism in adults using the Autism-Spectrum Quotient (AQ) questionnaire](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988267/)
+* [An evaluation of the diagnostic validity of the structured questionnaires of the adult Asperger’s Assessment, Springer](https://link.springer.com/article/10.1007/s10803-022-05544-9)
+* [How do autistic people fare in adult life and can we predict it from childhood?](https://pubmed.ncbi.nlm.nih.gov/36519265/)
 
 # Neurology
 
@@ -35,5 +39,9 @@ In the book, [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-
 * [MRI's link impaired brain activity to inability to regulate emotions in autism](https://www.sciencedaily.com/releases/2015/01/150127100018.htm)
 * [Big Brains and White Matter: New Clues about Autism Subtypes](https://www.sciencedaily.com/releases/2020/12/201217135228.htm)
 
+# Medicine
+
+* [Elevated urine levels of bufotenine in patients with autistic spectrum disorders and schizophrenia](https://pubmed.ncbi.nlm.nih.gov/20150873/)
+* [Updated View on the Relation of the Pineal Gland to Autism Spectrum Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6370651/)
 
 [Back to main](README.md)

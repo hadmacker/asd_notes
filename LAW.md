@@ -12,6 +12,7 @@
   > Privately-run child care centers... **must comply with title III of the ADA**. Child care services provided by government agencies... **must comply with title II of the ADA**.  
   > Emphasis mine. 
   * Interpretation: (At least in the United States) even private-run child-care centers must provide a certain level of expected accomodation.
+* [Deborah thought her abuse was normal — but a late autism diagnosis changed everything](https://www.abc.net.au/news/2023-01-09/late-autism-diagnosis-changed-everything-for-victim-survivor/101826824)
 * Dobbs v. Jackson Women’s Health Organization
   * [ASAN: Our Rights Under Threat: What Dobbs v. Jackson Women’s Health Organization Means for People with Disabilities](https://autisticadvocacy.org/policy/toolkits/ourrights/)
 * [New Zealand denies entry to autistic daughter of immigrant couple](https://www.theguardian.com/world/2022/apr/26/new-zealand-denies-entry-to-autistic-daughter-of-immigrant-couple)
@@ -30,8 +31,6 @@
     * [History of eugenics in the United States](https://gallaudet.edu/museum/exhibits/history-through-deaf-eyes/language-and-identity/a-deaf-variety-of-the-human-race/#:~:text=Alexander%20Graham%20Bell%20studied%20eugenics,all%2C%20marrying%20other%20deaf%20people.)
 * [1933: German Law Authorizes Sterilization for Prevention of Hereditary Diseases](https://newspapers.ushmm.org/events/german-law-authorizes-sterilization-for-prevention-of-hereditary-diseases)
   * Triggers: Nazi ideology, eugenics
-* [8-year-old boy with disabilities assaulted and pinned facedown by Wyoming school officer, lawsuit says](https://www.nbcnews.com/news/us-news/8-year-old-boy-disabilities-assaulted-pinned-facedown-wyoming-school-o-rcna127953)
-  * [Wyoming Cop Assaulted a Disabled 8-Year-Old, Then Deleted the Body Camera Footage, Lawsuit Claims](https://reason.com/2023/12/04/wyoming-cop-assaulted-a-disabled-8-year-old-then-deleted-the-body-camera-footage/)
 * [Call to action for autism clinicians in response to anti-Black racism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9008552/)
 * [Autistic defendants are being failed by the criminal justice system](https://www.cam.ac.uk/research/news/autistic-defendants-are-being-failed-by-the-criminal-justice-system)
 * [Australia: New national Fitness to Drive standards are 'discriminatory' and 'humiliating' for autistic drivers, psychologists say](https://www.abc.net.au/news/2023-11-26/national-fitness-to-drive-standards-humiliating-autistic-drivers/103147928)
@@ -40,15 +39,25 @@
 * Jillian McCabe
   * [Independent: Mother sentenced to life for throwing autistic son off bridge](https://www.independent.co.uk/news/world/americas/mother-sentenced-to-life-for-throwing-autistic-son-off-bridge-a6893851.html)
   * [NBC: Jillian McCabe Gets Life for Throwing Her Autistic Son Off Bridge](https://www.nbcnews.com/news/us-news/jillian-mccabe-gets-life-throwing-her-autistic-son-bridge-n524506)
+* [‘It was deeply hurtful': Lawsuit asks court to declare San Jose boy with autism a ‘nuisance'](https://www.nbcbayarea.com/news/local/san-jose-lawsuit-autism-nuisance/3481996/)
+* [Sexual Victimization in Autism](https://autism.org/sexual-victimization-in-autism/)
+* [What to Do When Your Abusive Partner is Also Your Caregiver](https://www.thehotline.org/resources/what-to-do-when-your-abusive-partner-is-also-your-caregiver/)
+* [Why Does He Do That?: Inside the Minds of Angry and Controlling Men](https://ia600108.us.archive.org/30/items/LundyWhyDoesHeDoThat/Lundy_Why-does-he-do-that.pdf)
 
+## Police Violence Towards Autistic Individuals
 
-## Police Shootings
-
+* [8-year-old boy with disabilities assaulted and pinned facedown by Wyoming school officer, lawsuit says](https://www.nbcnews.com/news/us-news/8-year-old-boy-disabilities-assaulted-pinned-facedown-wyoming-school-o-rcna127953)
+  * [Wyoming Cop Assaulted a Disabled 8-Year-Old, Then Deleted the Body Camera Footage, Lawsuit Claims](https://reason.com/2023/12/04/wyoming-cop-assaulted-a-disabled-8-year-old-then-deleted-the-body-camera-footage/)
 * [Police Shooting Of Unarmed Autistic Teen Ricardo Hayes, CBS Chicaco](https://www.cbsnews.com/chicago/news/police-shooting-settlement-ricardo-hayes-sgt-khalil-muhammad-city-council-finance-committee/)
 * Linden Cameron, 13
   * [13-year-old Boy with Autism Disorder Shot by Salt Lake City Police](https://www.npr.org/2020/09/09/910975499/autistic-13-year-old-boy-shot-by-salt-lake-city-police)
   * [Shooting of Linden Cameron, Wikipedia](https://en.wikipedia.org/wiki/Shooting_of_Linden_Cameron)
 * [Shooting of Charles Kinsey, mental health therapist, as he was retrieving his autistic patient](https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey)
 * [Woman with Asperger's shot, killed by police in Arizona](https://www.cnn.com/2016/02/05/us/aspergers-woman-killed/index.html)
+* [Video shows APS officer mace student at Rio Grande HS](https://www.kob.com/new-mexico/video-shows-aps-officer-mace-student-at-rio-grande-hs/)
+
+## Media Coverage
+
+* [THE RUDERMAN WHITE PAPER ON MEDIA COVERAGE OF THE MURDER OF PEOPLE WITH DISABILITIES BY THEIR CAREGIVERS](https://www.researchgate.net/publication/335150121_THE_RUDERMAN_WHITE_PAPER_ON_MEDIA_COVERAGE_OF_THE_MURDER_OF_PEOPLE_WITH_DISABILITIES_BY_THEIR_CAREGIVERS)
 
 [Back to main](README.md)

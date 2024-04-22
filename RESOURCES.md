@@ -43,7 +43,17 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [Autistic Community and the Neurodiversity Movement](https://link.springer.com/book/10.1007/978-981-13-8437-0)
   * :star: :star: Open access, free to download.
   * Highly Recommended. Has contributions from some well-referenced sources, including John Elder Robison describing his former relationship with Autism Speaks, Eric Garcia and the politics surrounding Autism, among others.
-* []
+* [My Body is Not a Prayer Request, Amazon.ca](https://www.amazon.com/Body-Not-Prayer-Request-Disability/dp/1587435454)
+  * [A REVIEW OF “MY BODY IS NOT A PRAYER REQUEST”](https://earthandaltarmag.com/posts/a-review-of-my-body-is-not-a-prayer-request)
+* [Carly's Voice, Arthur Fleischmann, Carly Fleischmann](https://www.goodreads.com/book/show/12671833-carly-s-voice)
+  * :star: Powerful book and a very fun personality.
+    * First, read the book. 
+    * Then search for her name on YouTube to see a little about what she's been up to.
+* [The Pattern Seekers, Simon-Baron Cohen](https://www.amazon.ca/Pattern-Seekers-Autism-Drives-Invention/dp/1541647149)
+  * An ok book, but doesn't add much beyond the research referenced in other books above.
+* [The Explosive Child, Dr. Ross Green](https://www.amazon.ca/Explosive-Child-Sixth-Understanding-Chronically/dp/0063092468)
+  * Also from same author is this documentary: [The Kids We Lose](https://www.thekidswelose.com/)
+    > ...The Kids We Lose is a feature-length documentary film about the human side of being a child or student with behavioral challenges, and the struggles faced by parents, educators, staff in facilities, mental health clinicians, and judicial and law enforcement professionals in trying to ensure that these kids receive the help they need.
 
 # Conferences, Courses, Webinars, and Community
 
@@ -63,12 +73,17 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * [The A Word](https://en.wikipedia.org/wiki/The_A_Word)
   * [Thomas the Tank engine to introduce first autistic character](https://www.theguardian.com/global/2022/sep/07/thomas-the-tank-engine-to-introduce-first-autistic-character)
     * [Youtube: 'Thomas and Friends' introduces Bruno the Brake Car, its first character with autism, PBS NewHour](https://www.youtube.com/watch?v=hFq1H-e-sOE)
+  * [The Kids We Lose](https://www.thekidswelose.com/about-the-film/)
+    * Dr. Ross Greene, author of The Explosive Child
+    > A collaboration between Lives in the Balance and Lone Wolf Media, The Kids We Lose is a feature-length documentary film about the human side of being a child or student with behavioral challenges, and the struggles faced by parents, educators, staff in facilities, mental health clinicians, and judicial and law enforcement professionals in trying to ensure that these kids receive the help they need. 
 * Music
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
 * Youtube
   * [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
   * [Amythest Schaber, @neurowonderful](https://www.youtube.com/@neurowonderful)
+  * [Assume That I Can | Global World Down Syndrome Day 2024 | #EndTheStereotypes](https://www.youtube.com/watch?v=92ivgabfdPQ)
+    * Down Syndrome, not Autism related. Has a powerful message with parallels to autism.
   * [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
@@ -86,6 +101,8 @@ While this is not a comprehensive list of all inputs to this document, many of t
     * [YouTube: Inspiration porn and the objectification of disability: Stella Young at TEDxSydney 2014](https://www.youtube.com/watch?v=SxrS7-I_sMQ&pp=ygUdU3RlbGxhIHlvdW5nIGluc3BpcmF0aW9uIHBvcm4%3D)
   * [Vaccines and Autism: A Measured Response](https://www.youtube.com/watch?v=8BIcAZxFfrc)
   * [Non-verbal girl with Autism speaks through her computer 20/20 ABC News](https://youtu.be/xMBzJleeOno)
+* [Dr. Ross Greene: Philosophy for working with kids: Kids do well if they can](https://vimeo.com/78744548)
+  * Kids do well... "if they _can_" not "if they _want_".
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
 * Essays, Poetry, & Short Stories
   * [Poem: The Special Mother by Erma Bombeck](http://www.downssideup.com/2012/07/erma-bombeck-special-mothers.html) ([Alt1](https://www.the-special-needs-child.com/The-Special-Mother.html), [Alt2](https://differentbrains.org/different-brains-salutes-the-special-mother-by-erma-bombeck/), [Cached](Articles/Downs%20Side%20Up_%20Erma%20Bombeck_%20The%20Special%20Mother.pdf))
@@ -100,8 +117,18 @@ While this is not a comprehensive list of all inputs to this document, many of t
     * [Review](https://everybookadoorway.com/neurodiversity-and-alien-anthropology-failure-to-communicate-by-kaia-sonderby/?utm_source=www.google.com&utm_medium=organic&utm_campaign=Google&referrer-analytics=1)
     > The First Law of Retrospection states that everything is obvious once it’s been properly explained to one, especially if the one in question isn’t half so clever as they like to think.
 * Children's Literature
+  * [All My Stripes: A Story for Children With Autism, by Shaina Rudolph, Danielle Royer, Jennifer Zivoin](https://www.amazon.ca/All-My-Stripes-Children-Autism/dp/1433819163/)
+    * :star: A must read book that is accessible to even young children with autism.
+    * The main character has the ability to communicate but struggles with being different, sensory processing challenges, struggled with talking with others, literal and concrete thinking, and struggling to identify their strengths.
+  * [Duck Days, Sara Leach](https://www.saraleach.com/duck-days)
+    * :star: Covers flexible thinking and "going with the flow" as well as allowing hurtful actions or comments to bounce off one's back like water bounces off a duck's back.
+    * This is the third book in a series of three, covering different aspects of a child's experience with autism.
   * [May I be Excused, My Brain is Full: Olivia's Asperger's Story](https://a.co/d/7bNbD37)
   * [Chester and Gus](https://www.amazon.ca/Chester-Gus-Cammie-McGovern/dp/0062330691)
   * [Rules](https://www.amazon.ca/Rules-Cynthia-Lord/dp/0439443830/)
+
+# Other Resources
+
+* [Resources, Thinking Person's Guide to Autism](https://thinkingautismguide.com/resources)
 
 [Back to main](README.md)

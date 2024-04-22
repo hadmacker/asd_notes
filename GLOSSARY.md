@@ -16,6 +16,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * [What is Applied Behaviour Analysis?, Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
   * See Controversies section for further resources.
   * See also: _Masking_, _Scripts_.
+* [Avoidant/Restrictive Food Intake Disorder (ARFID)](https://kidshealth.org/en/parents/arfid.html)
+  > Children with ARFID are extremely selective eaters and sometimes have little interest in eating food. They may eat a limited variety of preferred foods, which can lead to poor growth and poor nutrition.
 * **ASC**: Autism Spectrum Condition
   * Coined by: Angela Taylor (Inspire Community Outreach)
 * **ASD**: Autism Spectrum Disorder
@@ -63,6 +65,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
 * **Heterogeneity**: Having diverse characteristics or content
 * **Hidden curriculum**: the unwritten, unofficial, and often unintended lessons values and perspectives that students learn in school.
+* **Histrionic Personality Disorder (HPD)**: [Histrionic Personality Disorder (HPD), nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK542325/)
+  > Histrionic Personality Disorder (HPD) is a chronic and enduring condition marked by a consistent pattern of attention-seeking behaviors and an exaggerated display of emotions.
 * **Hypercalculia**: A development condition in which the ability to perform mathematical calculations is significantly superior to general learning ability.[Wikipedia](https://en.wikipedia.org/wiki/Hypercalculia). See also _Hypernumeracy_ and _Hyperlexia_.
 * **Hyperlexia**: advanced and unexpected reading skills and abilities in children way beyond their chronological age. [WebMD](https://www.webmd.com/children/what-is-hyperlexia)
 * **Hypermnesia**: Advanced degree of retentiveness and recall of memory with high clarity of detail. [Hypermnesia, ABA](https://dictionary.apa.org/hypermnesia)
@@ -73,6 +77,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **International Classification of Diseases** [WHO.int](https://icd.who.int/en)
   * ICD-11: 2022
   * ICD-10: 2016, 2019
+* **Interoception**: [Wikipedia: Interoception](https://en.wikipedia.org/wiki/Interoception)
+  > Interoception is the collection of senses providing information to the organism about the internal state of the body.
 * **Irlen Syndrome**: A visual perceptual processing disorder. Coloured glasses have been shown to improve quality of life.
 * **Joint Attention**: When one purposefully coordinates their focus of attention with that of another person. [unc.edu](https://www.med.unc.edu/healthsciences/asap/materials-1/about-joint-attention/#:~:text=What%20is%20Joint%20Attention%3F,intentionally%20and%20for%20social%20reasons.)
   * Imagine, for example, that a teacher points to her desk and says to a child, “Look at that big apple.” The child looks at the place the teacher has pointed and sees the apple. In this situation, the teacher and the child have engaged in joint attention—that is, they shared attention to the apple on purpose.

@@ -80,4 +80,27 @@
   * "Her IEP provides her with __. How does that look in the classroom?"
   * "How can I help?"
 
+# Travel
+
+* [Travelling with disabilities, gc.ca](https://travel.gc.ca/travelling/health-safety/disabilities)
+* [Accessible Transportation for Persons with Disabilities Regulations, SOR/2019-244, gc.ca](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2019-244/FullText.html)
+* [Airline Passengers with Disabilities Bill of Rights, US Department of Transportation](https://www.transportation.gov/airconsumer/disabilitybillofrights)
+* [Our accessibility services, Air Canada](https://www.aircanada.com/ca/en/aco/home/plan/accessibility.html)
+* [Travelling with Disabilities: How Far We’ve Come and Where We Go from Here, Air Canada](https://enroute.aircanada.com/en/travel-inspiration/disabilities-travel-tips/)
+* [Guests with special needs, WestJet](https://www.westjet.com/en-ca/special-needs)
+* NDIS and DPNA codes
+  * [The DPNA code to assist passengers!](https://thebutterfly.ae/the-dpna-code-to-assist-passengers/)
+    > Disabled Passenger Needing Assistance
+  * [Flyeryalk forum: Special Service Request (SSR) Codes](https://www.flyertalk.com/forum/disability-travel/725407-ssr-special-service-request-codes.html)
+    * Airlines often have an equivalent code to the following for additional accomodations when flying with an individual having disabilities:
+      * **NDIS = Invisible Disability** (usually some sort of cognitive impairment that isn't visible and where the passenger is self-sufficient and doesn't require an attendant but might still need some minor assistance). A passenger with Autism Spectrum Disorder (ASD) - Level 1 for instance. Similar to DMAA (which is not used by AC). Using this one is typically easy - sort of like asking for wheelchair assistance minus the wheelchair. It also automatically gives you pre-boarding.
+      * **DPNA = A cognitive disability that is more evident.** Usually used when someone with such a disability is travelling with an attendant. Examples include ASD levels 2 and 3. Medical clearance is usually required the first time you use it.
+
+
+# Other Programs
+
+
+* [US Navy Exceptional Family Member Program (EFMP)](https://www.mynavyhr.navy.mil/Support-Services/Exceptional-Family-Member/)
+  * [EFMP Resources](https://installations.militaryonesource.mil/military-installation/naval-station-rota/exceptional-family-member-program/exceptional-family-member-program)
+
 [Back to main](README.md)

@@ -15,7 +15,6 @@
 * [The Truth Of Disability Employment That No One Talks About, Forbes](https://www.forbes.com/sites/sarahkim/2019/10/24/sub-minimum-wages-disability/)
 * [Bureau of Labor Statistics, Persons with a Disability, Labor Force Characteristics 2023](https://www.bls.gov/news.release/pdf/disabl.pdf)
 
-
 # Academia
 
 * [Bellevue College: Autism Spectrum Navigators](https://www.bellevuecollege.edu/autismspectrumnavigators/)

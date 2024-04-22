@@ -50,6 +50,8 @@
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
 * [At the intersection of Autism and Trauma](https://www.spectrumnews.org/features/deep-dive/intersection-autism-trauma/)
+* [Augmentative and Alternative Communication for Speaking Autistic Adults: Overview and Recommendations](https://www.liebertpub.com/doi/10.1089/aut.2018.0007)
+  > Unreliable speech occurs when a person's speech and intended meaning disagree.
 * [Autism's Drug Problem](https://www.spectrumnews.org/features/deep-dive/autisms-drug-problem/)
 * [Autistic Burnout](https://stimpunks.org/burnout/)
 * [Avengers: Endgame's 3-hour runtime is a stark reminder of Hollywood's Hidden Ableism](https://www.mtv.com/news/vmqicc/avengers-endgame-runtime-ableism)
@@ -71,6 +73,7 @@
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
   * [Unstrangemind.com](http://unstrangemind.com/)
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
+* [Coping with a crisis when you have unreliable or intermittent speech](https://thinkingautismguide.com/2017/11/coping-with-crisis-intermittent-speech.html)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)
 * [Don't Mourn For Us, Jim Sinclair, ucsc.edu](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
 * [Dungeons, Dragons, and Autism](https://www.altogetherautism.org.nz/dungeons-dragons-and-autism/)
@@ -82,6 +85,7 @@
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
 * [Pathological Demand Avoidance (PDA) in kids](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * [PTSD and Autism Overlap](https://neurodivergentinsights.com/misdiagnosis-monday/ptsd-and-autism)
+* [Q&A: Star Trek’s ‘Data’ on autism, space travel, and the link between humanity and technology](https://www.geekwire.com/2013/brent-spiner-star-trek/)
 * [Receptive and Expressive Language](https://www.childrensmn.org/services/care-specialties-departments/physical-rehabilitation/receptive-and-expressive-language/)
   > **Receptive language** refers to how your child understands language.  
   > **Expressive language** refers to how your child uses words to express himself/herself.

@@ -18,6 +18,15 @@
   * [Wikipedia](https://en.wikipedia.org/wiki/Daryl_Hannah)
 * [Dawn Prince-Hughes, wikipedia](https://en.wikipedia.org/wiki/Dawn_Prince-Hughes)
   * Anthropologist, primatologist, Ethologist
+* [Fern Brady](https://en.wikipedia.org/wiki/Fern_Brady) Scottish comedian, author
+  * Brief comedy segments (NSFW)
+    * [Getting Diagnosed with Autism | Fern Brady | Comedy Exports, YouTube](https://www.youtube.com/watch?v=Ufe-2f5DpPE)
+    * [“There's Not Enough Talk On How Weird Neurotypicals Are” Fern Brady Discusses Autism | The Last Leg, YouTube](https://www.youtube.com/watch?v=HaqsScc32nQ)
+    * [Fern Brady On Being A Stripper, Autism Diagnosis & School In 'A Men's Prison' | Unfiltered, YouTube](https://www.youtube.com/watch?v=rHLnaHJwATk)
+    * [Fern Brady, Dating in a mental hospital, YouTube](https://www.youtube.com/watch?v=7wW3prj-FIo)
+    * [Fern Brady | Why Autistic Women work in Strip Clubs, YouTube](https://www.youtube.com/watch?v=YpArzKAmbo8)
+  * [Book: Strong Female Character, Fern Brady, Amazon.ca](https://www.amazon.ca/Strong-Female-Character-Fern-Brady/dp/0593582500)
+* [Frankie MacDonald](https://en.wikipedia.org/wiki/Frankie_MacDonald) Canadian amateur meteorologist
 * Gary McKinnon: Hacker
   * [Asperger's syndrome hacker 'should not be extradited'](https://www.theguardian.com/technology/2009/jul/14/gary-mckinnon-aspergers-hacking)
   * [Wikipedia](https://en.wikipedia.org/wiki/Gary_McKinnon)
@@ -34,11 +43,17 @@
   * [(Broken link) leefelsenstein.com](http://www.leefelsenstein.com/wp-content/uploads/2013/01/My-Path-Through-the-FSM-and-Beyond.pdf) [Cached](./Articles/felsenstein.com/My%20Path%20Through%20the%20FSM%20and%20Beyond.html), reveals an Aspergers diagnosis.
 * Liane Holliday Willey: Author, Autism Educator, Speaker [aspie.com](http://www.aspie.com/)
 * [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
+* [Michael McCreary]() Comedian, Author
+  * [TEDx: Does This Make My Asperger’s Look Big? | Michael McCreary , YouTube](https://www.youtube.com/watch?v=jBVpgyIXllw)
+  * [Book: Funny, you don't look autistic, Michael McCreary](https://www.annickpress.com/Books/F/Funny-You-Don-t-Look-Autistic)
 * [Michael John Carley](https://michaeljohncarley.com/books/), Author
+* [Sia](https://en.wikipedia.org/wiki/Sia) Australian singer and songwriter
+  * [Sia reveals she's on the autism spectrum years after Music film controversy](https://ew.com/music/sia-reveals-autism-spectrum-music-controversy/)
 * Dr. [Stephen Shore](https://drstephenshore.com/), Professor of special education
 * Stephen Wiltshire, British architectural artist and autistic savant [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wiltshire)
 * Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
   * Humane Livestock slaughter, Squeeze machine
+* [Tom Stoltman](https://barbend.com/strongman-tom-stoltman-autism-is-a-superpower/) 2021 World's Strongest Man
 * [Tony Snell](https://people.com/nba-star-tony-snell-autism-diagnosis-at-31-7548235#:~:text=After%20taking%20that%20initiative%20last,%2C%20speech%20and%20nonverbal%20communication.%22), NBA player
 * [Yuh-Line Niou](https://en.wikipedia.org/wiki/Yuh-Line_Niou): American politician who served as a member of the New York State Assembly for the 65th district.
 

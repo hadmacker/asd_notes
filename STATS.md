@@ -20,5 +20,10 @@
 * [Mortality in individuals with autism spectrum disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6713622)
 * [The Autistic Not Weird Autism Survey](https://autisticnotweird.com/autismsurvey/)
   * Survey published in 2022 with over 11,000 respondants.
+* [PERSONS WITH A DISABILITY: LABOR FORCE CHARACTERISTICS — 2023, US Department of Labor](https://www.bls.gov/news.release/pdf/disabl.pdf)
+  * in 2023, 22.5 percent of people with a disability were employed.
+* [Transgender and gender-diverse individuals are more likely to be autistic and report higher autistic traits](https://www.cam.ac.uk/research/news/transgender-and-gender-diverse-individuals-are-more-likely-to-be-autistic-and-report-higher-autistic)
+  > Transgender and gender-diverse adults are **three to six times** more likely as cisgender adults...to be diagnosed as autistic
+* [Evidence That Nine Autistic Women Out of Ten Have Been Victims of Sexual Violence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9087551/)
 
 [Back to main](README.md)
