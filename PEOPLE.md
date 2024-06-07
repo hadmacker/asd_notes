@@ -32,11 +32,13 @@
   * [Wikipedia](https://en.wikipedia.org/wiki/Gary_McKinnon)
   * [Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU) claims McKinnon has Autism and he became obsessed.
 * [Greta Thunberg, thehill.com](https://thehill.com/changing-america/well-being/468091-opinion-activist-greta-thunbergs-autism-doesnt-hold-her-back/)
+* Hannah Gadsby, Comedian [npr.org](https://www.npr.org/2020/05/26/862081893/autism-spectrum-diagnosis-helped-comic-hannah-gadsby-be-kinder-to-herself)
+* [Holly Madison](https://people.com/holly-madison-intimate-emotional-connection-boyfriend-autism-diagnosis-exclusive-8621140): Model and Actress
+  * Diagnosed at 42 years of age.
 * Jason Arday [Wikipedia](https://en.wikipedia.org/wiki/Jason_Arday)
   * GDD: Learned to speak at 11 years old, read & write at 18.
   * [Youtube: Man who learnt to read at 18 becomes Cambridge University's youngest ever black professor - BBC News](https://youtu.be/g28uXeXz9l8)
 * Jim Sinclair, Autism Activist [Wikipedia](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
-* Hannah Gadsby, Comedian [npr.org](https://www.npr.org/2020/05/26/862081893/autism-spectrum-diagnosis-helped-comic-hannah-gadsby-be-kinder-to-herself)
 * Lee Felsenstein, Computer pioneer
   * Claimed by [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
   * [Wikipedia](https://en.wikipedia.org/wiki/Lee_Felsenstein) makes no mention of it.

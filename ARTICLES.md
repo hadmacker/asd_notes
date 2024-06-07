@@ -47,13 +47,17 @@
 ### General
 
 * [‘A lot fell into place’: the adults who discovered they were autistic – after their child was diagnosed](https://www.theguardian.com/society/2021/dec/16/adults-discovered-autistic-child-diagnosed-autism)
+* [Asynchronous Development in Children](https://www.verywellfamily.com/asynchronous-development-1449172)
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
 * [At the intersection of Autism and Trauma](https://www.spectrumnews.org/features/deep-dive/intersection-autism-trauma/)
 * [Augmentative and Alternative Communication for Speaking Autistic Adults: Overview and Recommendations](https://www.liebertpub.com/doi/10.1089/aut.2018.0007)
   > Unreliable speech occurs when a person's speech and intended meaning disagree.
+* [Autism and Weather](https://aisforaoifenotautism.com/2020/07/10/autism-and-weather/)
+  * Perspective around how weather impacts people with autism.
 * [Autism's Drug Problem](https://www.spectrumnews.org/features/deep-dive/autisms-drug-problem/)
 * [Autistic Burnout](https://stimpunks.org/burnout/)
+* [Autistic Self Advocacy Network: Giving Autistics a Say in Their Lives](https://exemplarsofchange.wordpress.com/2024/04/02/autistic-self-advocacy-network-giving-autistics-a-say-in-their-lives)
 * [Avengers: Endgame's 3-hour runtime is a stark reminder of Hollywood's Hidden Ableism](https://www.mtv.com/news/vmqicc/avengers-endgame-runtime-ableism)
 * [Boy afraid he'll be on "naughty list" because of his autism, 6abc.com](https://6abc.com/santa-naught-list-michigan-christmas/1114282/)
 * Blogs
@@ -78,6 +82,7 @@
 * [Don't Mourn For Us, Jim Sinclair, ucsc.edu](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
 * [Dungeons, Dragons, and Autism](https://www.altogetherautism.org.nz/dungeons-dragons-and-autism/)
 * [Hidden Markov Models to Estimate the Probability of Having Autistic Children](https://ieeexplore.ieee.org/document/9099478)
+* [I'm Autistic and Sick of Feeling Excluded from Queer Spaces](https://www.them.us/story/queerness-and-autism)
 * [Institute for the Study of the Neurologically Typical (ISNT)](https://angryautie.wordpress.com/2013/06/24/the-institute-for-the-study-of-the-neurologically-typical/)
   > “Neurotypical syndrome is a neurobiological disorder characterized by preoccupation with social concerns, delusions of superiority, and obsession with conformity.”
 * [MRI's link impaired brain activity to inability to regulate emotions in autism](https://www.sciencedaily.com/releases/2015/01/150127100018.htm)

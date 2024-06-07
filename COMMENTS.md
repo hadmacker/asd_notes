@@ -4,8 +4,6 @@
 
 Several questions below come from [Understanding Autism for Dummies](https://www.perlego.com/book/1010137/understanding-autism-for-dummies-pdf)
 
-:warning: Several answers below are marked "GPT" and were provided verbatim from ChatGPT. Individuals should review these for correctness and clarity.
-
 ## Briefly:
 
 * :star: "Let's pause this. He/she needs my immediate attention."

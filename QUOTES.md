@@ -63,7 +63,7 @@
 > All brains are needed and can be beautiful  
 > Unattributed
 
-> For those that can’t communicate, they might be Disguised as poor thinkers.  
+> For those that can’t communicate, they might be disguised as poor thinkers.  
 > Paul Collins
 
 > It seems that for success in science or art, a dash of autism is essential.  
@@ -95,6 +95,19 @@
 > [Cached](./Images/a%20normal%20zebra%20not%20a%20strange%20horse.jpg)
 
 > I miss what others catch, and I catch what others miss. - [Annie Kotowicz, What I mean when I say I'm Autistic. Unpuzzling a life on the Autism Spectrum](https://www.amazon.ca/What-Mean-When-Say-Autistic/dp/B0BJYSTPW2)
+
+> We are like freshwater fish in saltwater. Put us in saltwater and we flail around , suffer, struggle, and May even die. Put us in freshwater and we flourish.
+> [The Pattern Seekers, Simon Baron-Cohen](https://www.amazon.ca/Pattern-Seekers-Autism-Drives-Invention/dp/1541647157)
+
+# Off Topic Quotes
+
+The following quotes might not have direct relevance though may have an indirect relevance for further discussions. Attribution only when known.
+
+> “Have you ever been at sea in a dense fog, when it seemed as if a tangible white darkness shut you in, and the great ship, tense and anxious, groped her way toward the shore with plummet and sounding-line, and you waited with beating heart for something to happen? I was like that ship before my education began, only I was without compass or sounding-line, and had no way of knowing how near the harbour was. "Light! give me light!" was the wordless cry of my soul, and the light of love shone on me in that very hour.”  
+> [Helen Keller, The Story of My Life](https://www.goodreads.com/quotes/506405-have-you-ever-been-at-sea-in-a-dense-fog)  
+
+> Them: I heard autistic folks take everything literally?  
+> Autistic person: No, that’s kleptomaniacs.  
 
 > Normality is a paved road: It's comfortable to walk but no flowers grow. - Vincent Van Gogh
 

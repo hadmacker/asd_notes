@@ -10,6 +10,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **ACE**: Adverse Childhood Experience
 * **Affinity**: A hallmark indicator of autism spectrum disorder is that patiences have a particular focused interest on a specific topic. This is known as an affinity.
 * **Alexithymia**: [Alexithymia is a broad term to describe problems with feeling emotions. In fact, this Greek term used in Freudian psychodynamic theories loosely translates to “no words for emotion.” While the condition is not well-known, it’s estimated that 1 in 10 peopleTrusted Source has it.](https://www.healthline.com/health/autism/alexithymia#:~:text=Alexithymia%20is%20a%20broad%20term,in%2010%20people%20has%20it.)
+  * [All About Alexithymia, or Difficulty Recognizing Feelings, healthline.com](https://www.healthline.com/health/autism/alexithymia)
 * **Allistic**: Not on the Autistic spectrum. May be used by those with autism to describes "neurotypicals". [Differences in Autistic v. Allistic Communication](https://accessate.net/features/2791/differences-in-autistic-v-allistic-communication#:~:text=For%20those%20unfamiliar%2C%20%E2%80%9Callistic%E2%80%9D,in%20contrast%20to%20%E2%80%9Cautistic%E2%80%9D)
 * **Aphasia**: A communication disorder that makes it difficult to use words. It can affect speech, writing, and ability to understand language. [webmd.com](https://www.webmd.com/brain/aphasia-causes-symptoms-types-treatments)
 * **Applied Behavioural Analysis**: Applied Behavioural Analysis or ABA therapy is focused on treating and improving observed behaviours
@@ -22,6 +23,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * Coined by: Angela Taylor (Inspire Community Outreach)
 * **ASD**: Autism Spectrum Disorder
 * **Asperger, Hans**: Autism research pioneer. His name was given to Asperger's syndrome, a form of autism defined in 1981 by Lorna Wing. [Wiki: Hans Asperger](https://en.wikipedia.org/wiki/Hans_Asperger)
+* **Auditory Filtering**: The body's process to isolate and focus on specific sounds in a noisy situation.
+  * [What Do We Know About Noise Sensitivity in Autism?](https://www.kennedykrieger.org/stories/interactive-autism-network-ian/noise-sensitivity-autism)
 * **Autism Warrior Parent**: 
   > Autism Warrior Parents (AWPs) insist on supporting their autistic kids either by trying to cure them, or by imposing non-autistic-oriented goals on them — rather than by trying to understand how their kids are wired, and how that wiring affects their life experience.  
   > [How "Autistic Warrior" Parents harm Autistic Kids](https://medium.com/the-establishment/how-autism-warrior-parents-harm-autistic-kids-6700b8bf6677)
@@ -33,11 +36,18 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Brain-Body Disconnect**:  [The brain-body disconnect: A somatic sensory basis for trauma-related disorders, NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9720153/)
 * **Bruno Bettelheim**: An early Autism researcher and psychologist pioneering treatements. His research and theories were later discredited or recognized as damaging. [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim) 
 * **CBT**: Cognitive Behavioral Therapy [camh.ca](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/cognitive-behavioural-therapy)
+* **Clipping**: Ability to hear or process only part of a command. Likely at the end, due to a delay in audible processing.
+  * Mitigations: 
+    * Priming the the message: "I need you to do something: <command>"
+  * Recognize that other autistic traits (PDA or ODD perhaps) may further interfere with an individual's ability to actually complete a task as directed.
 * **Cognitive Behaviour Therapy (CBT)**: CBT is based on the concept that your thoughts, feelings, physical sensations and actions are interconnected, and that negative thoughts and feelings can trap you in a negative cycle. [nhs.uk](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/overview/#:~:text=Cognitive%20behavioural%20therapy%20(CBT)%20is,mental%20and%20physical%20health%20problems.)
 * **Comorbid**: having multiple disorders or diagnoses
 * **CNV**: Copy Number Variation, a genomic (DNA) mutation
   * Downs Syndrome is an example of a CNV
 * **CPTSD**: [Complex post-traumatic stress disorder (complex PTSD)](https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd-and-complex-ptsd/complex-ptsd/)
+* **Disorder**: 
+  > A disorder is a group of symptoms that disrupts your normal body functions but does not have a known cause, while a disease is a medical condition with an identifiable cause.
+  > [Is It a Disease, Disorder, Condition, or Syndrome?](https://www.verywellhealth.com/disease-vs-disorder-5092243#:~:text=A%20disorder%20is%20a%20group%20of%20symptoms%20that%20disrupts%20your,that%20tend%20to%20occur%20together.)
 * **Double Empathy Problem**: The basis of the theory is that a mismatch between two people can lead to faulty communication. This disconnect can occur at many levels, from conversation styles to how people see the world. The greater the disconnect, the more difficulty the two people will have interacting. [spectrumnews](https://www.spectrumnews.org/news/double-empathy-explained/)
 * **DSM**: Diagnostic and Statistical Manual of Mental Disorders
   * DSM-III: 1980
@@ -99,6 +109,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Neurotypical**: An individual with "normal" behaviour
 * **Nosology**: The branch of medical science dealing with the classification of diseases
   * Relevance: The changing diagnostic criteria and scope for individuals with Autism
+* **Oppositional Defiant Disorder (ODD)**: 
+  > Oppositional defiant disorder (ODD) is a type of behavior disorder. Children with ODD are uncooperative, defiant, and hostile toward peers, parents, teachers, and other authority figures.  
+  * [Oppositional Defiant Disorder (ODD) in Children, Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/oppositional-defiant-disorder#:~:text=ODD%20in%20children-,Oppositional%20defiant%20disorder%20(ODD)%20is%20a%20type%20of%20behavior%20disorder,Developmental%20problems%20may%20cause%20ODD.)  
 * **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
 * **Passing**: Passing is when an autistic person suppresses everything about themselves to appear neurotypical. 
   * [YouTube: Ask an Autistic #2 - What is Passing?](https://youtu.be/EsH1fX4MM60?si=973o3OgRnijPaxyE)
@@ -128,6 +141,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Stimming**: self-stimulatory behaviour, can be used to regulate or regain self control [See: betterhelp.com](https://www.betterhelp.com/advice/adhd/what-is-stimming-adhd-and-possible-behavioral-issues)
   * Stimming is not necessarily "bad" and may be allowed to continue if it does not interfere with life [Source: psychiatry.org](https://www.psychiatry.org/News-room/APA-Blogs/Understand-Stimming-Repetitive-Behaviors-Purpose)
   > There are other stimming behaviors that don’t fit into the above categories. These can include excessive gameplay...
+* **Syndrome**:
+  > A group of signs and symptoms that occur together and characterize a particular condition.  
+  > [merriam-webster.com](https://www.merriam-webster.com/dictionary/syndrome#:~:text=1,usually%20form%20an%20identifiable%20pattern)
+  * A Syndrome is not equivalent to Disorder or Disease.
 * **Table Ready**: When an autistic child is ready for school because they can sit still at a table without stimming.
   * [YouTube: Ask an Autistic #2 - What is Passing?](https://youtu.be/EsH1fX4MM60?si=973o3OgRnijPaxyE)
 * **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space". A recent (2017) [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) word for Autism. [Wikipedia](https://en.wiktionary.org/wiki/takiw%C4%81tanga)

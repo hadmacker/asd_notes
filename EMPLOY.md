@@ -14,10 +14,13 @@
 * [NASA's Neurodiversity Network](https://science.nasa.gov/sciact-team/nasa-neurodiversity-network/)
 * [The Truth Of Disability Employment That No One Talks About, Forbes](https://www.forbes.com/sites/sarahkim/2019/10/24/sub-minimum-wages-disability/)
 * [Bureau of Labor Statistics, Persons with a Disability, Labor Force Characteristics 2023](https://www.bls.gov/news.release/pdf/disabl.pdf)
+* [Valuing neurodiversity at CERN - All great minds are not alike!](https://diversity-and-inclusion.web.cern.ch/news/valuing-neurodiversity-cern-all-great-minds-are-not-alike)
+
 
 # Academia
 
 * [Bellevue College: Autism Spectrum Navigators](https://www.bellevuecollege.edu/autismspectrumnavigators/)
 * [Drexel: Employment Resources](https://drexel.edu/autismoutcomes/topics/employment/)
+
 
 [Back to main](README.md)

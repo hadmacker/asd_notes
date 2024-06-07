@@ -58,5 +58,18 @@
 * [Numbrillig.ca](https://numbrillig.ca/)
   * Hypernumeracy website, written by myself.
   * [GitHub: Source code](https://github.com/hadmacker/numbrella) (Formerly code-name _numbrella_)
+* [nono arm helper](https://www.nono-armhelper.com/): Pediatric arm immobilizers/restraints
+* We can’t judge our autistic kids by the actions of their body. (Brain body disconnect)
+* Stims can be used to filter input/output not just to calm down.
+* Most popular AAC app for iPad: [Proloquo2go](https://www.assistiveware.com/products/proloquo2go)
+* Elopement tools:
+  * [Angelsense GPS tracking](https://www.angelsense.com/)
+  * [Project Lifesaver](https://projectlifesaver.org/)
+  * [If I need help](https://ifineedhelp.org/)
+* Velcro brain: he gets stuck on things and it can be difficult to transition
+* We listen with more than our ears. We also use our hearts and our eyes to communicate.
+* [And next comes L](https://www.andnextcomesl.com/)
+  * Hyperlexia and Hypernumeracy resources website with some free resources. (Also has some paid resources.)
+* [Numberblocks DIY printable stickers](https://www.keithstoybox.com/p/numberblocks-printables.html)
 
 [Back to main](README.md)

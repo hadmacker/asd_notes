@@ -20,6 +20,9 @@
 > Without an enemy your anger gets confused  
 > Easy Way Out, song by Elliott Smith
 
+> Breaks are ESSENTIAL for REGULATION  
+> [NeuroWild, Facebook](https://www.facebook.com/story.php?story_fbid=425767590362263&id=100087870753308&mibextid=WC7FNe&rdid=snFEaSqUFxyunePp)  
+
 
 # Causes
 
@@ -39,6 +42,9 @@ The last thing to happen is not always the reason for the meltdown.
 * Find comfort object
 * Meet sensory needs
 * Offer food or a snack
+* Activity buffers!
+  > “activity buffers” have literally been the SECRET to reducing my meltdowns. i used to get so overwhelmed at the end of the day, and then we started taking breaks in the middle of the day where i can just chill and it gives me enough charge to go back out and finish up. i haven’t had a meltdown related to my schedule since i started doing that.  
+  > Unattributed forum post, likely from Reddit r/Autism or r/AutismParenting forums
 
 
 # Responding to comments

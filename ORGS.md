@@ -17,6 +17,8 @@
 * [Inclusion Winnipeg](https://inclusionwinnipeg.org/)
 * [Inspire Community Outreach](https://inspirecommunityoutreach.ca/)
 * [Specialized Services for Children & Youth](https://sscy.ca/)
+* [Manitoba Accessibility Office](https://accessibilitymb.ca/index.html)
+* [The Accessibility for Manitobans Act, gov.mb.ca](https://web2.gov.mb.ca/laws/regs/current/070-2019.php?lang=en)
 
 ## Elsewhere
 
@@ -26,6 +28,7 @@
 * Autism Society of America (USA)
   * [Main](https://autismsociety.org/)
   * [Wikipedia](https://en.wikipedia.org/wiki/Autism_Society_of_America)
+* [CARE, Boston University](https://www.bu.edu/autism/)
 * [CDC.gov: ASD Homepage](https://www.cdc.gov/ncbddd/autism/index.html)
 * Focus on the Family (USA)
   * Religious organization providing some special needs articles and book publication.
