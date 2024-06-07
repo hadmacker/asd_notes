@@ -29,6 +29,7 @@
 
 In the book, [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-Brain-Helping-Different-Succeed/dp/0544227735), the author goes on to show MRI imaging of her brain, with comparison of a typical brain, and is used to support her claim of "thinking in pictures".
 
+* [The brain-body disconnect: A somatic sensory basis for trauma-related disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9720153/)
 * [The connectivity theory of autism, explained](https://www.spectrumnews.org/news/connectivity-theory-autism-explained/)
   * _Functional connectivity_ between regions of the brain being atypical.
 * [Characteristics of Brains in Autism Spectrum Disorder: Structure, Function and Connectivity across the Lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688328/)
@@ -42,6 +43,7 @@ In the book, [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-
 # Medicine
 
 * [Elevated urine levels of bufotenine in patients with autistic spectrum disorders and schizophrenia](https://pubmed.ncbi.nlm.nih.gov/20150873/)
+* [Scientists Discover Heightened Toxicity Risk For Children With Autism, ADHD](https://www.sciencealert.com/common-plastic-additive-linked-to-autism-and-adhd-scientists-find)
 * [Updated View on the Relation of the Pineal Gland to Autism Spectrum Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6370651/)
 
 [Back to main](README.md)

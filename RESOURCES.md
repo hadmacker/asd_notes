@@ -49,6 +49,7 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * :star: Powerful book and a very fun personality.
     * First, read the book. 
     * Then search for her name on YouTube to see a little about what she's been up to.
+      * [Speechless with Carly Fleischmann, Episode 1, Channing Tatum](https://youtu.be/a34qMg0aF6w?si=LhvdlifgcY1Sr8GH)
 * [The Pattern Seekers, Simon-Baron Cohen](https://www.amazon.ca/Pattern-Seekers-Autism-Drives-Invention/dp/1541647149)
   * An ok book, but doesn't add much beyond the research referenced in other books above.
 * [The Explosive Child, Dr. Ross Green](https://www.amazon.ca/Explosive-Child-Sixth-Understanding-Chronically/dp/0063092468)
@@ -66,6 +67,8 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * Movies & Serials
   * [As We See It (2022, Amazon Original)](https://www.imdb.com/title/tt12530128/)
   * [Extreme Love: Autism, Wikipedia](https://en.wikipedia.org/wiki/Extreme_Love:_Autism)
+  * [Float, Disney+](https://disney.fandom.com/wiki/Float_(film))
+    > A father discovers that his son floats, which makes him different from other kids. To keep them both safe from the judgement of the world, Dad hides, covers, and grounds him. But when his son's ability becomes public, Dad must decide whether to run and hide or to accept his son as he is.
   * Pixar's Loop [IMDb](https://www.imdb.com/title/tt9536836/)
     * [Why Pixar’s First Non-Verbal Character In The Short ‘Loop’ Was a Game-Changer, Forbes](https://www.forbes.com/sites/kristenlopez/2020/01/10/why-pixars-first-non-verbal-character-in-the-short-loop-was-a-game-changer/?sh=3ca2b77a284c)
   * Temple Grandin [IMDb](https://www.imdb.com/title/tt1278469/)
@@ -85,9 +88,11 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * [Assume That I Can | Global World Down Syndrome Day 2024 | #EndTheStereotypes](https://www.youtube.com/watch?v=92ivgabfdPQ)
     * Down Syndrome, not Autism related. Has a powerful message with parallels to autism.
   * [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
+  * [Hit me with your Autistic: A Stand Up Comedy Special](https://www.youtube.com/watch?v=1BppE9bM74E)
   * [In My Language](https://www.youtube.com/watch?v=JnylM1hI2jc)
     * An insightful statement about thought, intelligence, personhood, language, and communication.
-  * [Hit me with your Autistic: A Stand Up Comedy Special](https://www.youtube.com/watch?v=1BppE9bM74E)
+  * [Joe Wells - I am Autistic](https://www.youtube.com/watch?v=JCcH2jZVFtk)
+    * Stand-up comedy
   * [Mr. Snayl's Wild Ride](https://www.youtube.com/@MrSnayl): "I make videos about what it's like to operate in the world as an Autistic adult."
   * [Simon Baron-Cohen: Autistic Spectrum Test (Wired 2012)](https://www.youtube.com/watch?v=LYys7rhRcDU)
   * [Non-verbal girl with Autism speaks through her computer 20/20 ABC News](https://www.youtube.com/watch?v=xMBzJleeOno)

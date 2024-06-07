@@ -33,6 +33,9 @@
 
 ![Autism is a journey I never planned but I sure do love my tour guide](./Images/autism%20is%20a%20journey.jpg)
 
+![NeuroWild: Breaks are essential for regularion](./Images/neurowild%20breaks%20are%20essential%20for%20regulation.jpg)
+* [Origin: NeuroWild, Facebook](https://www.facebook.com/story.php?story_fbid=425767590362263&id=100087870753308&mibextid=WC7FNe&rdid=snFEaSqUFxyunePp)
+
 ## Memes
 
 ![Autism is a gift -Neurotypicals](./Images/autism%20is%20a%20gift.jpg)

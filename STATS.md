@@ -18,6 +18,7 @@
 * Autistic children are **6 times more likely to have thoughts of suicide** if they have an IQ of 120 or higher[Autism combined with high IQ increases risk of suicidal thoughts](https://medicine.uiowa.edu/content/autism-combined-high-iq-increases-risk-suicidal-thoughts)
 * [April 2nd annually is World Autism Awareness Day](https://www.un.org/en/observances/autism-day)
 * [Mortality in individuals with autism spectrum disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6713622)
+* [New Study Highlights Mortality & Risk In Autism Wandering/Elopement](https://nationalautismassociation.org/new-study-highlights-lethal-risks-of-missing-persons-with-autism/)
 * [The Autistic Not Weird Autism Survey](https://autisticnotweird.com/autismsurvey/)
   * Survey published in 2022 with over 11,000 respondants.
 * [PERSONS WITH A DISABILITY: LABOR FORCE CHARACTERISTICS — 2023, US Department of Labor](https://www.bls.gov/news.release/pdf/disabl.pdf)

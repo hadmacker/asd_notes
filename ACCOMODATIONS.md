@@ -22,6 +22,12 @@
 
 # IEP (Individualized Education Program)
 
+> Manitoba Education and Early Childhood Learning is committed to fostering inclusion for all people.  
+>  
+> > Inclusion is a way of thinking and acting that allows every individual to feel accepted, valued and safe. An inclusive community consciously evolves to meet the changing needs of its members. Through recognition and support, an inclusive community provides meaningful involvement and equal access to the benefits of citizenship. In Manitoba, we embrace inclusion as a means of enhancing the well-being of every member of the community. By working together, we strengthen our capacity to provide the foundation for a richer future for all of us.  
+>  
+> [Manitoba Student Services](https://www.edu.gov.mb.ca/k12/specedu/index.html#:~:text=Manitoba%20Education%20and%20Early%20Childhood%20Learning%20is%20committed%20to%20fostering,changing%20needs%20of%20its%20members)  
+
 > If they can't learn the way we teach, we teach the way they learn.  
 > Dr. Ivar Lovaas, creator of ABA Therapy.  
 
@@ -33,6 +39,10 @@
 
 > School: We’re not well equipped to meet their needs.  
 > Response: You don’t have to be well equipped. Let’s start with willing and work from there.  
+
+> [Discussing social goals on IEP document]  
+> Yeah, this is a peer problem and not a your son problem. I work in SpEd and hate social skills goals that put the onus on the ND student to mask.  
+> Post found on Reddit r/AutismParenting forum  
 
 * [GOM: Procotol for Early Childhood Transition to School for Children with Additional Support Needs](https://www.gov.mb.ca/healthychild/publications/protocol_early_childhood_transition.pdf)
 * **Presume competence.** Presume that your child is aware and wants to understand. Consider that this might look different than what you expect. (Lei Wiley-Mydske)
