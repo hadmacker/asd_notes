@@ -101,7 +101,7 @@
 
 # Off Topic Quotes
 
-The following quotes are not directly relevant to Autism but may have an indirect relevance for further discussions. Attribution only when known.
+The following quotes might not have direct relevance though may have an indirect relevance for further discussions. Attribution only when known.
 
 > “Have you ever been at sea in a dense fog, when it seemed as if a tangible white darkness shut you in, and the great ship, tense and anxious, groped her way toward the shore with plummet and sounding-line, and you waited with beating heart for something to happen? I was like that ship before my education began, only I was without compass or sounding-line, and had no way of knowing how near the harbour was. "Light! give me light!" was the wordless cry of my soul, and the light of love shone on me in that very hour.”  
 > [Helen Keller, The Story of My Life](https://www.goodreads.com/quotes/506405-have-you-ever-been-at-sea-in-a-dense-fog)  
