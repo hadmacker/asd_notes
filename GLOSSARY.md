@@ -5,6 +5,7 @@
 _The contents of this glossary may include outdated terms, disproven theories, and terms not closely related to Autism Spectrum Disorder that have come up during personal investigation._
 
 * **AAC**: Adaptive and Augmentative Communication Technology. Technology and application-based supports to enable communication through touch.
+  * Most popular AAC app for iPad: [Proloquo2go](https://www.assistiveware.com/products/proloquo2go)
 * **ABA**: See Applied Behavioural Analysis therapy
 * **Ableism**: Discrimination in favour of able-bodied people. [Wikipedia](https://en.wikipedia.org/wiki/Ableism)
 * **ACE**: Adverse Childhood Experience

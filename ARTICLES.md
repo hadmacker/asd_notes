@@ -76,6 +76,8 @@
   * [The Autism Cafe](https://theautismcafe.com)
     * [Autism Quotes](https://theautismcafe.com/autism-quotes/)
   * [Unstrangemind.com](http://unstrangemind.com/)
+* [Q&A: Star Trek’s ‘Data’ on autism, space travel, and the link between humanity and technology](https://www.geekwire.com/2013/brent-spiner-star-trek/)
+  > He didn’t realize it at the time, but when Brent Spiner portrayed an android named “Data,” during 177 episodes of Star Trek, he was an inspiration for those suffering from autism and Asperger syndrome.
 * [Complete Parent's Guide to Autism](https://childmind.org/guide/parents-guide-to-autism/)
 * [Coping with a crisis when you have unreliable or intermittent speech](https://thinkingautismguide.com/2017/11/coping-with-crisis-intermittent-speech.html)
 * [Detoxification and Autism](https://tacanow.org/family-resources/detoxification-and-autism/)

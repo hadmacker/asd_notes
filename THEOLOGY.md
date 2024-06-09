@@ -38,6 +38,11 @@ Verse below should be considered in greater context not addressed here. For rele
 > Do not be afraid; do not be discouraged.  
 > [Deuteronomy 31:8](https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A8&version=NIV)  
 
+> **The Parable of the Great Banquet**  
+> [Luke 14:15-24](https://www.biblegateway.com/passage/?search=luke+14%3A15-24&version=NIV)
+> "Kingdom economics is not based on scarcity but abundance. There is enough for everyone at the table."  
+> [My Body is Not a Prayer Request, Amazon.ca](https://www.amazon.com/Body-Not-Prayer-Request-Disability/dp/1587435454)
+
 > Have I not commanded you? Be strong and courageous.  
 > Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.  
 > [Joshua 1:9 (NIV)](https://www.biblegateway.com/passage/?search=Joshua+1%3A9+&version=NIV)  
@@ -52,8 +57,42 @@ Verse below should be considered in greater context not addressed here. For rele
 > Likewise, two people lying close together can keep each other warm. But how can one be warm alone?  
 > [Ecclesiastes 4:9-11](https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A9-11&version=NLT)  
 
+> Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord promised to those who love him.  
+> [James 1:12](https://www.biblegateway.com/passage/?search=James%201%3A12&version=NIV)
+
+> But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.”  
+> [1 Samuel 16:7](https://www.biblegateway.com/passage/?search=1%20Samuel%2016%3A7&version=NIV)
+
+> For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.  
+> [Jeremiah 29:11](https://www.biblegateway.com/passage/?search=Jeremiah%2029%3A11&version=NIV)
+
+> Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care. And even the very hairs of your head are all numbered. So don’t be afraid; you are worth more than many sparrows.
+> [Matthew 10:29-31](https://www.biblegateway.com/passage/?search=Matthew%2010%3A29-31&version=NIV)
+
+>  In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with the will of God.
+> [Roans 8:26-27](https://www.biblegateway.com/passage/?search=Romans%208%3A26-27&version=NIV)
+* Doesn't this sound like non-verbal autism?
+* "wordless groans" -- Those who are mute, nonverbal, dumb, or silent may be harshly judged for their communication ability.
+
+> This is what the Lord Almighty says: “Once again men and women of ripe old age will sit in the streets of Jerusalem, each of them with cane in hand because of their age.
+> [Zechariah 8:4](https://www.biblegateway.com/passage/?search=Zechariah%208%3A4&version=NIV)
+* In the new Jerusalem, the old will have canes without requiring alteration of the individual.
+
+> See, I will bring them from the land of the north and gather them from the ends of the earth. Among them will be the blind and the lame, expectant mothers and women in labor; a great throng will return.  
+> They will come with weeping; they will pray as I bring them back. I will lead them beside streams of water on a level path where they will not stumble, because I am Israel’s father, and Ephraim is my firstborn son.  
+> [Jer 31:8-9](https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A8-9&version=NIV)
+> The disabled will not always be exiles and outcasts
+
+> As I looked, “thrones were set in place, and the Ancient of Days took his seat. His clothing was as white as snow; the hair of his head was white like wool. His throne was flaming with fire, and its wheels were all ablaze.
+> [Daniel 7:9](https://www.biblegateway.com/passage/?search=Daniel%207%3A9&version=NIV)
+* Could this throne describe a wheelchair?
+* Is there a connection to [Ezekiel 1:15-21](https://www.biblegateway.com/passage/?search=Ezekiel%201%3A15-21&version=NIV)
+
+
 # Articles
 
 * [Reisting Ableism in the American Church](https://sojo.net/articles/resisting-ableism-american-church)
+* [Autistic Jesus](https://reformedjournal.com/autistic-jesus/)
+
 
 [Back to main](README.md)

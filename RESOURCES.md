@@ -55,6 +55,10 @@ While this is not a comprehensive list of all inputs to this document, many of t
 * [The Explosive Child, Dr. Ross Green](https://www.amazon.ca/Explosive-Child-Sixth-Understanding-Chronically/dp/0063092468)
   * Also from same author is this documentary: [The Kids We Lose](https://www.thekidswelose.com/)
     > ...The Kids We Lose is a feature-length documentary film about the human side of being a child or student with behavioral challenges, and the struggles faced by parents, educators, staff in facilities, mental health clinicians, and judicial and law enforcement professionals in trying to ensure that these kids receive the help they need.
+* [Just the Way I Am: God's Good Design in Disability](https://www.amazon.ca/dp/1845508068)
+  * :star: A coffee-table picture book with uplifting Bible verses to encourage those with disabilities.
+* [Dancing with Max: A Mother and Son Who Broke Free](https://a.co/d/bZBpu2V)
+  * :star: Book describes what faith can look like for someone with a disability.
 
 # Conferences, Courses, Webinars, and Community
 

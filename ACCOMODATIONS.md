@@ -2,6 +2,9 @@
 
 # Accommodations
 
+> Civil rights are not guacamole, not an up charge.  
+> Paraphrase from [My Body is Not a Prayer Request, Amazon.ca](https://www.amazon.com/Body-Not-Prayer-Request-Disability/dp/1587435454)
+
 [Accommodations for Autism: 21 Best Recommendations for Learning](https://thehomeschoolresourceroom.com/2021/04/12/accommodations-autism/)
 
 * Additional breaks
