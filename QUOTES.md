@@ -99,12 +99,21 @@
 > We are like freshwater fish in saltwater. Put us in saltwater and we flail around , suffer, struggle, and May even die. Put us in freshwater and we flourish.
 > [The Pattern Seekers, Simon Baron-Cohen](https://www.amazon.ca/Pattern-Seekers-Autism-Drives-Invention/dp/1541647157)
 
+> Normality is not a virtue, and defiance of the norm is not a sin.  
+> Amethyst Schaber  
+
+> The emu is not weaker than the sparrow because it cannot fly.  
+> Attribution unknown, possibly [My Body is Not a Prayer Request, Amazon.ca](https://www.amazon.com/Body-Not-Prayer-Request-Disability/dp/1587435454)
+
 # Off Topic Quotes
 
 The following quotes might not have direct relevance though may have an indirect relevance for further discussions. Attribution only when known.
 
 > “Have you ever been at sea in a dense fog, when it seemed as if a tangible white darkness shut you in, and the great ship, tense and anxious, groped her way toward the shore with plummet and sounding-line, and you waited with beating heart for something to happen? I was like that ship before my education began, only I was without compass or sounding-line, and had no way of knowing how near the harbour was. "Light! give me light!" was the wordless cry of my soul, and the light of love shone on me in that very hour.”  
 > [Helen Keller, The Story of My Life](https://www.goodreads.com/quotes/506405-have-you-ever-been-at-sea-in-a-dense-fog)  
+
+> I bear the image of the Alpha and the Omega. My disabled body is a temple for the Holy Spirit. I have the mind of Christ. There's no caveat to those promises. I don't have a junior holy spirit because I am disabled. To suggest that I am anything less than sanctified and redeemed is to suppress the image of God in my disabled body and to limit how God is already at work through my life.  
+> [My Body is Not a Prayer Request, Amazon.ca](https://www.amazon.com/Body-Not-Prayer-Request-Disability/dp/1587435454)
 
 > Them: I heard autistic folks take everything literally?  
 > Autistic person: No, that’s kleptomaniacs.  

@@ -27,6 +27,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 * It must be so frustrating to not be able to say the things you’re thinking.
 * For those that can’t communicate, they might be Disguised as poor thinkers. (Paul Collins)
 * Something is only funny if we both think it’s funny. I’m not laughing.
+* We call it "Velcro brain": he gets stuck on things and it can be difficult to transition.
 
 
 ## Showing signs of impending meltdown or event
@@ -109,6 +110,10 @@ Praying for a cure is unnecessary and is a sensitive topic. Please check out thi
 [Autism and The Church: Bible, Theology, and Community, Author: Grant Macaskill](https://www.thegospelcoalition.org/themelios/review/autism-and-the-church/)
 
 Individuals with autism are not broken, damaged, faulty, sick, diseased, defective, or cursed. _They have value, unquestionably, without compromise, without change_. We must be mindful to _not assume_ that they are valued only if they are _cured_ or _conform_ to a normative set of typical behaviours.
+
+## “Why am I this way?” (Or "Why are they like this?")
+
+Jesus is the one who really understands and he’s with you every step of the way. Besides, even he asked “why” when he was on the cross. (Matthew 27:46, Mark 15:34)
 
 
 # Myths and Misconceptions
