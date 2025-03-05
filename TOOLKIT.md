@@ -71,5 +71,14 @@
 * [And next comes L](https://www.andnextcomesl.com/)
   * Hyperlexia and Hypernumeracy resources website with some free resources. (Also has some paid resources.)
 * [Numberblocks DIY printable stickers](https://www.keithstoybox.com/p/numberblocks-printables.html)
+* [Access2](https://access2card.ca/apply-first-time/)
+* [Intensive Interaction](https://www.intensiveinteraction.org/)
+
+> They have the right to take up space like anyone else.
+> They do not need someone's permission to exist.
+> They have the right to be themself.
+> Unapologetically and without explanation.
+
+
 
 [Back to main](README.md)

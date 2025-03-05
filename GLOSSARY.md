@@ -18,6 +18,12 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * [What is Applied Behaviour Analysis?, Autismspeaks.org](https://www.autismspeaks.org/applied-behavior-analysis)
   * See Controversies section for further resources.
   * See also: _Masking_, _Scripts_.
+* [Apraxia](https://medlineplus.gov/ency/article/007472.htm)
+  > Apraxia is a disorder of the brain and nervous system in which a person is unable to perform tasks or movements when asked, even though:
+  > The request or command is understood
+  > They are willing to perform the task
+  > The muscles needed to perform the task work properly
+  > The task may have already been learned
 * [Avoidant/Restrictive Food Intake Disorder (ARFID)](https://kidshealth.org/en/parents/arfid.html)
   > Children with ARFID are extremely selective eaters and sometimes have little interest in eating food. They may eat a limited variety of preferred foods, which can lead to poor growth and poor nutrition.
 * **ASC**: Autism Spectrum Condition
@@ -58,6 +64,9 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * DSM-V: 2013. Grouped Autism, Aspergers, PDD-NOS, childhood disintegrative disorder in a new "Autism Spectrum Disorder" classification.
     * :warning: This grouping of disorders is one factor that contributes to an increase in Autism diagnosis statistics and comparison of statistics derived using different diagnostic criteria may be inaccurate or misleading. See also: Autism Speaks Controversies.
 * **Echolalia**: the unsolicited repetition of utterances made by others. This may be in the form of repeating lines from a parent or peer, or lines of script from movies, tv shows, or advertisements. These lines may not directly represent the phrase uttered. See also: Gestalt language processing (GLP).
+* **Ehlers-Danlos Syndromes (EDS)**: Syndromes associated to hypermobility (double-jointedness)
+  * [What is EDS?](https://www.ehlers-danlos.com/what-is-eds/)
+  > Ehlers-Danlos syndromes (EDS)...Some features are seen across all types of EDS, including joint hypermobility, skin hyperextensibility, and tissue fragility.
 * **Electroconvulsive Therapy**: Electroconvulsive Therapy [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/electroconvulsive-therapy/about/pac-20393894)
   > Electroconvulsive therapy (ECT) is a procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure. ECT seems to cause changes in brain chemistry that can quickly reverse symptoms of certain mental health conditions.
 * **Etiology**: the cause or set of causes for a disease or condition
@@ -74,6 +83,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Genotype**: Genetic traits
 * **Gestalt Language Processing (GLP)**: A form of language development that starts with whole memorized phrases instead of individual words. Individual words within a chunk may not be recognized by the person. [Gestalt Language Processing and AAC](https://www.assistiveware.com/blog/gestalt-language-processing-aac)
 * **Global Development Delay**: The term 'developmental delay' or 'global development delay' is used when a child takes longer to reach certain development milestones than other children their age. [Source](https://www.mencap.org.uk/learning-disability-explained/conditions/global-development-delay)
+* **Haphephobia**: A fear of touching or being touched [Wikipedia](https://en.wikipedia.org/wiki/Haphephobia)
 * **Heterogeneity**: Having diverse characteristics or content
 * **Hidden curriculum**: the unwritten, unofficial, and often unintended lessons values and perspectives that students learn in school.
 * **Histrionic Personality Disorder (HPD)**: [Histrionic Personality Disorder (HPD), nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK542325/)
@@ -89,7 +99,10 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   * ICD-11: 2022
   * ICD-10: 2016, 2019
 * **Interoception**: [Wikipedia: Interoception](https://en.wikipedia.org/wiki/Interoception)
-  > Interoception is the collection of senses providing information to the organism about the internal state of the body.
+  * Wikipedia:
+    > Interoception is the collection of senses providing information to the organism about the internal state of the body.
+  * Source Unknown:
+    > Basically, learn the ways in which you can't trust your body. For me it was temperature, hunger, and thirst. I could basically ignore those. Now that I'm paying attention things work better.
 * **Irlen Syndrome**: A visual perceptual processing disorder. Coloured glasses have been shown to improve quality of life.
 * **Joint Attention**: When one purposefully coordinates their focus of attention with that of another person. [unc.edu](https://www.med.unc.edu/healthsciences/asap/materials-1/about-joint-attention/#:~:text=What%20is%20Joint%20Attention%3F,intentionally%20and%20for%20social%20reasons.)
   * Imagine, for example, that a teacher points to her desk and says to a child, “Look at that big apple.” The child looks at the place the teacher has pointed and sees the apple. In this situation, the teacher and the child have engaged in joint attention—that is, they shared attention to the apple on purpose.

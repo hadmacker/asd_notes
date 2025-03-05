@@ -93,6 +93,14 @@
   * "Her IEP provides her with __. How does that look in the classroom?"
   * "How can I help?"
 
+# Therapies
+
+* Spelling to Communicate (S2C)
+  * [What is Spelling to Communicate (S2C)?](https://outoftheboxcounselling.ca/out-of-the-box-services/spelling-to-communicate-s2c/)
+  * [FC: A reminder of what we do and why](https://www.facilitatedcommunication.org/blog/a-reminder-of-what-we-do-and-why)
+    > The I-ASC promotes a variant of facilitated communication known as Spelling to Communicate (S2C).
+  * ['Spelling to Communicate' gives Knoxville man a voice](https://www.youtube.com/watch?v=cPXwbXEA5Mo)
+
 # Travel
 
 * [Travelling with disabilities, gc.ca](https://travel.gc.ca/travelling/health-safety/disabilities)

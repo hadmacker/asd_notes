@@ -15,7 +15,12 @@
     * Unverified source
 * [The Geek Syndrome, Wired.com, Steve Silberman](https://www.wired.com/2001/12/aspergers/)
   > Autism—and its milder cousin Asperger's syndrome—is surging among the children of Silicon Valley. Are math-and-tech genes to blame?
-
+* [GoC: Autism Supports and Services](https://www.canada.ca/en/public-health/services/diseases/autism-spectrum-disorder-asd/supports-services.html)
+* [GoC: Framework for Autism in Canada: Infographic​](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/framework-autism-canada-infographic.html)
+* [GoC: Canada's Autism Strategy pdf](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/diseases-conditions/canada-autism-strategy/canada-autism-strategy.pdf)
+* [Autism and Narcissism: The Complex Connection Analyzed](https://www.brighterstridesaba.com/blog/autism-and-narcissism)
+* [Autism and Narcissism: Differences and Similarities](https://www.crossrivertherapy.com/autism/narcissism)
+* [Narcisissm and Autism](https://www.songbirdcare.com/articles/narcissism-and-autism)
 
 ## Others
 
@@ -112,6 +117,20 @@
 * [What are Vocal Stims](https://exceptionalindividuals.com/about-us/blog/stimming-in-autism-what-are-vocal-stims/)
 * [Why the focus of autism research is shifting away from searching for a 'cure', nbcnews.com](https://www.nbcnews.com/health/kids-health/cure-autism-not-so-fast-n1055921)
 * [SPARK: Special interests in Autism](https://sparkforautism.org/discover_article/special-interests-in-autism/)
+* [10 Things to remember when designing for Autistic people](https://www.re-thinkingthefuture.com/designing-for-typologies/a4944-10-things-to-remember-when-designing-for-autistic-people/)
+* [The ultimate Autism resource](https://embrace-autism.com/)
+* [Body of missing 4-year-old found in Hopkins](https://kstp.com/kstp-news/top-news/police-find-body-of-missing-4-year-old-in-hopkins/)
+* [ASD Level 3: Requiring Very Substantial Support](https://theplaceforchildrenwithautism.com/diagnosing-autism/the-three-levels-of-autism#:~:text=ASD%20level%203%20is%20characterized,well%20as%20response%20to%20others)
+* [Trump Suggested Some With Disabilities ‘Should Just Die,’ Nephew Says](https://www.disabilityscoop.com/2024/07/25/trump-suggested-some-with-disabilities-should-just-die-nephew-says/30983/)
+* [Strange Link Between Board Games And Autism May Finally Be Explained](https://www.sciencealert.com/strange-link-between-board-games-and-autism-may-finally-be-explained)
+* [The Daily Tism](https://thedailytism.com/) (Satire)
+* [Common Traits of Hypernumeracy](https://www.andnextcomesl.com/2023/03/traits-of-hypernumeracy.html)
+* [An Inside View of Autism, Temple Grandin](https://www.iidc.indiana.edu/irca/articles/an-inside-view-of-autism.html)
+* [ASAN Disappointed by Robert F. Kennedy Jr.’s Confirmation to Lead HHS](https://autisticadvocacy.org/2025/02/asan-disappointed-by-robert-f-kennedy-jr-s-confirmation-to-lead-hhs/)
+  * [Reddit r/autisticpride mirror](https://www.reddit.com/r/AutisticPride/comments/1ip29dc/from_autistic_self_advocacy_network_asan/)
+* [Autistic adults thought they were 'bad people'](https://neurosciencenews.com/asd-adults-bad-15180/)
+* [Desperate parents turn to magnetic therapy to help kids with autism. They have little evidence to go on](https://www.latimes.com/science/story/2024-09-05/can-mert-help-kids-with-autism-theres-little-evidence)
+* [Dad of autistic boy says Barton Manor School in Canterbury is ‘obsessed’ with dishing out detentions](https://www.kentonline.co.uk/canterbury/news/dad-of-distraught-autistic-boy-says-school-is-like-a-dete-314435/)
 
 ### Disability (General)
 

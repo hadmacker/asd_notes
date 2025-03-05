@@ -59,6 +59,13 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * :star: A coffee-table picture book with uplifting Bible verses to encourage those with disabilities.
 * [Dancing with Max: A Mother and Son Who Broke Free](https://a.co/d/bZBpu2V)
   * :star: Book describes what faith can look like for someone with a disability.
+* [All Cats Are on the Autism Spectrum: An affirming introduction to autism, Kathy Hoopman](https://www.amazon.ca/dp/1787754715)
+  * :star: Very cute and inspiring look at Autism using cats. Respectfully done.
+* [On the Spectrum: Autism, Faith, and the Gifts of Neurodiversity, Daniel Bowman Jr.](https://www.amazon.com/Spectrum-Autism-Faith-Gifts-Neurodiversity/dp/1587435063)
+  * This book was fine but I feel was better handled by others in this list.
+
+
+Meltdowns are punishing events and the individual has no control over them.
 
 # Conferences, Courses, Webinars, and Community
 
@@ -83,11 +90,16 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * [The Kids We Lose](https://www.thekidswelose.com/about-the-film/)
     * Dr. Ross Greene, author of The Explosive Child
     > A collaboration between Lives in the Balance and Lone Wolf Media, The Kids We Lose is a feature-length documentary film about the human side of being a child or student with behavioral challenges, and the struggles faced by parents, educators, staff in facilities, mental health clinicians, and judicial and law enforcement professionals in trying to ensure that these kids receive the help they need. 
+  * [Alice in Wonderland as an allegory of Autism](https://kirstykendall.com/alice-in-wonderland-autism/)
+  * [The genius of Lewis Carroll and how autism impacts creativity](https://www.beyondautism.org.uk/blog/the-genius-of-lewis-carroll-and-how-autism-impacts-creativity/)
 * Music
   * [Youtube: Flowers are Red, Harry Chapin (Song)](https://youtu.be/4cVpkzZpDBA)
     * Relevance: The improper systemic conditioning of neurotypical responses in children that otherwise have beautiful ideas.
+  * [Eminem - Legacy Lyrics](https://genius.com/Eminem-legacy-lyrics)
+    * Some people interpret this song to be about Autism.
 * Youtube
   * [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
+  * [There's all kinds of autism](https://www.youtube.com/watch?v=MecSNTf4Rw0)
   * [Amythest Schaber, @neurowonderful](https://www.youtube.com/@neurowonderful)
   * [Assume That I Can | Global World Down Syndrome Day 2024 | #EndTheStereotypes](https://www.youtube.com/watch?v=92ivgabfdPQ)
     * Down Syndrome, not Autism related. Has a powerful message with parallels to autism.
@@ -108,8 +120,17 @@ While this is not a comprehensive list of all inputs to this document, many of t
     * [Youtube: TEDx: My brain isn't broken, Tashi Baiguerra](https://www.youtube.com/watch?v=D8j1fcQiyBU)
     * [Youtube: TEDx: Autism is a difference, not a disorder, Katie Forbes](https://www.youtube.com/watch?v=sgOIGv2Vvvs)
     * [YouTube: Inspiration porn and the objectification of disability: Stella Young at TEDxSydney 2014](https://www.youtube.com/watch?v=SxrS7-I_sMQ&pp=ygUdU3RlbGxhIHlvdW5nIGluc3BpcmF0aW9uIHBvcm4%3D)
+    * [2-Minute Neuroscience: Autism](https://www.youtube.com/watch?v=tEBsTX2OVgI)
+    * [What is Autism? Part 1](https://www.youtube.com/watch?v=JPO-uOPK5RI)
+    * [What is Autism? | Cincinnati Children's](https://www.youtube.com/watch?v=hwaaphuStxY)
   * [Vaccines and Autism: A Measured Response](https://www.youtube.com/watch?v=8BIcAZxFfrc)
   * [Non-verbal girl with Autism speaks through her computer 20/20 ABC News](https://youtu.be/xMBzJleeOno)
+  * [Orion Kelly, That Autistic Guy. Author, YouTuber, podcaster, actor, advocate](https://www.youtube.com/@orionkelly)
+  * [Morgan Foley, autistic human, talks about autism, mental health, arts and crafts, and travel. ](https://www.youtube.com/@morgaanfoley)
+  * [Dan LaMorte](https://www.youtube.com/@DLstandup) Stand-up comic
+    * [White Guy with Asperger's | Dan LaMorte - Live at the Comedy Cellar](https://www.youtube.com/watch?v=TpN_eBhDp8o)
+  * [Can you make it to the end? Understand autism, the person and what to do.](https://www.youtube.com/watch?v=aPknwW8mPAM)
+  * [Autism Spectrum: Atypical Minds in a Stereotypical World](https://www.youtube.com/watch?v=j3PrAqJ-H9k)
 * [Dr. Ross Greene: Philosophy for working with kids: Kids do well if they can](https://vimeo.com/78744548)
   * Kids do well... "if they _can_" not "if they _want_".
 * [The Unsolved Puzzle](https://vimeo.com/490850259) A look into the life of living with an autistic family member, challenges and gifts
@@ -119,6 +140,12 @@ While this is not a comprehensive list of all inputs to this document, many of t
     * While not directly relating to ASD or mental conditions, this science fiction short story focuses on the infinite flexibility of a child's mind to see and process the world differently.
 * [Facebook: When He Outgrew Cute](https://m.facebook.com/story.php?story_fbid=pfbid02WT9Y9Dua8k3qCkJSMUaL3kigh5qo53wt4dt2gCzhjZSCqpiUxmqXuXevhVVd27cfl&id=100058036480641&mibextid=qC1gEa)
   * [Cached](./Articles/fb_jessplusthemess_whoc.png)
+* [@lovehopeandautism: Believe in your child so much that the world thinks you're crazy. Then believe more.](https://www.instagram.com/p/C-FnGT7OFre/?igsh=NDd6aW12Znh1OW1z)
+  * [cached](./Images/lovehopeandautism%20believe%20in%20your%20child%20so%20much.png)
+* [@lovehopeandautism: Some disabilities look like this](https://www.instagram.com/p/C_IpEvUuASs/?igsh=dWsxd3l2enQwdTc1)
+  * [cached](./Images//lovehopeandautism%20some%20disabilities%20look%20like%20this.png)
+* [@oscars_autismjourney: Autism. It's never the same day twice. Just don't dare change the routine.](https://www.instagram.com/p/C-kIEx9sbXh/?igsh=czN6aWVycWViY29j)
+  * [cached](./Images/oscars_autismjourney%20just%20dont%20change%20the%20routine.png)
 * Novels
   * [Failure to Communicate (Xandri Corelel Book 1), Kaia Sønderby](https://a.co/g6GgoJK)
     * Science fiction written by an autistic individual about an autistic protagonist
@@ -135,6 +162,13 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * [May I be Excused, My Brain is Full: Olivia's Asperger's Story](https://a.co/d/7bNbD37)
   * [Chester and Gus](https://www.amazon.ca/Chester-Gus-Cammie-McGovern/dp/0062330691)
   * [Rules](https://www.amazon.ca/Rules-Cynthia-Lord/dp/0439443830/)
+
+# Welcome to Holland
+
+* [Link](https://www.emilyperlkingsley.com/welcome-to-holland)
+  * [Cached](./HOLLAND.md)
+* [Welcome to Beirut](https://specialkids.co.za/home/support/item/222-welcome-to-beirut.html)
+  > A new take on the well-known 'Welcome to Holland', this piece gives an entirely different perspective on being a parent to a child with special needs.
 
 # Other Resources
 

@@ -2,12 +2,17 @@
 
 # :fire: **Meltdowns** :fire:
 
-> A meltdown doesn’t always mean that I’m upset. Often, it simply means that I’m depleted.  
->    
-> A meltdown may look like an explosion, but it protects me from implosion.  
+> Meltdowns are an “emotional avalanches”.
+> Meltdowns are punishing events and the individual has _no control_ over them.
 > 
+> Attribution unknown, possibly from [On the Spectrum: Autism, Faith, and the Gifts of Neurodiversity](https://www.amazon.com/Spectrum-Autism-Faith-Gifts-Neurodiversity/dp/1587435063)
+
+> A meltdown doesn’t always mean that I’m upset. Often, it simply means that I’m depleted.  
+>
+> A meltdown may look like an explosion, but it protects me from implosion.  
+>
 > What looks like defiance is often just dysregulation in disguise.
->    
+>
 > [What I mean when I say I'm Autistic. Unpuzzling a life on the Autism Spectrum, Annie Kotowicz](https://www.amazon.ca/What-Mean-When-Say-Autistic/dp/B0BJYSTPW2)  
 
 * Language skills fail during a meltdown. Stop talking.

@@ -9,7 +9,7 @@
 * [Routinefactory.com](https://routinefactory.com)
 * [Numbrillig.ca](https://numbrillig.ca/)
   * Hypernumeracy website, written by myself.
-  * [GitHub: Source code](https://github.com/hadmacker/numbrella) (Formerly code-name _numbrella_)
+  * [GitHub: Source code](https://github.com/hadmacker/numbrella)
 
 ## Products
 
@@ -19,6 +19,7 @@
 * [Nugget play couch](https://nuggetcomfort.com/products/the-nugget-koala)
 * [hand2mind See My Feelings Single Mirror](https://www.target.com/p/hand2mind-see-my-feelings-single-mirror/-/A-86391717)
 * [9x12 whiteboard tablets](https://www.scholarschoice.ca/colorations-single-9-x-12-whiteboard.html)
+* [Autism-Products.com](https://www.autism-products.com/)
 
 ## Stores
 

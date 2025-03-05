@@ -9,7 +9,10 @@
 * [My Body is Not a Prayer Request, Amazon.ca](https://www.amazon.com/Body-Not-Prayer-Request-Disability/dp/1587435454)
   * [A REVIEW OF “MY BODY IS NOT A PRAYER REQUEST”](https://earthandaltarmag.com/posts/a-review-of-my-body-is-not-a-prayer-request)
   > I bear the image of the Alpha and the Omega. My disabled body is a temple for the Holy Spirit. I have the mind of Christ. There's no caveat to those promises. I don't have a junior holy spirit because I am disabled. To suggest that I am anything less than sanctified and redeemed is to suppress the image of God in my disabled body and to limit how God is already at work through my life.
-
+* [Missouri pastor who called autism a ‘demon’ resigns from school board after backlash](https://www.christianpost.com/news/missouri-pastor-who-called-autism-a-demon-resigns.html)
+* [Missouri pastor under fire after preaching autism is caused by the devil: ‘God doesn’t make junk’](https://nypost.com/2023/09/14/missouri-pastor-under-fire-after-preaching-autism-is-caused-by-the-devil/)
+* [Missouri pastor Rick Morrow resigns from school board after claiming that children with autism are possessed by a 'DEMON' and 'God doesn't make mess ups'](https://www.dailymail.co.uk/news/article-12519407/Missouri-pastor-Rick-Morrow-autism-DEMONIC.html)
+* [Missouri Pastor Says Autism Is 'Demonic," Can Be 'Cast Out'](https://www.riverfronttimes.com/news/missouri-pastor-says-autisim-is-demonic-can-be-cast-out-40855355)
 
 # Church Community
 

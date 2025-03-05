@@ -2,6 +2,7 @@
 
 # Law
 
+* :star: [The ADA and Caregivers: Frequently Asked Questions](https://adata.org/factsheet/ada-and-caregivers)
 * :star: [Manitoba: For Parents of a Child with a Disability](https://www.gov.mb.ca/fs/imd/childwdisab.html)
 * :star: [Manitoba Human Rights Commission](https://manitobahumanrights.ca/)
 * [11-year-old Nevada boy with autism kept in metal cage at home; parents charged with child abuse](https://www.nbcnews.com/news/us-news/11-year-old-nevada-boy-autism-kept-metal-cage-home-parents-charged-chi-rcna149375)
@@ -49,6 +50,14 @@
 * [Sexual Victimization in Autism](https://autism.org/sexual-victimization-in-autism/)
 * [What to Do When Your Abusive Partner is Also Your Caregiver](https://www.thehotline.org/resources/what-to-do-when-your-abusive-partner-is-also-your-caregiver/)
 * [Why Does He Do That?: Inside the Minds of Angry and Controlling Men](https://ia600108.us.archive.org/30/items/LundyWhyDoesHeDoThat/Lundy_Why-does-he-do-that.pdf)
+* [In national security, autism is in the closet. Here’s why.](https://www.militarytimes.com/opinion/2023/07/17/in-national-security-autism-is-in-the-closet-heres-why/)
+* [Autistic teen dies after self-harm in Ohio jail | Banfield](https://www.youtube.com/watch?v=JnmdZ9JT_gQ)
+* [Video shows how autistic teen died after 10 hours in Ohio jail. Mother wants his story told](https://www.yahoo.com/news/video-shows-autistic-teen-died-015501219.html)
+* [Here’s how an AI tool may flag parents with disabilities](https://apnews.com/article/child-protective-services-algorithms-artificial-intelligence-disability-02469a9ad3ed3e9a31ddae68838bc76e)
+* [Robert Roberson’s Death Penalty Case Shows How Justice System Fails People With Autism](https://www.themarshallproject.org/2024/09/18/texas-autism-death-penalty-roberson)
+* ['He's going to be in a better place': Florida mom charged with the murder of son with autism](https://abcnews.go.com/US/florida-mom-charged-murder-son-autism/story?id=70848791)
+* [Toni Airaksinen: Autistic teen wins lawsuit after getting railroaded by a Title IX campus court for being “too friendly”](https://medium.com/@tonimaeairaksinen/toni-airaksinen-autistic-male-student-clears-name-in-court-after-false-accusations-of-sexual-4b6f04ce1564)
+* [Settlement reached after child with autism was not let into Cobb County daycare](https://www.wsbtv.com/news/local/cobb-county/settlement-reached-after-child-with-autism-was-not-let-into-cobb-county-daycare/3OFDRZ7TSBE23HORAPMNUTDFQU/)
 
 ## Police Violence Towards Autistic Individuals
 
@@ -65,7 +74,13 @@
 * [Surveillance video shows how an autistic teen died after 10 terrifying hours in Ohio jail](https://www.dispatch.com/story/news/2024/06/01/video-shows-how-an-autistic-teen-died-after-10-hours-in-an-ohio-jail/73208311007/))
 * [Woman with Asperger's shot, killed by police in Arizona](https://www.cnn.com/2016/02/05/us/aspergers-woman-killed/index.html)
 * [Video shows APS officer mace student at Rio Grande HS](https://www.kob.com/new-mexico/video-shows-aps-officer-mace-student-at-rio-grande-hs/)
-
+* Ryan Gainer
+  * [‘A talented, goofy kid’: family of Ryan Gainer, autistic teen killed by police, speak out](https://www.theguardian.com/us-news/2024/mar/21/ryan-gainer-autistic-teen-police-killing-california)
+  * [Bodycam video shows fatal shooting of teen with autism as he approaches California deputy with a gardening tool](https://www.cnn.com/2024/03/14/us/ryan-gainer-shooting-san-bernardino-county-deputies/index.html)
+  * [Ryan Gainer's killing reflects concerns with police force being used on neurodivergent people](https://www.npr.org/2024/03/15/1238876778/ryan-gainers-killing-reflects-concerns-with-police-force-being-used-on-neurodive)
+* [Don't call the Police](https://dontcallthepolice.com/about/)
+  * Alternate local resources as alternatives to calling the Police or 911.
+* [A 13-Year-Old With Autism Got Arrested After His Backpack Sparked Fear. Only His Stuffed Bunny Was Inside.](https://www.propublica.org/article/tennessee-school-threats-arresting-kids-with-disabilities)
 
 ## Media Coverage
 

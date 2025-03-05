@@ -2,6 +2,9 @@
 
 # Individuals within the spectrum
 
+* [Wikipedia: Autistic Actors](https://en.wikipedia.org/wiki/Category:Autistic_actors)
+* [Wikipedia: Autistic Musicians](https://en.wikipedia.org/wiki/Category:Autistic_musicians)
+
 ## Confirmed Diagnosis or Self Disclosed
 
 * [Adhara Pérez Sánchez](https://en.wikipedia.org/wiki/Adhara_P%C3%A9rez_S%C3%A1nchez) Child prodigy
@@ -39,6 +42,11 @@
   * GDD: Learned to speak at 11 years old, read & write at 18.
   * [Youtube: Man who learnt to read at 18 becomes Cambridge University's youngest ever black professor - BBC News](https://youtu.be/g28uXeXz9l8)
 * Jim Sinclair, Autism Activist [Wikipedia](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
+* [Julian Assange](https://assangedefense.org/press-release/day-12-september-23-2020-assangecase/)
+  * Wikileaks
+  * [Julian Assange: 'I am &ndash; like all hackers &ndash; a little bit autistic'](https://www.independent.co.uk/news/uk/home-news/julian-assange-i-am-ndash-like-all-hackers-ndash-a-little-bit-autistic-2358654.html)
+  * [Missing 12-year-old girl with autism found dead in lake near Fulshear home, police say](https://www.dailymail.co.uk/news/article-8764561/Julian-Assange-clearly-autistic-spectrum-doctor-tells-extradition-hearing.html)
+* [Kanye West](https://www.cnn.com/2025/02/06/entertainment/kanye-west-autism/index.html)
 * Lee Felsenstein, Computer pioneer
   * Claimed by [NeuroTribes](https://www.amazon.ca/Neurotribes-Legacy-Autism-Future-Neurodiversity/dp/0399185615)
   * [Wikipedia](https://en.wikipedia.org/wiki/Lee_Felsenstein) makes no mention of it.
@@ -49,10 +57,15 @@
   * [TEDx: Does This Make My Asperger’s Look Big? | Michael McCreary , YouTube](https://www.youtube.com/watch?v=jBVpgyIXllw)
   * [Book: Funny, you don't look autistic, Michael McCreary](https://www.annickpress.com/Books/F/Funny-You-Don-t-Look-Autistic)
 * [Michael John Carley](https://michaeljohncarley.com/books/), Author
+* [MoStack](https://www.youtube.com/watch?v=gkA2cy-xGL8) UK Rapper
+  * [X.com post confirming an autism diagnosis](https://x.com/realmostack/status/1094580559983140864)
 * [Sia](https://en.wikipedia.org/wiki/Sia) Australian singer and songwriter
   * [Sia reveals she's on the autism spectrum years after Music film controversy](https://ew.com/music/sia-reveals-autism-spectrum-music-controversy/)
 * Dr. [Stephen Shore](https://drstephenshore.com/), Professor of special education
 * Stephen Wiltshire, British architectural artist and autistic savant [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wiltshire)
+* Tallulah Willis: Daughter to Demi Moore and Bruce Willis
+  * [TikTok](https://www.tiktok.com/@todayshow/video/7416021291498523947)
+  * [CNN: Bruce Willis’ daughter Tallulah says autism diagnosis has ‘changed my life’](https://www.cnn.com/2024/03/18/entertainment/tallulah-willis-autism/index.html)
 * Dr. Temple Grandin [Wikipedia](https://en.wikipedia.org/wiki/Temple_Grandin) [Official: grandin.com](https://www.grandin.com/)
   * Humane Livestock slaughter, Squeeze machine
 * [Tom Stoltman](https://barbend.com/strongman-tom-stoltman-autism-is-a-superpower/) 2021 World's Strongest Man
@@ -74,10 +87,19 @@ Individuals should research these people independently. A search engine query fo
   * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
 * **Bill Gates**
   * Microsoft, Windows, Malaria Research
+  * [Bill Gates on His Meeting With Trump, Musk’s DOGE, His Childhood](https://www.wsj.com/tech/bill-gates-on-his-meeting-with-trump-musks-doge-his-childhood-d4a02114)
+    > Bill Gates believes he would be diagnosed on the autism spectrum if he were a child today. The billionaire details this realization in his coming book, “Source Code,” which covers his childhood through the beginning of Microsoft.
+* **Carl Friedrich Gauss**: Mathematics, Astronomy, Geodesy, Magnetism
+  * [Wikipedia](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
+  > Gauss was a child prodigy in mathematics...the elementary teachers noticed his intellectual abilities
 * **Charles Babbage**: Father of the modern computer. [Genius, Creativity, and Savantism, pmg.eu](http://professormichaelfitzgerald.eu/genius-creativity-and-savantism/)
 * **Charles Darwin**
   * Theory of Evolution, Natural Selection
   * [Top 5 Scientific Breakthroughs That Could Be Credited to Autism](https://www.appliedbehavioranalysisedu.org/top-5-scientific-breakthroughs-that-could-be-credited-to-autism/)
+* **Chris Rock**: Actor, Comedian
+  * While an Autism diagnosis isn't confirmed, he has been diagnosed with a learning disorder.
+  * [Chris Rock reveals learning disorder diagnosis, says he has 7 hours of therapy a week](https://www.today.com/health/chris-rock-reveals-nonverbal-learning-disorder-diagnosis-t192072)
+  * [Why We Need to Talk About Chris Rock’s Nonverbal Learning Disorder Diagnosis](https://psychcentral.com/disorders/chris-rock-nonverbal-learning-disorder)
 * **David Byrne**: The Talking Heads
   * [YouTube: David Byrne interview mentioning Aspergers](https://www.youtube.com/watch?v=vtX6emk6U5k)
   * [Wikipedia: David Byrne](https://en.wikipedia.org/wiki/David_Byrne)
@@ -110,9 +132,14 @@ Individuals should research these people independently. A search engine query fo
   * A/C Electricity, A/C Motor, Radio-controlled robots
 * **Paul Dirac**: Quantum Mechanics
   * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
+* **Rube Waddell**: Eccentric professional athlete
+  * [Wikipedia: Rube Waddell](https://en.wikipedia.org/wiki/Rube_Waddell)
+  >  Recent commentators such as Bill James have suggested that Waddell suffered from a developmental disability, mental retardation, autism, or attention deficit disorder (ADD). Not much was known about these mental conditions, or their diagnoses, at the time.
 * **Steve Jobs**
   * Apple
 * **Thomas Jefferson**
+* **Tim Burton**: Movie Director
+  * [Does Tim Burton Have Autism Or Asperger's?](https://www.goldenstepsaba.com/resources/does-tim-burton-have-autism)
 * **Vincent Van Gogh**
 
 # Neurodivergent (but not Autistic)

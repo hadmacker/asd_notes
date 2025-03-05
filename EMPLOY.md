@@ -15,6 +15,10 @@
 * [The Truth Of Disability Employment That No One Talks About, Forbes](https://www.forbes.com/sites/sarahkim/2019/10/24/sub-minimum-wages-disability/)
 * [Bureau of Labor Statistics, Persons with a Disability, Labor Force Characteristics 2023](https://www.bls.gov/news.release/pdf/disabl.pdf)
 * [Valuing neurodiversity at CERN - All great minds are not alike!](https://diversity-and-inclusion.web.cern.ch/news/valuing-neurodiversity-cern-all-great-minds-are-not-alike)
+* [ChatGPT is biased against resumes with credentials that imply a disability — but it can improve](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
+* [Star Citizen developer must pay disabled ex-worker $34,200 in return-to-office discrimination case](https://www.techspot.com/news/103641-star-citizen-developer-must-pay-disabled-former-employee.html)
+* [New shocking data highlights the autism employment gap](https://www.autism.org.uk/what-we-do/news/new-data-on-the-autism-employment-gap)
+* [The Buckland Review of Autism Employment: Report and recommendations](https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations)
 
 
 # Academia

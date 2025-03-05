@@ -39,11 +39,41 @@ In the book, [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-
 * [Brain imaging research in autism spectrum disorders: In search of neuropathology and health across the lifespan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465432/)
 * [MRI's link impaired brain activity to inability to regulate emotions in autism](https://www.sciencedaily.com/releases/2015/01/150127100018.htm)
 * [Big Brains and White Matter: New Clues about Autism Subtypes](https://www.sciencedaily.com/releases/2020/12/201217135228.htm)
+* [Hyperlexia: Systematic review, neurocognitive modelling, and outcome](https://www.sciencedirect.com/science/article/pii/S014976341630639X)
+* [Scientists May Have Discovered the First Sign of Autism: An Unusually Large Brain](https://scitechdaily.com/scientists-may-have-discovered-the-first-sign-of-autism-an-unusually-large-brain/)
+* [Embryonic origin of two ASD subtypes of social symptom severity: the larger the brain cortical organoid size, the more severe the social symptoms](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-024-00602-8)
+* [Generation of ‘semi-guided’ cortical organoids with complex neural oscillations](https://www.nature.com/articles/s41596-024-00994-0)
+* [Common brain malformation traced to its genetic roots](https://medicine.washu.edu/news/common-brain-malformation-traced-to-its-genetic-roots/)
+* [Key Brain Differences in Autistic Boys and Girls Identified](https://neurosciencenews.com/asd-brain-male-female-26160/)
+
 
 # Medicine
 
 * [Elevated urine levels of bufotenine in patients with autistic spectrum disorders and schizophrenia](https://pubmed.ncbi.nlm.nih.gov/20150873/)
 * [Scientists Discover Heightened Toxicity Risk For Children With Autism, ADHD](https://www.sciencealert.com/common-plastic-additive-linked-to-autism-and-adhd-scientists-find)
 * [Updated View on the Relation of the Pineal Gland to Autism Spectrum Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6370651/)
+* [Embracing Neurodiversity in Medicine: Insights From an Autistic Medical Student](https://www.pcom.edu/campuses/philadelphia-campus/news-and-events/pcom-news/insights-from-an-autistic-medical-student.html)
+* [Rare Chromosome & Gene Disorder Guides and other Resources](https://rarechromo.org/disorder-guides/)
+
+# General Science
+
+* [Scientists Have Uncovered Autism’s Earliest Biological Signs](https://scitechdaily.com/scientists-have-uncovered-autisms-earliest-biological-signs/)
+* [Earliest Biological Signals of Autism Found in Mini-Brains Experiment](https://www.sciencealert.com/earliest-biological-signals-of-autism-found-in-mini-brains-experiment)
+* [Childhood disintegrative disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC3401658/)
+* [Eye-tracking reveals agency in assisted autistic communication](https://pubmed.ncbi.nlm.nih.gov/32398782/)
+* [PANS/PANDAS in Children with Autism](https://autism.org/pans-pandas-in-children-with-autism/)
+* [What is EDS?](https://www.ehlers-danlos.com/what-is-eds/)
+  > Ehlers-Danlos syndromes (EDS)...Some features are seen across all types of EDS, including joint hypermobility, skin hyperextensibility, and tissue fragility.
+
+# Studies
+
+* [Exploring the association between serum magnesium level and autism spectrum disorder using validated spectrofluorimetric method](https://pubmed.ncbi.nlm.nih.gov/39732320/)
+* [Metalomics Revealed that Changes of Serum Elements were Associated with Oxidative Stress-Induced Inflammation of Cortex in a Mouse Model of Autism](https://pubmed.ncbi.nlm.nih.gov/39733022/)
+* [Signaling in autism: Relevance to nutrients and sex](https://pubmed.ncbi.nlm.nih.gov/39731919/)
+* [Targeting S100A9 attenuates social dysfunction by modulating neuroinflammation and myelination in a mouse model of autism](https://pubmed.ncbi.nlm.nih.gov/39733843/)
+* [Population pharmacokinetic and pharmacodynamic model guided weight-tiered dose of AST-001 in pediatric patients with autism spectrum disorder](https://pubmed.ncbi.nlm.nih.gov/39737066/)
+* [IUPHAR review: Targeted therapies of signaling pathways based on the gut microbiome in autism spectrum disorders: Mechanistic and therapeutic applications](https://pubmed.ncbi.nlm.nih.gov/39733842/)
+* [Adverse Childhood Experiences in Children with Autism Spectrum Disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC6082373/)
+
 
 [Back to main](README.md)

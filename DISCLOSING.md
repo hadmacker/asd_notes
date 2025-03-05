@@ -7,6 +7,8 @@
 * YouTube: [Amazing Things Happen!](https://www.youtube.com/watch?v=Ezv85LMFx2E)
 * YouTube: [Explaining Autistic Experience to Children](https://www.youtube.com/watch?v=GOTdEi9_SI4)
 * [The Do's and Don'ts of telling your child they are Autistic](https://www.differentnotdeficient.co.uk/post/the-dos-and-don-ts-of-telling-your-child-that-they-are-autistic)
+* [@mrsspeechiep: How to tell kids they are autistic](https://www.instagram.com/p/C-oQKP_RmPt/?igsh=OXEzZnAwa2N2dzJ0&img_index=1)
+* [r/autism_parenting: Was there ever a conversation with your kid about their diagnosis?](https://www.reddit.com/r/Autism_Parenting/comments/1hgsdz9/was_there_ever_a_conversation_with_your_kid_about/)
 
 ## Dr. Stephen Shore 4 step process
 

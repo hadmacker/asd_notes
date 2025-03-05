@@ -6,6 +6,7 @@ Several questions below come from [Understanding Autism for Dummies](https://www
 
 ## Briefly:
 
+* They can’t talk right now because they're screaming on the inside.
 * :star: "Let's pause this. He/she needs my immediate attention."
 * They need assistance processing their emotions right now.
 * "They're focused right now" or "They're overwhelmed".
@@ -93,6 +94,11 @@ A meltdown is a response to unique sensory and emotional processing and is not a
 
 * Everyone gets short of breath sometimes, but not everyone has asthma.
 * Just because your blood sugar is impacted by what you eat, this doesn't mean everyone's a little diabetic.
+* Like saying I’m a little blind because I wear glasses.
+
+[@danlamorte (Autistic stand up comic) responds to "Everyone is autistic now"](https://www.instagram.com/p/DAl_bZ2ycil/?igsh=MXU5dGN5Mm91ZGxlaA%3D%3D)
+  * [cached](./Images/danlamorte%20everyone%20is%20autistic%20now.png)
+
 
 ## I’m so sorry for you.
 
