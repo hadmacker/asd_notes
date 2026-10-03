@@ -2,6 +2,33 @@
 
 # Law
 
+## Crisis Intervention
+
+- For immediate danger or urgent medical needs, contact emergency services.
+- Ask dispatch to relay accommodations and, if available, send officers "trained in crisis response or autism-informed communication".
+  - A request is not a guarantee.
+- When there is no immediate danger, consider a local mobile crisis team or another trusted support if available and appropriate.
+- A reminder: [Police are not always on the side of autistic individuals](#police-violence-towards-autistic-individuals) and so describing the developing situation and highlighting the value of a mobile crisis team may facilitate safe conflict resolution.
+- When calling dispatch, share useful specifics, not just a diagnosis:
+  - The person may not answer quickly or make eye contact. 
+  - Please ask one question at a time, allow extra time.
+  - Tell them before approaching or touching them.
+  - Share only what is relevant, safe, and appropriate to disclose.
+
+## Critical Event Game Plan
+  
+- After the incident, document events and request records promptly. 
+  - Note times, names or badge numbers, witnesses, injuries, and exact statements; request relevant school or agency reports and video preservation in writing.
+- Seek medical evaluation and get records.
+- Photograph injuries and log a timeline.  
+- Request school incident report and video preservation in writing.
+- Review IEP/504 safety accommodations.
+- **Contact a parent advocate**, set a meeting with the district and or file a police report.
+- Request that all video footage is pulled, kept, and saved.
+* Document a chronology of activities leading up to, and immediately after, the event.
+
+## News Articles
+
 * :star: [The ADA and Caregivers: Frequently Asked Questions](https://adata.org/factsheet/ada-and-caregivers)
 * :star: [Manitoba: For Parents of a Child with a Disability](https://www.gov.mb.ca/fs/imd/childwdisab.html)
 * :star: [Manitoba Human Rights Commission](https://manitobahumanrights.ca/)
@@ -11,6 +38,7 @@
 * [Australian Terrorism Prediction tool considered autism a sign of criminality despite lack of evidence, theguardian.com](https://www.theguardian.com/australia-news/2023/may/12/australian-terrorism-prediction-tool-considered-autism-a-sign-of-criminality-despite-lack-of-evidence)
 * [Autism center employee charged in sickening caught-on-video assault of toddler](https://nypost.com/2024/05/03/us-news/childs-sickening-assault-at-autism-center-captured-on-video-employee-charged/)
   * :warning: Assault is shown in video shared in linked article above.
+* [Autistic boy was locked in Menifee school restroom for 5½ hours, lawsuit alleges](https://www.pressenterprise.com/2026/06/22/autistic-boy-was-locked-in-menifee-school-restroom-for-5-%C2%BD-hours-lawsuit-alleges/)  
 * [Autistic drivers could find their licenses in legal limbo (Australia)](https://www.abc.net.au/news/2023-11-20/autism-driving-licences-new-standards/103108100)
 * [A Overview of the Americans With Disabilities Act](https://adata.org/factsheet/ADA-overview)
   > Under Title II of the ADA, States are required to place persons with mental disabilities in community settings rather than in institutions when the State's treatment professionals have determined that: (1) community placement is appropriate, (2) the transfer from institutional care to a less restrictive setting is not opposed by the affected individual, and (3) the placement can be reasonably accommodated, taking into account the resources available to the State and the needs of others with mental disabilities.
@@ -58,6 +86,7 @@
 * ['He's going to be in a better place': Florida mom charged with the murder of son with autism](https://abcnews.go.com/US/florida-mom-charged-murder-son-autism/story?id=70848791)
 * [Toni Airaksinen: Autistic teen wins lawsuit after getting railroaded by a Title IX campus court for being “too friendly”](https://medium.com/@tonimaeairaksinen/toni-airaksinen-autistic-male-student-clears-name-in-court-after-false-accusations-of-sexual-4b6f04ce1564)
 * [Settlement reached after child with autism was not let into Cobb County daycare](https://www.wsbtv.com/news/local/cobb-county/settlement-reached-after-child-with-autism-was-not-let-into-cobb-county-daycare/3OFDRZ7TSBE23HORAPMNUTDFQU/)
+* [Suit filed in death of Virginia Beach special education student](https://www.whro.org/virginia-center-for-investigative-journalism/2026-01-12/vcij-suit-sikes)
 
 ## Police Violence Towards Autistic Individuals
 
@@ -78,6 +107,8 @@
   * [‘A talented, goofy kid’: family of Ryan Gainer, autistic teen killed by police, speak out](https://www.theguardian.com/us-news/2024/mar/21/ryan-gainer-autistic-teen-police-killing-california)
   * [Bodycam video shows fatal shooting of teen with autism as he approaches California deputy with a gardening tool](https://www.cnn.com/2024/03/14/us/ryan-gainer-shooting-san-bernardino-county-deputies/index.html)
   * [Ryan Gainer's killing reflects concerns with police force being used on neurodivergent people](https://www.npr.org/2024/03/15/1238876778/ryan-gainers-killing-reflects-concerns-with-police-force-being-used-on-neurodive)
+* Saylor Hayes
+  * [Saylor Hayes’ Parents Arrested and Charged in Connection with 5-Year-Old’s Death](https://people.com/saylor-hayes-parents-arrested-after-5-year-old-found-dead-12076436)
 * [Don't call the Police](https://dontcallthepolice.com/about/)
   * Alternate local resources as alternatives to calling the Police or 911.
 * [A 13-Year-Old With Autism Got Arrested After His Backpack Sparked Fear. Only His Stuffed Bunny Was Inside.](https://www.propublica.org/article/tennessee-school-threats-arresting-kids-with-disabilities)

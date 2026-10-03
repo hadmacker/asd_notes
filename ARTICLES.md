@@ -43,6 +43,13 @@
   * [millermethod.org](http://www.millermethod.org/)
 * **Relationship Development Intervention (RDI)**
   * [autismspeaks.org](https://www.autismspeaks.org/relationship-development-intervention-rdi-0)
+    * [Dynamic vs. Static Intelligence](https://www.rdiconnect.com/dynamic-vs-static-intelligence/)
+* Spelling to Communicate (S2C)
+  * [What is Spelling to Communicate (S2C)?](https://outoftheboxcounselling.ca/out-of-the-box-services/spelling-to-communicate-s2c/)
+  * [FC: A reminder of what we do and why](https://www.facilitatedcommunication.org/blog/a-reminder-of-what-we-do-and-why)
+    > The I-ASC promotes a variant of facilitated communication known as Spelling to Communicate (S2C).
+  * ['Spelling to Communicate' gives Knoxville man a voice](https://www.youtube.com/watch?v=cPXwbXEA5Mo)
+* [Low Arousal Approach](https://en.wikipedia.org/wiki/Low_arousal_approach)
 
 ### Gender
 
@@ -53,6 +60,7 @@
 
 * [‘A lot fell into place’: the adults who discovered they were autistic – after their child was diagnosed](https://www.theguardian.com/society/2021/dec/16/adults-discovered-autistic-child-diagnosed-autism)
 * [Asynchronous Development in Children](https://www.verywellfamily.com/asynchronous-development-1449172)
+* [Autism and Double Empathy problem](https://www.simplypsychology.org/autism-double-empathy-problem.html)
 * [A time and space for Takiwātanga](https://www.altogetherautism.org.nz/a-time-and-space-for-takiwatanga/)
   > **Takiwātanga**: "tōku/tōna anō takiwā" – "my/his/her own time and space".
 * [At the intersection of Autism and Trauma](https://www.spectrumnews.org/features/deep-dive/intersection-autism-trauma/)
@@ -94,6 +102,8 @@
   > “Neurotypical syndrome is a neurobiological disorder characterized by preoccupation with social concerns, delusions of superiority, and obsession with conformity.”
 * [MRI's link impaired brain activity to inability to regulate emotions in autism](https://www.sciencedaily.com/releases/2015/01/150127100018.htm)
 * [Big Brains and White Matter: New Clues about Autism Subtypes](https://www.sciencedaily.com/releases/2020/12/201217135228.htm)
+* [Mother whose son died of undiagnosed eating disorder fears another child could suffer same fate](https://www.itv.com/news/granada/2024-02-13/mother-of-son-who-died-of-undiagnosed-eating-disorder-urges-nhs-to-act)
+  * Undiagnosed ARFID
 * [Once upon a time, I tried to recover my child from Autism](https://autism.typepad.com/autism/2009/01/once-upon-a-time-i-tried-to-recover-my-son-from-autism.html)
 * [Pathological Demand Avoidance (PDA) in kids](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
 * [PTSD and Autism Overlap](https://neurodivergentinsights.com/misdiagnosis-monday/ptsd-and-autism)
@@ -109,6 +119,7 @@
 * [Sensory seeking vs. Sensory avoiding: What you need to know](https://www.understood.org/en/articles/sensory-seeking-and-sensory-avoiding-what-you-need-to-know)
 * [The Cost of Compliance is unreasonable](https://loveexplosions.net/2013/01/30/the-cost-of-compliance-is-unreasonable/)
 * [The Gentrification of Disability, Freddie De Boer, 2022](https://freddiedeboer.substack.com/p/the-gentrification-of-disability)
+* [Long term effects of untreated toe walking](https://my.klarity.health/long-term-effects-of-untreated-toe-walking/)
 * [The "Cure" for Autism and the Fight Over It, Psychology Today, 2009](https://www.psychologytoday.com/ca/blog/my-life-aspergers/200910/the-cure-autism-and-the-fight-over-it)
 * [The Fruits of Damaging Childhood Therapy](http://unstrangemind.com/the-fruits-of-damaging-childhood-therapy/)
 * [Understanding and Treating Self-Injurious Behavior in Autism](https://autism.org/understanding-and-treating-self-injury-book/)

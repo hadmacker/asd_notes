@@ -71,3 +71,14 @@ The last thing to happen is not always the reason for the meltdown.
 * [What causes after school meltdowns and how parents can help](https://www.cbc.ca/news/canada/saskatoon/after-school-meltdowns-what-causes-them-and-how-parents-can-help-1.5741773)
   > The clinical term is _after-school restraint collapse_.
 * [Meltdowns: A guide for all audiences](https://www.autism.org.uk/advice-and-guidance/topics/behaviour/meltdowns/all-audiences)
+* Every child has a pattern of behaviour  
+  - divorce  
+  - Unstructured weekend  
+  - Routine gap  
+  - Lunar cycle? (Owen the moon)  
+  - Period.  
+  - Social: “plans for the weekend?”  
+  - Announcements  
+* Square floor area for meltdowns and disregulation. Floor tape.
+* Successful routine at school often builds from successful routine at home.
+* You can recognize stress brain by their pupils.

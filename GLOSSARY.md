@@ -69,6 +69,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   > Ehlers-Danlos syndromes (EDS)...Some features are seen across all types of EDS, including joint hypermobility, skin hyperextensibility, and tissue fragility.
 * **Electroconvulsive Therapy**: Electroconvulsive Therapy [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/electroconvulsive-therapy/about/pac-20393894)
   > Electroconvulsive therapy (ECT) is a procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure. ECT seems to cause changes in brain chemistry that can quickly reverse symptoms of certain mental health conditions.
+* **Encopresis**: Encopresis is a common condition in children characterized by the involuntary passage of stool in inappropriate places, often due to chronic constipation.
 * **Etiology**: the cause or set of causes for a disease or condition
 * **Executive Functioning**: 
   * The phrase “executive function” refers to a set of skills. These skills underlie the capacity to plan ahead and meet goals, display self-control, follow multiple-step directions even when interrupted, and stay focused despite distractions, among others.
@@ -127,6 +128,8 @@ _The contents of this glossary may include outdated terms, disproven theories, a
   > Oppositional defiant disorder (ODD) is a type of behavior disorder. Children with ODD are uncooperative, defiant, and hostile toward peers, parents, teachers, and other authority figures.  
   * [Oppositional Defiant Disorder (ODD) in Children, Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/oppositional-defiant-disorder#:~:text=ODD%20in%20children-,Oppositional%20defiant%20disorder%20(ODD)%20is%20a%20type%20of%20behavior%20disorder,Developmental%20problems%20may%20cause%20ODD.)  
 * **PANDAS**: Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections. A child may be diagnosed with PANDAS when Obsessive-compulsive disorder (OCD), tic disorder, or both suddenly appear following a steptococcal (strep) infection or if existing OCD/tic disorder symptombs beome worsened after a strep infection. [nih.gov](https://www.nimh.nih.gov/health/publications/pandas)
+* **Paracosm**: A paracosm is an imaginary world, often created and maintained in someone's mind, characterized by detailed rules, characters, geography, and history.
+  * [Wikipedia: Paracosm](https://en.wikipedia.org/wiki/Paracosm)
 * **Passing**: Passing is when an autistic person suppresses everything about themselves to appear neurotypical. 
   * [YouTube: Ask an Autistic #2 - What is Passing?](https://youtu.be/EsH1fX4MM60?si=973o3OgRnijPaxyE)
 * **Pathological Demand Avoidance (PDA)**: All kids avoid doing things they’re asked to do from time to time. But some go to extremes to ignore or resist anything they perceive as a demand. That pattern of behavior is called pathological demand avoidance, or PDA. It is seen most often in people with autism. [childmind.org](https://childmind.org/article/pathological-demand-avoidance-in-kids/)
@@ -140,6 +143,7 @@ _The contents of this glossary may include outdated terms, disproven theories, a
 * **Psychiatry**: The science of the _mind_ specializing in psychological (behavioural) disorders.
 * **Psychopathy**: Mental illness or disorder
 * **Receptive Language**: How your child understands language
+* **[Rejection Sensitivity](https://www.psychologytoday.com/us/basics/rejection-sensitivity)**: Someone high in rejection sensitivity will often interpret benign or mildly negative social cues—such as a partner not answering a text message immediately—as signs of outright rejection.
 * **Rejection Sensitive Dysphoria (RSD)**: 
   * [Rejection Sensitive Dysphoria, Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd)
     > Rejection sensitive dysphoria (RSD) is when you experience severe emotional pain because of a failure or feeling rejected. This condition is linked to ADHD and experts suspect it happens due to differences in brain structure.

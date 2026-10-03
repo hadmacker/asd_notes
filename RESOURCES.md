@@ -63,7 +63,11 @@ While this is not a comprehensive list of all inputs to this document, many of t
   * :star: Very cute and inspiring look at Autism using cats. Respectfully done.
 * [On the Spectrum: Autism, Faith, and the Gifts of Neurodiversity, Daniel Bowman Jr.](https://www.amazon.com/Spectrum-Autism-Faith-Gifts-Neurodiversity/dp/1587435063)
   * This book was fine but I feel was better handled by others in this list.
-
+* Other books on the backlog (not yet read):
+  * [Beyond Behaviours](https://monadelahooke.com/beyond-behaviors/)
+  * [Self-Reg, Dr. Stuart Shanker](https://www.amazon.ca/Self-Reg-Child-Stress-Successfully-Engage/dp/0143191578)
+    * [Self-Reg Schools - A handbook for educators, Dr. Stuart Shanker](https://shop.self-reg.ca/products/self-reg-schools-a-handbook-for-educators)
+    * https://self-reg.ca/
 
 Meltdowns are punishing events and the individual has no control over them.
 
@@ -172,6 +176,13 @@ Meltdowns are punishing events and the individual has no control over them.
 
 # Other Resources
 
+* [Autism Level Up, Amy Laurent](https://autismlevelup.com/)
+* :star: [Rute Mendes](https://rutemendes.ca/)
 * [Resources, Thinking Person's Guide to Autism](https://thinkingautismguide.com/resources)
+* [Social Thinking, Michelle Garcia Winner and team](https://www.socialthinking.com/about)
+  * MGW comes highly recommended from local experts, although their feedback is that her other works are described as more significant than Social Thinking.
+* [Dr. Pooky Nightsmith](https://www.pookyknightsmith.com/)
+  * Autistic author, advocate, and speaker
+* [Sex Ed for Self-Advocates](https://researchautism.org/self-advocates/sex-ed-for-self-advocates/)
 
 [Back to main](README.md)

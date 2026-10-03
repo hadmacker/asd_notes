@@ -48,6 +48,11 @@
 > Post found on Reddit r/AutismParenting forum  
 
 * [GOM: Procotol for Early Childhood Transition to School for Children with Additional Support Needs](https://www.gov.mb.ca/healthychild/publications/protocol_early_childhood_transition.pdf)
+* SPECIAL PROJECT ON THE RIGHTS OF STUDENTS WITH READING DISABILITIES
+  * [Project Home](https://www.manitobahumanrights.ca/education/consultations/reading_disabilities.html)
+  > Supporting the Right to Read: The Manitoba Human Rights Commission is undertaking a Special Project on the Human Rights Issues affecting Students with Reading Disabilities in Manitoba’s Education system
+  * [Phase One Findings](https://www.mbschoolboards.ca/wp-content/uploads/2025/11/Presentation-2-Human-Rights-Commission-Phase-one-Report.pdf)  
+  * [Phase 1 Report](https://www.manitobahumanrights.ca/education/pdf/public-consultations/supportingrighttoread.pdf)  
 * **Presume competence.** Presume that your child is aware and wants to understand. Consider that this might look different than what you expect. (Lei Wiley-Mydske)
   * The above is confirmed by the presense of books including:
     * [The Reason I Jump, Naoki Higashida](https://www.amazon.ca/Reason-Jump-Inner-Thirteen-Year-Old-Autism/dp/0345807820)
@@ -92,14 +97,8 @@
   * "It seems as if she has a harder time doing __ when __."
   * "Her IEP provides her with __. How does that look in the classroom?"
   * "How can I help?"
+* [How Does Anxiety Affect School Performance and Learning?](https://scienceinsights.org/how-does-anxiety-affect-school-performance-and-learning/)
 
-# Therapies
-
-* Spelling to Communicate (S2C)
-  * [What is Spelling to Communicate (S2C)?](https://outoftheboxcounselling.ca/out-of-the-box-services/spelling-to-communicate-s2c/)
-  * [FC: A reminder of what we do and why](https://www.facilitatedcommunication.org/blog/a-reminder-of-what-we-do-and-why)
-    > The I-ASC promotes a variant of facilitated communication known as Spelling to Communicate (S2C).
-  * ['Spelling to Communicate' gives Knoxville man a voice](https://www.youtube.com/watch?v=cPXwbXEA5Mo)
 
 # Travel
 

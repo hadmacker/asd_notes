@@ -62,18 +62,23 @@ In the book, [The Autistic Mind, Temple Grandin](https://www.amazon.ca/Autistic-
 * [Childhood disintegrative disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC3401658/)
 * [Eye-tracking reveals agency in assisted autistic communication](https://pubmed.ncbi.nlm.nih.gov/32398782/)
 * [PANS/PANDAS in Children with Autism](https://autism.org/pans-pandas-in-children-with-autism/)
+* [Understanding why autism symptoms sometimes improve amid fever](https://news.mit.edu/2024/understanding-why-autism-symptoms-sometimes-improve-amid-fever-0523)  
 * [What is EDS?](https://www.ehlers-danlos.com/what-is-eds/)
   > Ehlers-Danlos syndromes (EDS)...Some features are seen across all types of EDS, including joint hypermobility, skin hyperextensibility, and tissue fragility.
 
 # Studies
 
 * [Exploring the association between serum magnesium level and autism spectrum disorder using validated spectrofluorimetric method](https://pubmed.ncbi.nlm.nih.gov/39732320/)
+* [Mental health outcomes associated with applied behavior analysis (ABA) in a US national sample of privately insured autistic youth - PubMed](https://pubmed.ncbi.nlm.nih.gov/41206741/)  
 * [Metalomics Revealed that Changes of Serum Elements were Associated with Oxidative Stress-Induced Inflammation of Cortex in a Mouse Model of Autism](https://pubmed.ncbi.nlm.nih.gov/39733022/)
 * [Signaling in autism: Relevance to nutrients and sex](https://pubmed.ncbi.nlm.nih.gov/39731919/)
 * [Targeting S100A9 attenuates social dysfunction by modulating neuroinflammation and myelination in a mouse model of autism](https://pubmed.ncbi.nlm.nih.gov/39733843/)
 * [Population pharmacokinetic and pharmacodynamic model guided weight-tiered dose of AST-001 in pediatric patients with autism spectrum disorder](https://pubmed.ncbi.nlm.nih.gov/39737066/)
 * [IUPHAR review: Targeted therapies of signaling pathways based on the gut microbiome in autism spectrum disorders: Mechanistic and therapeutic applications](https://pubmed.ncbi.nlm.nih.gov/39733842/)
 * [Adverse Childhood Experiences in Children with Autism Spectrum Disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC6082373/)
+* [Do Neurotypical People Like or Dislike Autistic People?](https://pubmed.ncbi.nlm.nih.gov/36605364/)
+* [Autistic people communicate just as effectively as others, study finds](https://www.nottingham.ac.uk/news/autistic-people-communicate-just-as-effectively-as-others-study-finds)
+
 
 
 [Back to main](README.md)

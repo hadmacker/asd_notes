@@ -9,8 +9,14 @@
 
 * [Adhara Pérez Sánchez](https://en.wikipedia.org/wiki/Adhara_P%C3%A9rez_S%C3%A1nchez) Child prodigy
   * [‘To Change the World': Girl, 8, Has an IQ of 162, Hopes to Become Astronaut](https://www.nbcsandiego.com/news/local/to-change-the-world-girl-8-has-an-iq-of-162-hopes-to-become-astronaut/2279752/)
+* [Armani Williams - Wikipedia](https://en.wikipedia.org/wiki/Armani_Williams)  
+  * Race car driver in NASCAR Xfinity Series
+  > Armani Williams is an American professional stock car racing driver who last competed part-time in the NASCAR Xfinity Series, driving the No. 6 Ford Mustang for MBM Motorsports, and part-time in the ARCA Menards Series, driving the No. 13 Toyota Camry for MBM Motorsports. Williams is the first NASCAR driver openly diagnosed on the autism spectrum.
 * [Austin Riley](https://www.ctvnews.ca/w5/canadian-race-car-driver-austin-riley-inspires-on-and-off-the-track-1.6629956)
   * Race car driver
+* Bella Ramsey
+  * Actor, HBO's The Last Of Us.
+  * [“There’s No Reason For People Not To Know”: Bella Ramsey Opens Up About Their Liberating Autism Diagnosis & The Epic New Season Of The Last Of Us](https://www.vogue.co.uk/article/bella-ramsey-british-vogue-interview)
 * Bram Cohen: BitTorrent creator, diagnosed with Aspergers [Bloomberg.com](https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers)
 * Chris Fischer, husband to actress and comedian Amy Schumer [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fischer)
 * [Courtney Love](https://the-genius-of-autism.fandom.com/wiki/Courtney_Love), Musician
@@ -39,7 +45,9 @@
 * [Holly Madison](https://people.com/holly-madison-intimate-emotional-connection-boyfriend-autism-diagnosis-exclusive-8621140): Model and Actress
   * Diagnosed at 42 years of age.
 * Jason Arday [Wikipedia](https://en.wikipedia.org/wiki/Jason_Arday)
-  * GDD: Learned to speak at 11 years old, read & write at 18.
+  * GDD: Learned to speak at 11 years old, read & write at 18. Cambridge University's youngest ever black professor.
+  * [The Jason Arday controversy: Explaining the University of Cambridge scandal rocking British academia](https://www.euronews.com/culture/2026/08/10/the-jason-arday-controversy-explaining-the-university-of-cambridge-scandal-rocking-british) 
+  * [Jason Arday’s heartbroken family pay tribute after former professor found dead at home following Cambridge scandal](https://www.thesun.co.uk/news/40065690/jason-arday-found-dead-cambridge-plagiarism-scandal/)  
   * [Youtube: Man who learnt to read at 18 becomes Cambridge University's youngest ever black professor - BBC News](https://youtu.be/g28uXeXz9l8)
 * Jim Sinclair, Autism Activist [Wikipedia](https://en.wikipedia.org/wiki/Jim_Sinclair_(activist))
 * [Julian Assange](https://assangedefense.org/press-release/day-12-september-23-2020-assangecase/)
@@ -52,6 +60,8 @@
   * [Wikipedia](https://en.wikipedia.org/wiki/Lee_Felsenstein) makes no mention of it.
   * [(Broken link) leefelsenstein.com](http://www.leefelsenstein.com/wp-content/uploads/2013/01/My-Path-Through-the-FSM-and-Beyond.pdf) [Cached](./Articles/felsenstein.com/My%20Path%20Through%20the%20FSM%20and%20Beyond.html), reveals an Aspergers diagnosis.
 * Liane Holliday Willey: Author, Autism Educator, Speaker [aspie.com](http://www.aspie.com/)
+* Lucy Bronze, Football (Soccer) player  
+  * [Having autism works to my advantage in football, says England and Chelsea player, BBC Sport](https://www.bbc.com/sport/football/articles/c70el9el7x9o)  
 * [Marty Balin](https://thecommonthreadgroup.com/rock-and-roll-hall-of-fame-inductee-marty-balin/), Singer for Jefferson Airplane
 * [Michael McCreary]() Comedian, Author
   * [TEDx: Does This Make My Asperger’s Look Big? | Michael McCreary , YouTube](https://www.youtube.com/watch?v=jBVpgyIXllw)
@@ -59,6 +69,9 @@
 * [Michael John Carley](https://michaeljohncarley.com/books/), Author
 * [MoStack](https://www.youtube.com/watch?v=gkA2cy-xGL8) UK Rapper
   * [X.com post confirming an autism diagnosis](https://x.com/realmostack/status/1094580559983140864)
+* [Rick Glassman](https://en.wikipedia.org/wiki/Rick_Glassman)
+  * Actor and comedian
+* [Robbie Williams shares autism diagnosis](https://www.nme.com/news/music/robbie-williams-shares-autism-diagnosis-3962556)
 * [Sia](https://en.wikipedia.org/wiki/Sia) Australian singer and songwriter
   * [Sia reveals she's on the autism spectrum years after Music film controversy](https://ew.com/music/sia-reveals-autism-spectrum-music-controversy/)
 * Dr. [Stephen Shore](https://drstephenshore.com/), Professor of special education
@@ -70,6 +83,8 @@
   * Humane Livestock slaughter, Squeeze machine
 * [Tom Stoltman](https://barbend.com/strongman-tom-stoltman-autism-is-a-superpower/) 2021 World's Strongest Man
 * [Tony Snell](https://people.com/nba-star-tony-snell-autism-diagnosis-at-31-7548235#:~:text=After%20taking%20that%20initiative%20last,%2C%20speech%20and%20nonverbal%20communication.%22), NBA player
+* [Wentworth Miller](https://www.myautism.org/news-features/actor-wentworth-miller-reveals-hs-autism-diagnosis)  
+  * Actor
 * [Yuh-Line Niou](https://en.wikipedia.org/wiki/Yuh-Line_Niou): American politician who served as a member of the New York State Assembly for the 65th district.
 
 ## Suspected or Observed Diagnosis (Not formally diagnosed)
@@ -119,6 +134,8 @@ Individuals should research these people independently. A search engine query fo
   * [Wikipedia](https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie)
 * **Isaac Newton** Gravity
   * [nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539373/#:~:text=According%20to%20the%20standard%20criteria,with%20any%20form%20of%20autism.)
+* [Mark DeFriest](https://en.wikipedia.org/wiki/Mark_DeFriest)  
+  * "the Houdini of Florida", known for his repeated escapes from prison.
 * **Mark Zuckerberg** Facebook, Meta
   * [goldenstepsaba](https://www.goldenstepsaba.com/resources/is-mark-zuckerberg-autistic#:~:text=on%20the%20spectrum.-,In%202013%2C%20Zuckerberg%20made%20a%20public%20statement%20that%20he%20has,a%20milder%20form%20of%20autism). Claims not confirmed by reliable sources.
 * **Marie Curie**: Discovered Radium, Polonium. Nuclear research.
